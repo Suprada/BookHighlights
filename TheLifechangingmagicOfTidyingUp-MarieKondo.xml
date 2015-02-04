@@ -1,0 +1,521 @@
+<book>
+	<title>
+		The Life Chnaging Magic of Tidying Up : the Japanese Art of Decluttering and Organizing
+	</title>
+	<authors>
+		Marie Kondo
+	</authors>
+	<source>
+		Library paper book
+	</source>
+
+	<highlights>
+		<highlight isNoteOnly="false">
+			<highlightID>1</highlightID>
+			<text>
+				They are surrounded only by the things they love.
+			</text>
+			<location>5</location>
+			<note>guideline</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>2</highlightID>
+			<text>
+				Effective tidying involves only two essential actions: discarding and deciding where to store things. Of the two, discardng must come first.
+			</text>	
+			<location>28</location>
+			<note>what is tidying</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>3</highlightID>
+			<text>
+				Think in concrete terms so that you can vividly picture what it would be like to live in a clutter-free space.
+			</text>
+			<location>36</location>
+			<note>how to choose</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>4</highlightID>
+			<text>
+				Your next step is to identify <em>why</em> you want to live like that. Look back over your notes about the kind of lifestyle you want to live like that. Look back over your notes about the kind of lifestyle you want, and think again.
+			</text>
+			<location>38</location>
+			<note>how to choose</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>5</highlightID>
+			<text>
+				we should be choosing what to keep, not what we want to get rid of.
+			</text>
+			<location>41</location>
+			<note>how to choose</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>6</highlightID>
+			<text>
+				take each item in one's hand and ask: "Does this spark joy?" if it does, keep  it. If not, dispose of it. This is not only the simplest but also the most accurate yardstick by which to judge. 
+				You may wonder about the effectiveness of such vague criteria, but the trick is to handle each item.
+			</text>
+			<location>41</location>
+			<note>how to choose</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>7</highlightID>
+			<text>
+				For this reason, I recommend that you always think in terms of category, not place. 
+			</text>
+			<location>43</location>
+			<note>how to tidy, one category at a time</note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>8</highlightID>
+			<text>
+				People have trouble discarding things that you can still use (functional value), that contain helpful information (informational value), and that have sentimental ties (emotional value). When these things are hard to obtain or replace (rarity), they become even harder to part with.
+			</text>
+			<location>45</location>
+			<note>categories of things in terms of value</note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>9</highlightID>
+			<text>
+				The best sequence is this: clothes first, then books, papers, <em>komono</em> (miscllany), and lastly, mementos.
+			</text>
+			<location>46</location>
+			<note>tidying sequence</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>10</highlightID>
+			<text>
+				To quietly work away at disposing of your own excess is actually the best way of dealing with a family that doesn't tidy.
+			</text>
+			<location>52</location>
+			<note>family</note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>11</highlightID>
+			<text>
+				The work of carefully considering each object I own to see whether it sparks joy inside me is like conversing with myself through the medium of my posessions.
+					For this reason, it is essential to create a quiet space in which to evaluate the things in your life. 
+			</text>
+			<location>58</location>
+			<note>what is tidying</note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>15</highlightID>
+			<text>
+				My criterion for deciding to keep an item is that we should feel a thrill of joy when we touch it.
+			</text>
+			<location>59</location>
+			<note>how to choose</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>13</highlightID>
+			<text>
+				If, for example, you have some clothes that you bought but never wear, examine them one at a time. Where did you buy that particular outfit and why? If you bought it because it looked cool in the shop, it has fulfilled the purpose of giving you a thrill when you bought it. Then why did you never wear it? Was it because you realized that it didn't suit you when you tried it on at home? If so, and if you no longer buy clothes of the same style or color, it has fulfilled another important function - it has taught you what doesn't suit you. In fact, that particular piece of clothing has already completed its role in your life, and you are free to say, "Thank you for giving me joy when I bought you," or "Thank you for teaching me what doesn't suit me," and let it go.
+			</text>
+			<location>60</location>
+			<note>how to let go of clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>14</highlightID>
+			<text>
+				When you come across something that you cannot part with, think carefully about its true purpose in your life. You'll be surprised at how many of the things you possess have already fulfilled their role. By acknowledging their contribution and letting them go with gratitude, you will be able to truly put the things you own, and your life, in order.
+			</text>
+			<location>61</location>
+			<note>how to let go</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>15</highlightID>
+			<text>
+				For the first category, clothing, I recommend dividing furhur into the following subcategories to increase efficiency:
+					Tops (shirts, sweaters, etc.)
+					Bottoms (pants, skirts, etc.)
+					Clothes that should be hung (jackets, coats, suits, etc.)
+					Socks
+					Underwear
+					Bags (handbags, messsenger bags, etc.)
+					Accesories (scarves, belts, hats, etc.)
+					Clothes for specific events (swimsuits, kimonos, uniforms, etc.)
+					Shoes
+			</text>
+			<location>65</location>
+			<note>tidying sequence, for clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>15</highlightID>
+			<text>
+				The important point, however, is deciding what to keep. What things will bring you joy if you keep them as part of your life? Pick them as if you were identifying items you love from a showcase in your favorite store. Once you've grasped the basics, put all your clothes in one heap, take them in your hand one by one, and ask yourself quietly, "Does this spark joy?" Your tidying festival has begun.
+			</text>
+			<location>66</location>
+			<note>how to choose, tidying clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>16</highlightID>
+			<text>
+				The most important points to remember are these: Make sure you gather every piece of clothing in the house and be sure to handle each one.
+			</text>
+			<location>68-69</location>
+			<note>tidying clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>17</highlightID>
+			<text>
+				Downgrading to "loungewear" is taboo.
+			</text>
+			<location>69</location>
+			<note>tidying clothes, loungewear</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>18</highlightID>
+			<text>
+				By neatly folding clothes, you can solve almost any problem related to storage.
+					But that is not the only effect of folding. The real benefit is that you must handle each piece of clothing. As you run your hands over the cloth, you pour your energy into it. The Japanese word for healing is <em>te-ate</em>, which literally means "to apply hands."
+			</text>
+			<location>72</location>
+			<note>on folding clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>19</highlightID>
+			<text>
+				Folding is generally a form of dialogue with our wardrobe. Japanese traditional clothing, kimono and yukata, were always folded into rectangles to fit perfectly into drawers designed to their uniform dimensions.
+			</text>
+			<location>74</location>
+			<note>on folding clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>20</highlightID>
+			<text>
+				The first step is to visualize what the inside of your drawer will look like when you finish. The goal should be to organize the contents so that you can see where every item is at a glance, just as you can see the spines of the books on your bookshelves. The key is to store things standing up rather than laid flat.
+			</text>
+			<location>75</location>
+			<note>on folding clothes, how to fold clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>21</highlightID>
+			<text>
+				To store clothing standing, they must be made compact, which meand more folds.
+			</text>
+			<location>75</location>
+			<note>on folding clothes, how to fold clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>22</highlightID>
+			<text>
+				The goal os to fold each piece of clothing into a simple, smooth rectangle.
+			</text>
+			<location>76</location>
+			<note>on folding clothes, how to fold clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>23</highlightID>
+			<text>
+				The most basic rule is to hang clothes in the same category side by side, dividing your closet into a jacket section, a suit section, and so on.
+			</text>
+			<location>78</location>
+			<note>how to store clothes</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>24</highlightID>
+			<text>
+				"Please start by removing every book from your shelves and putting them all on the floor."
+				...
+					Taking them all off the shelf seems like a waste of effort. Even so, do not skip this step. Remove all the books from your bookcases. You cannot judge whether or not a book really grabs you when it's still on the shelf. 
+			</text>
+			<location>86-87</location>
+			<note>how to tidy books</note>
+		</highlight>
+
+	<highlight isNoteOnly="false">
+			<highlightID>25</highlightID>
+			<text>
+				I ask my clients to divide them into four categories:
+					General (books you read for pleasure)
+					Practical (references, cookbooks, etc.)
+					Visual (photographs, collections, etc.)
+					Magazines
+				Once you have piled your books, take them in your hand one by one and decide whether you want to keep or discard each one. The criterion is, of course, whether or not it gives a thrill of pleasure when you touch it. Remember, I said when you <em>touch</em> it. Make sure you don't start reading it. reading clouds your judgement. Instead of asking yourself what you feel, you'll start asking whether you need that book or not.
+			</text>
+			<location>88</location>
+			<note>how to tidy books, book categories</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>26</highlightID>
+			<text>
+				Recently, I have noticed that having fewer books actually increases the impact of the information I read.
+			</text>
+			<location>95</location>
+			<note>insight on reading books, intersting</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>27</highlightID>
+			<text>
+				For books, timing is everything. the moment you first encounter a particular book is the right time to read it. To avoid missing the moment, I recommend that you keep you collection small.
+			</text>
+			<location>95</location>
+			<note>insight on reading books, intersting</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>28</highlightID>
+			<text>
+				I recommend you dispose of anything that does not fall into one of three categories: currently in use, needed for a limited period of time, or must be kept indefinitely.
+			</text>
+			<location>97</location>
+			<note>sorting paper, paper categories</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>29</highlightID>
+			<text>
+				The basic order for sorting <em>komono</em> is as follows:
+				1. CDs, DVDs
+				2. Skin care products
+				3. Makeup
+				4. Accesories
+				5. Valuables (passports, credit cards, etc.)
+				6. Electrical equipment and appliances (digita camers, electrical cords, anything that seems vaguely electric)
+				7. Household equipment (stationary and writing materials, sewingkits, etc.)
+				8. Household supplies (expendables like medicine, detergents, tissues, etc.)
+				9. Kitchen goods/food suplies (spatulas, pots, blenders, etc. )
+				10. Other (Spare change, figurines, etc.)
+				(If you have items related to a particular interest or hobby, such as ski equipment or tea ceremony articles, treat these as a single subcategory.)
+			</text>
+			<location>106</location>
+			<note>sorting stuff, order for sorting stuff</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>30</highlightID>
+			<text>
+				"Choose things that spark joy when you touch them."
+				"Hang those clothes that would be happier on hangers."
+				"Don't worry about throwing too much. There will come a moment when you know what is just right."
+				If you have read this far, you have probably noticed that feelings are the standard for decision making.
+			</text>
+			<location>125</location>
+			<note>how to choose, feelings based (like Danielle La Porte?)</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>31</highlightID>
+			<text>
+				The point in deciding specific places to keep things is to designate a spot for <em>every</em> thing.
+			</text>
+			<location>131</location>
+			<note>a place for every thing</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>32</highlightID>
+			<text>
+				So decide where your things belong and when you finish using them, put them there. This is the main requirement for storage.
+			</text>
+			<location>132,133</location>
+			<note>a place for every thing</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>33</highlightID>
+			<text>
+				The real problem is that we have far more than we need or want. Once you learn to choose your belongings properly, you will be left only with the amount that fits perfectly in the space you currently own. This is the true magic of tidying. 
+			</text>
+			<location>133</location>
+			<note>quantity of belongings</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>34</highlightID>
+			<text>
+				If you live with your family, first clearly define separate storage sapces for each family member. 
+				...
+				The important point here is to designate only one place per person if at all possible. In other words, storage should be focused on one spot only.
+			</text>
+			<location>139</location>
+			<note>per person storage, family storage ideas</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>35</highlightID>
+			<text>
+				But not having a space you can call your own is dangerous. Everyone needs a sanctuary.
+			</text>
+			<location>140</location>
+			<note>sanctuary</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>36</highlightID>
+			<text>
+				When you are choosing what to keep, ask your heart; when you are choosing where to store something, ask your house.
+			<location>144</location>
+			<note>choosing and storing</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>37</highlightID>
+			<text>
+				In contrast, when things are stored vertically, any increase takes up space and you will eventually run out of storage area. When you do, you'll notice, "Ah, I'm starting to accumulate stuff again."
+			</text>
+			<location>145</location>
+			<note>vertical storage</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>38</highlightID>
+			<text>
+				Items that usurp floor space belong in the closet.
+			</text>
+			<location>155</location>
+			<note>closet vs. floor space</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>39</highlightID>
+			<text>
+				Make the top shelf of the bookcase your personal shrine.
+			</text>
+			<location>160</location>
+			<note>personal shrine</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>40</highlightID>
+			<text>
+				One theme underlying my method of tidying is transforming the home into a sacred space, a power spot filled with pure energy. 
+			</text>
+			<location>161</location>
+			<note>woo-woo</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>41</highlightID>
+			<text>
+				Transform your closet into your own private space, one that gives you a thrill of pleasure. 
+			</text>
+			<location>162</location>
+			<note>personal shrine, secret closet</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>42</highlightID>
+			<text>
+				One of the homework assignments I give my clients is to appreciate their beongings. For example, I urge them to try saying, "Thank you for keeping me warm all day," when they hang up their clothes after returning home.
+			</text>
+			<location>168</location>
+			<note>gratitude, things are people too</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>43</highlightID>
+			<text>
+				At their core, the things we really like do not change over time. Putting your house in order is a great way to discover what they are.
+				One of my clients has been a good friend  of mine since college. Although she originally worked for a major IT company after graduating, she discovered what she really liked to do through tidying.
+			</text>
+			<location>175</location>
+			<note>secret to tidying</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>43</highlightID>
+			<text>
+				letting go is even more important than adding.
+			</text>
+			<location>177</location>
+			<note>secret to tidying</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>44</highlightID>
+			<text>
+				"Discard anything that doesn't spark joy." If you have tried this method even a little, you have realized by now that it is not that difficult to identify something that brings you joy. The moment you touch it, you know the answer.
+			</text>
+			<location>181</location>
+			<note>how to choose, how to discard</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>45</highlightID>
+			<text>
+				But when we really delve into the reasons for why we can't let  something go, there are only two: an attachment to the past or a fear of the future.
+				During the selection process, if you come across something that does not spark joy but that you just can't bring to throw away, stop a moment and ask yourself, "Am I having trouble getting rid of this becaude of an attachment to the past or because of a fear of the future?"
+			</text>
+			<location>181</location>
+			<note>reason for inability to discard</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>47</highlightID>
+			<text>
+				It's important to understand your ownership pattern because it is an expression of the values that guide your life. The question of what you want to own is actually the question of how you want to live your life.
+			<text>
+			<location>182</location>
+			<note>owning, living your life</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>48</highlightID>
+			<text>
+				Do you greet your house?
+			</text>
+			<location>188</location>
+			<note>greeting the house</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>49</highlightID>
+			<text>
+				It's a very strange phenomenon, but when we reduce what we own and essentially "detox" our house, it has a detox effct on our bodies as well.
+			</text>				
+			<location>189</location>
+			<note>detox</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>50</highlightID>
+			<text>
+				These are the types of things that you should boldly hang on to. If you can say without a doubt, "I really like this!" no matter what anyone else says, and if you like yourself for having it, then ignore what other people think.
+			</text>				
+			<location>202</location>
+			<note>when to hang on</note>
+		</highlight>
+
+
+		<highlight isNoteOnly="false">
+			<highlightID>9</highlightID>
+			<reference>Less Than One</reference>	
+			<referenceauthors>Joseph Bodsky</referenceauthors>
+			<toRead>1</toRead>
+			<location>xxv</location>
+			<note>Book to read. Essays </note>
+		</highlight>
+
+		
+		
+	</highlights>
+</book>
