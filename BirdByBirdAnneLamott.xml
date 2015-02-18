@@ -1,80 +1,214 @@
 <book>
-	<title>
-		Bird By Bird
-	</title>
-	<authors>
-		Anne Lamott
-	</authors>
-	<source>
-		Library paper book
-	</source>
+  <title>
+    Bird By Bird
+  </title>
+  <authors>
+    Anne Lamott
+  </authors>
+  <source>
+    Library paper book
+  </source>
 
-	<highlights>
-		<highlight isNoteOnly="false">
-			<highlightID>1</highlightID>
-			<text>
-				Every morning, no matter how late he had been up, my father rose at 5.30, went to his syudy, wrote for a couple of hours, made us all breakfast, read the paper with my mother, and then went back to work for the rest of the morning. Many years passed before I realized that he did this by choice, for a living, and that he was not unemployed or mentally ill.
-			</text>
-			<location>xii</location>
-			<note>Anne's father's routine</note>
-		</highlight>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <highlightID>1</highlightID>
+      <text>
+        Every morning, no matter how late he had been up, my father rose at 5.30, went to his syudy, wrote for a couple of hours, made us all breakfast, read the paper with my mother, and then went back to work for the rest of the morning. Many years passed before I realized that he did this by choice, for a living, and that he was not unemployed or mentally ill.
+      </text>
+      <location>xii</location>
+      <note>Anne's father's routine</note>
+    </highlight>
 
-		<highlight isNoteOnly="false">
-			<highlightID>2</highlightID>
-			<text>
-				Another is that writing motivates you to look closely at life, at life as it lurches by and tramps around.
-			</text>
-			<location>xii</location>
-			<note>Why write</note>
-		</highlight>
+    <highlight isNoteOnly="false">
+      <highlightID>2</highlightID>
+      <text>
+        Another is that writing motivates you to look closely at life, at life as it lurches by and tramps around.
+      </text>
+      <location>xii</location>
+      <note>Why write</note>
+    </highlight>
 
-		<highlight isNoteOnly="false">
-			<highlightID>3</highlightID>
-			<text>
-				It provides some sort of primal verification: you are in print; therefore you exist.
-			</text>
-			<location>xiv</location>
-			<note>why blog</note>
-		</highlight>
-		
-		<highlight isNoteOnly="false">
-			<highlightID>4</highlightID>
-			<text>
-				"Do it every day for a while," my father kept saying. "Do it as you would so scales on the piano. Do it by prearrangement with yourself. Do it as a det of honor. And make a commitment to finishing things."
-			</text>
-			<location>xxii</location>
-			<note>do it everyday, commit, finish</note>
-		</highlight>
+    <highlight isNoteOnly="false">
+      <highlightID>3</highlightID>
+      <text>
+        It provides some sort of primal verification: you are in print; therefore you exist.
+      </text>
+      <location>xiv</location>
+      <note>why blog</note>
+    </highlight>
+    
+    <highlight isNoteOnly="false">
+      <highlightID>4</highlightID>
+      <text>
+        "Do it every day for a while," my father kept saying. "Do it as you would so scales on the piano. Do it by prearrangement with yourself. Do it as a det of honor. And make a commitment to finishing things."
+      </text>
+      <location>xxii</location>
+      <note>do it everyday, commit, finish</note>
+    </highlight>
 
-		<highlight isNoteOnly="false">
-			<highlightID>5</highlightID>
-			<text>
-				We are a species that needs and wants to understand who we are.
-			</text>
-			<location>3</location>
-			<note>on humans</note>
-		</highlight>
+    <highlight isNoteOnly="false">
+      <highlightID>5</highlightID>
+      <text>
+        We are a species that needs and wants to understand who we are.
+      </text>
+      <location>3</location>
+      <note>on humans</note>
+    </highlight>
 
-		<highlight isNoteOnly="false">
-			<highlightID>6</highlightID>
-			<text>
-				You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively. So you sit down at, say, nine every morning, or ten every night.
-			</text>
-			<location>6</location>
-			<note>everyday practice</note>
-		</highlight>
+    <highlight isNoteOnly="false">
+      <highlightID>6</highlightID>
+      <text>
+        You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively. So you sit down at, say, nine every morning, or ten every night.
+      </text>
+      <location>6</location>
+      <note>everyday practice</note>
+    </highlight>
 
-		<highlight isNoteOnly="false">
-			<highlightID>9</highlightID>
-			<reference>Less Than One</reference>	
-			<referenceauthors>Joseph Bodsky</referenceauthors>
-			<toRead>1</toRead>
-			<location>xxv</location>
-			<note>Book to read. Essays </note>
-		</highlight>
+    <highlight isNoteOnly="false">
+      <highlightID>9</highlightID>
+      <reference>Less Than One</reference>  
+      <referenceauthors>Joseph Bodsky</referenceauthors>
+      <toRead>1</toRead>
+      <location>xxv</location>
+      <note>Book to read. Essays </note>
+    </highlight>
 
-		
-		
-	</highlights>
+    
+    
+  </highlights>
+</book>
+
+<book>
+  <title>
+    Bird By Bird
+  </title>
+  <authors>
+    Anne Lamott
+  </authors>
+  <source>
+    Library paper book
+  </source>
+
+  <highlights>
+    <highlight isNoteOnly="false">
+      <highlightID>1</highlightID>
+      <text>
+        Every morning, no matter how late he had been up, my father rose at 5.30, went to his syudy, wrote for a couple of hours, made us all breakfast, read the paper with my mother, and then went back to work for the rest of the morning. Many years passed before I realized that he did this by choice, for a living, and that he was not unemployed or mentally ill.
+      </text>
+      <location>xii</location>
+      <note>Anne's father's routine</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>2</highlightID>
+      <text>
+        Another is that writing motivates you to look closely at life, at life as it lurches by and tramps around.
+      </text>
+      <location>xii</location>
+      <note>Why write</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>3</highlightID>
+      <text>
+        It provides some sort of primal verification: you are in print; therefore you exist.
+      </text>
+      <location>xiv</location>
+      <note>why blog</note>
+    </highlight>
+    
+    <highlight isNoteOnly="false">
+      <highlightID>4</highlightID>
+      <text>
+        "Do it every day for a while," my father kept saying. "Do it as you would so scales on the piano. Do it by prearrangement with yourself. Do it as a det of honor. And make a commitment to finishing things."
+      </text>
+      <location>xxii</location>
+      <note>do it everyday, commit, finish</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>5</highlightID>
+      <text>
+        We are a species that needs and wants to understand who we are.
+      </text>
+      <location>3</location>
+      <note>on humans</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>6</highlightID>
+      <text>
+        You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively. So you sit down at, say, nine every morning, or ten every night.
+      </text>
+      <location>6</location>
+      <note>everyday practice</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>7</highlightID>
+      <text>
+        E. L. Doctrow once said that "writing a novel is like driving a car at night. You only see as far as your headlights, but you can make the whole trip that way." You don't have to see where you're going, you don't have to see your destination or everything you will pass along the way. You just have to see two or three feet ahead of you. This is right up there with the best advice about writing, or life, I have ever heard.
+      </text>
+      <location>18</location>
+      <note>how to live</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>8</highlightID>
+      <text>
+        (Although when I mentioned this to my priest friend Tom, he said you can safely assume you've created God in your own image when it turns out that God hates all the same people you do).
+      </text>
+      <location>22</location>
+      <note>lol</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>9</highlightID>
+      <text>
+        The first draft is the child's draft, where you let it all pour out and then let it romp all over the place, knowing that no one is going to see it and that you can shape it later.
+      </text>
+      <location>22</location>
+      <note>shitty first drafts</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>10</highlightID>
+      <text>
+        Almost all good writing begins with terrible first efforts. You need to start somewhere. Start by getting something - anything - down on paper. A friend of mine says that the first draft is the down draft - you just get it down. The second draft is the up draft - you fix it up. You try to say what you have to say more accurately. And the third draft is the dental draft, where you check every tooth, to see if it's loose or cramped or decayed, or even, God help us, healthy. 
+      </text>
+      <location>25-26</location>
+      <note>drafts</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>11</highlightID>
+      <text>
+        Left to its own devices, my mind spends much of its time having conversations with people who aren't there. I walk along defending myself to people, or exchanging repartee with them, or rationalizing my behavior, or seducing them with gossip, or pretending I'm on their TV talk show or whatever. I speed or run an aging yellow light or don't come to a full stop, and one nanosecond later am explaining to imaginary cops exactly why I had to do what I did, or insisting that I did not in fact do it.
+      </text>
+      <location>26</location>
+      <note>chatter</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>12</highlightID>
+      <text>
+        Close your eyes and get quiet for a minute, until the chatter starts up. Then isolate one of the voices and imagine the person speaking as a mouse. Pick it up by the tail, and drop it into a mason jar. And 
+      </text>
+      <location>27</location>
+      <note>meditation</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>9</highlightID>
+      <reference>Less Than One</reference>  
+      <referenceauthors>Joseph Bodsky</referenceauthors>
+      <toRead>1</toRead>
+      <location>xxv</location>
+      <note>Book to read. Essays </note>
+    </highlight>
+
+    
+    
+  </highlights>
 </book>
 
