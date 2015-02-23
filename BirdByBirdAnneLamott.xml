@@ -65,86 +65,6 @@
     </highlight>
 
     <highlight isNoteOnly="false">
-      <highlightID>9</highlightID>
-      <reference>Less Than One</reference>  
-      <referenceauthors>Joseph Bodsky</referenceauthors>
-      <toRead>1</toRead>
-      <location>xxv</location>
-      <note>Book to read. Essays </note>
-    </highlight>
-
-    
-    
-  </highlights>
-</book>
-
-<book>
-  <title>
-    Bird By Bird
-  </title>
-  <authors>
-    Anne Lamott
-  </authors>
-  <source>
-    Library paper book
-  </source>
-
-  <highlights>
-    <highlight isNoteOnly="false">
-      <highlightID>1</highlightID>
-      <text>
-        Every morning, no matter how late he had been up, my father rose at 5.30, went to his syudy, wrote for a couple of hours, made us all breakfast, read the paper with my mother, and then went back to work for the rest of the morning. Many years passed before I realized that he did this by choice, for a living, and that he was not unemployed or mentally ill.
-      </text>
-      <location>xii</location>
-      <note>Anne's father's routine</note>
-    </highlight>
-
-    <highlight isNoteOnly="false">
-      <highlightID>2</highlightID>
-      <text>
-        Another is that writing motivates you to look closely at life, at life as it lurches by and tramps around.
-      </text>
-      <location>xii</location>
-      <note>Why write</note>
-    </highlight>
-
-    <highlight isNoteOnly="false">
-      <highlightID>3</highlightID>
-      <text>
-        It provides some sort of primal verification: you are in print; therefore you exist.
-      </text>
-      <location>xiv</location>
-      <note>why blog</note>
-    </highlight>
-    
-    <highlight isNoteOnly="false">
-      <highlightID>4</highlightID>
-      <text>
-        "Do it every day for a while," my father kept saying. "Do it as you would so scales on the piano. Do it by prearrangement with yourself. Do it as a det of honor. And make a commitment to finishing things."
-      </text>
-      <location>xxii</location>
-      <note>do it everyday, commit, finish</note>
-    </highlight>
-
-    <highlight isNoteOnly="false">
-      <highlightID>5</highlightID>
-      <text>
-        We are a species that needs and wants to understand who we are.
-      </text>
-      <location>3</location>
-      <note>on humans</note>
-    </highlight>
-
-    <highlight isNoteOnly="false">
-      <highlightID>6</highlightID>
-      <text>
-        You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively. So you sit down at, say, nine every morning, or ten every night.
-      </text>
-      <location>6</location>
-      <note>everyday practice</note>
-    </highlight>
-
-    <highlight isNoteOnly="false">
       <highlightID>7</highlightID>
       <text>
         E. L. Doctrow once said that "writing a novel is like driving a car at night. You only see as far as your headlights, but you can make the whole trip that way." You don't have to see where you're going, you don't have to see your destination or everything you will pass along the way. You just have to see two or three feet ahead of you. This is right up there with the best advice about writing, or life, I have ever heard.
@@ -190,13 +110,52 @@
     </highlight>
 
     <highlight isNoteOnly="false">
-      <highlightID>12</highlightID>
+      <highlightID>13</highlightID>
       <text>
-        Close your eyes and get quiet for a minute, until the chatter starts up. Then isolate one of the voices and imagine the person speaking as a mouse. Pick it up by the tail, and drop it into a mason jar. And 
+        Close your eyes and get quiet for a minute, until the chatter starts up. Then isolate one of the voices and imagine the person speaking as a mouse. Pick it up by the tail, and drop it into a mason jar. Then isolate another voice, pick it up by the tail, and drop it in the jar. And so on. Drop in any high-maintenance parental units, drop in any contractors, lawyers, colleagues, children, anyone who is whining in your head. Then put the lid on, and watch all these mouse people clawing at the glass, jabbering away, trying to make you feel like shit because you won't do what they want - wont give them more money, won't be more successful, won't see them more often. Then imagine that there is a volume-control button on the bottle. Turn it all the way up for a minute, and listen to the stream of angry, neglected, guilt-mongering voices. Then turn it all the way down and watch the frantic mice lunge at the glass, trying to get you. Leave it down, and get back to your shitty first draft.
       </text>
       <location>27</location>
-      <note>meditation</note>
+      <note>funny, meditation</note>
     </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>14</highlightID>
+      <text>
+		She explained that when we have a wound in our body, the nearby muscles cramp around it to protect it from any more violation and from infection, and that I would need to use these muscles if I wanted them to relax again.
+      </text>
+      <location>29</location>
+      <note>how to relax</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>15</highlightID>
+      <text>
+		If you don't believe in God, it may help to remember this great line of Geneen Roth's: that awareness is learning to keep yourself company. And then learn to be more <em>compassionate</em> company, as if you were somebody you are fond of and wish to encourage.
+      </text>
+      <location>31</location>
+      <note>self encouragement, external quote, Geneen Roth</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>15</highlightID>
+      <text>
+		If you don't believe in God, it may help to remember this great line of Geneen Roth's: that awareness is learning to keep yourself company. And then learn to be more <em>compassionate</em> company, as if you were somebody you are fond of and wish to encourage.
+      </text>
+      <location>31</location>
+      <note>self encouragement, external quote, Geneen Roth</note>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+      <highlightID>16</highlightID>
+      <text>
+		
+      </text>
+      <location>45</location>
+      <note></note>
+    </highlight>
+
+
+
 
     <highlight isNoteOnly="false">
       <highlightID>9</highlightID>
