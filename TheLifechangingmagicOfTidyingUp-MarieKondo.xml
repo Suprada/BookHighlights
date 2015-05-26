@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
 <book>
 	<title>
 		The Life Chnaging Magic of Tidying Up : the Japanese Art of Decluttering and Organizing
@@ -373,6 +375,7 @@
 			<highlightID>36</highlightID>
 			<text>
 				When you are choosing what to keep, ask your heart; when you are choosing where to store something, ask your house.
+			</text>
 			<location>144</location>
 			<note>choosing and storing</note>
 		</highlight>
@@ -473,7 +476,7 @@
 			<highlightID>47</highlightID>
 			<text>
 				It's important to understand your ownership pattern because it is an expression of the values that guide your life. The question of what you want to own is actually the question of how you want to live your life.
-			<text>
+			</text>
 			<location>182</location>
 			<note>owning, living your life</note>
 		</highlight>

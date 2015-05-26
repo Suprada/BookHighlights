@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
 <book>
 	<title>
 		Zen in the Art of Writing
@@ -10,16 +12,16 @@
 	</source>
 	<highlights>
 		<highlight isNoteOnly="false">
-			<nodeID>1</nodeID>
+			<highlightID>1</highlightID>
 			<text>
 				First and foremost, it reminds us that we <em>are</em> alive and that it is a gift and a privilege, not a right. We must earn life once it has been awarded us. Life asks for rewards back because it has favored us with animation.
 			</text>
 			<location>xii</location>
-			<note>life, what writing teaches us about life</note>
+			<note>life, what writing teaches us about life, used in post</note>
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>2</nodeID>
+			<highlightID>2</highlightID>
 			<text>
 				If you did not write every day, the poisons would accumulate and you would begin to die, or act crazy, or both.
 			</text>	
@@ -28,7 +30,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>3</nodeID>
+			<highlightID>3</highlightID>
 			<text>
 				How strange-- we're so busy looking out, to find ways and means, we forget to look in.
 			</text>
@@ -37,7 +39,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>4</nodeID>
+			<highlightID>4</highlightID>
 			<text>
 				Read poetry everyday of your life. Poetry is good because it flexes muscles you don't use often enough. Poetry expands the senses and keeps them in prime condition. It keeps you aware of your nose, your eye, your ear, your tongue, your hand. And, above all, poetry is compacted metaphor or simile.**
 			</text>
@@ -46,9 +48,9 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>5</nodeID>
+			<highlightID>5</highlightID>
 			<text>
-				Read him, as you can read a horse with your eyes, set free andcharging over an endless green meadow on a windy day,
+				Read him, as you can read a horse with your eyes, set free and charging over an endless green meadow on a windy day,
 			</text>
 			<location>37</location>
 			<note>
@@ -57,7 +59,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>6</nodeID>
+			<highlightID>6</highlightID>
 			<text>
 				Why all this insistence on the senses? Because in order to convince your reader that he is <em>there</em>, you must assault each one of his senses, in turn with color, sound, taste, and texture.
 			</text>
@@ -67,7 +69,7 @@
 			</note>
 		</highlight>
 		<highlight isNoteOnly="false">
-			<nodeID>7</nodeID>
+			<highlightID>7</highlightID>
 			<text>
 				Everything I've ever done was done with excitement, because I wanted to do it, because I love doing it. 
 			</text>
@@ -77,7 +79,7 @@
 			</note>
 		</highlight>
 		<highlight isNoteOnly="false">
-			<nodeID>8</nodeID>
+			<highlightID>8</highlightID>
 			<text>
 				The men change, but one thing remains always the same: the fever, the ardor, the delight. Because I wanted to do, I did. Where I wanted to feed, I fed. I remember wandering, stunned, off a stage in my home town, holding a live rabbit given to me by Blackstone the Magician in the greatest performance ever! I remember, wandering, stunned, in the papier-mache streets of the Century of Progress Exhibition in Chicago in 1953; in the halls of the Venetian doges in Italy in 1954. The quality of each event was immensely different, but my ability to drink it in, the same.
 			</text>
@@ -88,18 +90,18 @@
 		</highlight>
 		
 		<highlight isNoteOnly="false">
-			<nodeID>9</nodeID>
+			<highlightID>9</highlightID>
 			<text>
 				To feed your Muse, then, you should always have been hungry about life since you were a child. If not, it is a little late to start. Better late than never, of course. Do you feel up to it? 
 
 				It means you must take long walks at night around your city or town, or walks in the country by day. And long walks any time, through bookstores and libraries.
 			</text>
 			<location>42</location>
-			<note>feeding the muse, walking, inspiration, how to live my life</note>
+			<note>feeding the muse, walking, inspiration, how to live my life, used in post</note>
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>10</nodeID>
+			<highlightID>10</highlightID>
 			<text>
 				To feed well is to grow. To work well and constantly is to keep what you have learned and know in prime condition. Experience. Labor. These are the twin sides of the coin which when spun is neither experience nor labor, but the moment of revelation.
 			</text>
@@ -108,7 +110,7 @@
 		</highlight>
 		
 		<highlight isNoteOnly="false">
-			<nodeID>11</nodeID>
+			<highlightID>11</highlightID>
 			<text>
 				I needed that approval. We all need someone higher, wiser, older to tell us we're not crazy after all, that what we're doing is all right. All right, hell, <em>fine</em>.
 			</text>
@@ -117,7 +119,7 @@
 		</highlight>
 		
 		<highlight isNoteOnly="false">
-			<nodeID>12</nodeID>
+			<highlightID>12</highlightID>
 			<text>
 				But how did I begin? Starting in Mr. Electrico's year, I wrote a thousand words a day. For ten years, I wrote at least one short story a week, somehow guessing that a day would finally come when I truly got out of the way and let it happen.
 			</text>
@@ -126,7 +128,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>13</nodeID>
+			<highlightID>13</highlightID>
 			<text>
 				It was with great relief, then, that in my early twenties I floundered into a word-association process in which I simply got out of bed every morning, walked to my desk, and put down any word or series of words that happened along in my head.
 				I would then take arms against that word, or for it, and bring on an assortment of characters to weigh the word and show me its meaning in my own life. An hour or two hours later, to my amazement, a new story would be finished and done. The surprise was total and lovely. I soon found that I would have to work this way for the rest of my life.
@@ -136,16 +138,16 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>14</nodeID>
+			<highlightID>14</highlightID>
 			<text>
 				The people there were gods and midgets and knew themselves mortal and so the midgets walked tall so as not to embarass the gods and the gods crouched so as to make the small ones feel at home.
 			</text>
 			<location>86</location>
-			<note>beautiful, posted</note>
+			<note>beautiful, posted, used in post</note>
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>15</nodeID>
+			<highlightID>15</highlightID>
 			<text>
 				Fantasy, even when it takes science-fictional forms, which it often does, is dangerous. It is escapist. It is day-dreaming. It has nothing to do with the world and the world's problems.
 				So said the snobs who did not know themselves as snobs.
@@ -155,7 +157,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>15</nodeID>
+			<highlightID>15</highlightID>
 			<text>
 				The kids sensed, if they could not speak it, that the first science-fiction writers were cavemen who were trying to figure out the first sciences - which were what? How to capture fire. What to do to that lout of a mammoth hanging around outside the cave. How to play dentist to the sabre-tooth tiger and turn him into a house-cat.
 			</text>
@@ -164,7 +166,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>16</nodeID>
+			<highlightID>16</highlightID>
 			<text>
 				The children sensed, if they could not speak, that the entire history of mankind is problem solving, or science fiction swallowing ideas, digesting them, and excreting formulas for survival. You can't have one without the other. No fantasy, no reality. No studies conncerning loss, no gain. No imagination, no will. No impossible dreams: No possible solutions.
 			</text>
@@ -173,7 +175,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>17</nodeID>
+			<highlightID>17</highlightID>
 			<text>
 				The children guessed, if they did not whisper it, that all science fiction is an attempt to solve problems by pretending to look the other way.
 			</text>
@@ -182,7 +184,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>18</nodeID>
+			<highlightID>18</highlightID>
 			<text>
 				Man the problem solver is that only because he is the Idea Keeper.
 			</text>
@@ -191,7 +193,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>19</nodeID>
+			<highlightID>19</highlightID>
 			<text>
 				That Truth again: the History of Ideas, which is all that science fiction has ever been. Ideas birthing themselves into fact, dying, only to reinvent new dreams and ideas to be reborn in yet more fascinating shapes and forms, some of them permanent, all of them promising Survival.
 			</text>
@@ -200,7 +202,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>20</nodeID>
+			<highlightID>20</highlightID>
 			<text>
 				"Go, children. Run and read. Read and run. Show and tell. Spin another pyramid on its nose. Turn another world upside-down. Knock the soot off my brain. Repaint the Sistine Chapel inside my skull. Laugh and think. Dream and learn and build."
 				"Run, boys! Run, girls! Run!"
@@ -212,7 +214,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>21</nodeID>
+			<highlightID>21</highlightID>
 			<text>
 				Where Mexico surprised me with so much darkness at the heart of the noon sun, Ireland surprised me with so much sun swallowed in the heart of the fog to keep one warm.
 			</text>
@@ -221,7 +223,7 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>22</nodeID>
+			<highlightID>22</highlightID>
 			<text>
 				We all are rich and ignore the buried fact of accumulated wisdom.
 				So again and again my stories and my plays teach me, remind me, that I must never doubt myself, my gut, my ganglion, or my Ouija subconscious again.
@@ -231,30 +233,120 @@
 		</highlight>
 
 		<highlight isNoteOnly="false">
-			<nodeID>9</nodeID>
-			<reference>Less Than One</reference>	
-			<referenceauthors>Joseph Bodsky</referenceauthors>
-			<toRead>1</toRead>
-			<location>xxv</location>
-			<note>Book to read. Essays </note>
+			<highlightID>23</highlightID>
+			<text>
+				We never sit anything out. 
+				We are cups, constantly and quietly being filled.
+				The trick is, knowing how to tip ourselves over and let the beautiful stuff out.
+			</text>
+			<location>120</location>
+			<note>subconscious, beautiful language</note>
 		</highlight>
 
-		
+		<highlight isNoteOnly="false">
+			<highlightID>24</highlightID>
+			<text>
+				I'm accustomed, you see, to getting up every morning, running to the typewriter, and in an hour, I've created a world. I don't have to wait for anyone. I don't have to criticize anyone. It's done. All I need is an hour, and I'm ahead of everyone.
+			</text>
+			<location>134</location>
+			<note>morning routines</note>
+		</highlight>
 
+		<highlight isNoteOnly="false">
+			<highlightID>25</highlightID>
+			<text>
+				As soon as things get difficult, I walk away. That's the great secret of creativity. You treat ideas like cats: you make them follow you. If you try to approach a cat and pick it up, hell, it won't let you do it. You've got to say, "Well, to hell with you." And the cat says, "Wait a minute. He's not behaving the way most humans do." Then the cat follows you out of curiosity: "Well, what's wrong with you that you don't love me?"
+			</text>
+			<location>134</location>
+			<note>creativity secret, letting go</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>26</highlightID>
+			<text>
+				WORK. It is,  above all, the word about which your career will revolve for a lifetime. Beginning now you should become not it's slave, which is too mean a term, but it's partner. Once you are really a co-sharer of existence with your work, the word will lose its repellant aspects.
+			</text>
+			<location>134</location>
+			<note>work</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>27</highlightID>
+			<text>
+				And work itself, after awhile, takes on a rhythm. The mechanical begins to fall away. The body begins to take over. The guard goes down. What happens then? 
+				RELAXATION.
+				And then men are happily following my last advice:
+				DON'T THINK.
+				Which results in <em>more</em> relaxation and <em>more</em> unthinkingness and greater creativity.
+			</text>
+			<location>134</location>
+			<note>work, relaxtion, don't think, write post o- typing, used in post</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>28</highlightID>
+			<text>
+				Quantity gives experience. From experience alone can quality come.
+			</text>
+			<location>145</location>
+			<note>quantity over quality</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>29</highlightID>
+			<text>
+				What are we trying to uncover in this flow? The one person irreplaceable to the world, of which there is no duplicate.<em>You.</em> As there was only one Shakesphere, Moliere, Dr. Johnson, so you are that precious commodity, the individual man, the man we all democratically proclaim, but who, so often, gets lost, or loses himself in the shuffle.
+			</text>
+			<location>148</location>
+			<note>losing oneself, used in post</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>30</highlightID>
+			<reference>Zen in the Art of archery</reference>	
+			<referenceauthors>Eugen Herrigel</referenceauthors>
+			<toRead>1</toRead>
+			<location>151</location>
+			<note>Book to read, Zen</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>31</highlightID>
+			<text>
+				Contemplate not your navel then, but your subconscious with what Wordsworth called "a wise passiveness."
+			</text>
+			<location>152</location>
+			<note>your subconscious</note>
+		</highlight>
+		
+	
+		<highlight isNoteOnly="false">
+			<highlightID>32</highlightID>
+			<reference>Tomorrow and Tomorrow and Tomorrow</reference>	
+			<referenceauthors>Aldous Huxley</referenceauthors>
+			<toRead>1</toRead>
+			<location>153</location>
+			<note>Book to read, Essay "The  Education of an amphibian"</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>33</highlightID>
+			<reference>Becoming a writer</reference>	
+			<referenceauthors>Dorothea Brande</referenceauthors>
+			<toRead>1</toRead>
+			<location>153</location>
+			<note>Book to read, on writing</note>
+		</highlight>
 		
 		<highlight isNoteOnly="false">
-			<nodeID>13</nodeID>
-			<reference>Dialogues of Galileo</reference>	
-			<referenceauthors>Galileo</referenceauthors>
-			<toRead>1</toRead>
-			<location>4</location>
-			<note>Book to read. Essays </note>
-		</highlight>
-		
-		
-
-
-
-		
+			<highlightID>34</highlightID>
+			<text>
+				Be pragmatic, then. If you're not happy with the way your writing has gone, you might give my method a try.
+				If you do, I think you might easily find a new definition for <em>work</em>.
+				And the word is LOVE.
+			</text>
+			<location>153</location>
+			<note>work</note>
+		</highlight>		
 	</highlights>
 </book>

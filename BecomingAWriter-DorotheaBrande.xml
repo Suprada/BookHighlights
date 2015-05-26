@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
 <book>
 	<title>
 		Becoming a Writer
@@ -77,6 +79,7 @@
 			<highlightID>8</highlightID>
 			<text>
 				So practice a wise taciturnity. When you have completed a fair first draft you can, if you like, offer it for criticism and advice; but to talk too early is a grave mistake.
+			</text>
 			<location>52</location>
 			<note>wise taciturnity</note>
 		</highlight>
@@ -84,7 +87,8 @@
 		<highlight isNoteOnly="false">
 			<highlightID>9</highlightID>
 			<text>
-				A far better idea is to realize from the start that you are subject to certain caprices of action, and to study yourself objectively until you find which of your impulses are sound and which are likely to lead you into bogs of inertia and silence. At first you will find it a great bore to be forever examining yourself for tendencies and habits; later you will find it second nature. Still later you will come to enjoy it rather too much, and the same critical attention will have to be given to the task of turning your scrutiny <em>away</em> from your own processes when your analysis has passed the stage where it bears beneficial fruits. In short, you will have to learn to be your own best friend and severest critic - mature, indulgent, stern and yielding by turns. 
+				A far better idea is to realize from the start that you are subject to certain caprices of action, and to study yourself objectively until you find which of your impulses are sound and which are likely to lead you into bogs of inertia and silence. At first you will find it a great bore to be forever examining yourself for tendencies and habits; later you will find it second nature. Still later you will come to enjoy it rather too much, and the same critical attention will have to be given to the task of turning your scrutiny <em>away</em> from your own processes when your analysis has passed the stage where it bears beneficial fruits. In short, you will have to learn to be your own best friend and severest critic - mature, indulgent, stern and yielding by turns.
+			</text>
 			<location>53</location>
 			<note>how to gain self knowledge</note>
 		</highlight>
@@ -93,6 +97,7 @@
 			<highlightID>10</highlightID>
 			<text>
 				Only observation will show you the effect of any group or person <em>on you as a writer</em>.
+			</text>
 			<location>54</location>
 			<note>self observation</note>
 		</highlight>
@@ -101,6 +106,7 @@
 			<highlightID>11</highlightID>
 			<text>
 				You will have to find other acquaintances, persons who, for some mysterious reason, leave you full of energy, feed you with ideas, or, more obscurely still, have the effect of filling you with self-confidence and eagerness to write.
+			</text>
 			<location>55</location>
 			<note>qualities of the ideal company</note>
 		</highlight>
@@ -110,6 +116,7 @@
 			<highlightID>12</highlightID>
 			<text>
 				Watch for a while, and see which authors are your meat and which your poison.
+			</text>
 			<location>56</location>
 			<note>meat author, poison author</note>
 		</highlight>
@@ -118,6 +125,7 @@
 			<highlightID>13</highlightID>
 			<text>
 				The most enviable authors are those who, quite often unanalytically and unconsciously, have realized that there are different facets to their nature and are able to live and work with now one, now another, in the ascendant.
+			</text>
 			<location>58</location>
 			<note>cycling between the conscious and the unconscious</note>
 		</highlight>

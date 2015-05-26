@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
 <book>
   <title>
     Nonviolent Communication: A Language of Life
@@ -527,6 +529,7 @@
       <highlightID>42</highlightID>
       <text>
         When I advise, “Don’t do anything that isn’t play!” some take me to be radical, even insane.
+      </text>
       <location>135</location>
       <note>play</note>
     </highlight>

@@ -1,0 +1,24 @@
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Sword of Agrippa: Antioch</title>
+  <authors>Gregory Lloyd</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Certainty is the enemy of knowledge. Agapito, Roman Slave and Teacher, 1st century BCE.</text>
+      <location url="kindle://book?action=open&amp;asin=B00QBL5ZRU&amp;location=106">106</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Melchizedek says, ‘Grow your soul, and clarity appears first as a stranger then as a loved one.’</text>
+      <location url="kindle://book?action=open&amp;asin=B00QBL5ZRU&amp;location=1835">1835</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I mean the notion that everything has already existed. Permutations play themselves out over time in ever-complex, changing scenarios.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00QBL5ZRU&amp;location=2147">2147</location>
+    </highlight>
+  </highlights>
+</book>

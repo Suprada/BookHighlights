@@ -1,6 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
 <book>
 	<title>
-		What I Talk About When I Talk About Running
+		What I Talk About When I Talk About Runnin
+		
+		g
 	</title>
 	<authors>
 		Haruki Murakami
@@ -12,7 +16,7 @@
 		<highlight isNoteOnly="false">
 			<highlightID>1</highlightID>
 			<text>
-				No matter how mundane some action might appear, keep at it long enough and it becomes a contemplative, even meditative ac
+				No matter how mundane some action might appear, keep at it long enough and it becomes a contemplative, even meditative act
 			</text>
 			<location>vi</location>
 			<note>Anything is meditation</note>
@@ -75,7 +79,7 @@
 		<highlight isNoteOnly="false">
 			<highlightID>8</highlightID>
 			<text>
-				Don't misunderstand me - I am not totally uncompetetive. It's just that for some reason I never cared all that much whether I beat others or lost to them. This sentiment remained pretty much unchanged after I grew up. It doesn't matter what field you are talking about - beating somebody else just doesn't do it for me. I'm much more interested in whether I reach the goals that I set for myself, so in this sense long-distance running is the perfect mindset like mine.
+				Don't misunderstand me - I am not totally uncompetitive. It's just that for some reason I never cared all that much whether I beat others or lost to them. This sentiment remained pretty much unchanged after I grew up. It doesn't matter what field you are talking about - beating somebody else just doesn't do it for me. I'm much more interested in whether I reach the goals that I set for myself, so in this sense long-distance running is the perfect mindset like mine.
 			</text>
 			<location>9</location>
 			<note>WoW! Someone like me?, </note>
@@ -93,7 +97,7 @@
 		<highlight isNoteOnly="false">
 			<highlightID>10</highlightID>
 			<text>
-				Breathing in the crisp, bracing, early-morning air, I felt once again the joy of running on familiar ground. The sound of my footsteps, my breathing and heartbeats, all blended together in a unique polyrythm.
+				Breathing in the crisp, bracing, early-morning air, I felt once again the joy of running on familiar ground. The sound of my footsteps, my breathing and heartbeats, all blended together in a unique polyrhythm.
 			</text>
 			<location>13</location>
 			<note>polyrythm, amazing concept</note>
@@ -129,7 +133,7 @@
 		<highlight isNoteOnly="false">
 			<highlightID>14</highlightID>
 			<text>
-				For now all I can do is put off making any detailed judgements and accept things as they are. Just like I accept the sky, the clouds, and the river. And there's also something comical about it all, something you don't want to discard completely.
+				For now all I can do is put off making any detailed judgments and accept things as they are. Just like I accept the sky, the clouds, and the river. And there's also something comical about it all, something you don't want to discard completely.
 			</text>
 			<location>18</location>
 			<note>acceptance</note>
@@ -147,7 +151,7 @@
 		<highlight isNoteOnly="false">
 			<highlightID>15</highlightID>
 			<text>
-				I'll wait till later to think about what it all means. (Putting off thinking about something is one of my specialities, a skill I've honed as I've grown older.)
+				I'll wait till later to think about what it all means. (Putting off thinking about something is one of my specialties, a skill I've honed as I've grown older.)
 			</text>
 			<location>21</location>
 			<note>delay tactics</note>
@@ -229,7 +233,7 @@
 		<highlight isNoteOnly="false">
 			<highlightID>24</highlightID>
 			<text>
-				Whenever I feel like I don't want to run, I always ask myself the same thing: <em>You're able to make a living as a novelist working at home, setting your own hours, so you don't have to commute on a packed train or sit through boring meetings. Don't you realize how fortunate you are?</em> (Believe me, I do.) <em>Compared to that, running an hour around the neighbourhood is nothing, right?</em>
+				Whenever I feel like I don't want to run, I always ask myself the same thing: <em>You're able to make a living as a novelist working at home, setting your own hours, so you don't have to commute on a packed train or sit through boring meetings. Don't you realize how fortunate you are?</em> (Believe me, I do.) <em>Compared to that, running an hour around the neighborhood is nothing, right?</em>
 			</text>
 			<location>46</location>
 			<note>self motivation, how to self motivate</note>
