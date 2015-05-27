@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Your Best Year Yet: 7 simple ways to shift your thinking and take charge of your life</title>
+  <authors>Kelly Exeter</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>1. The more time we have, the more time we waste</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=148">148</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Time restraints force us to practise our craft more deliberately</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=157">157</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This is fantastic news for those of us with limited time to achieve mastery of our craft. We’re not disadvantaged at all as long as we’re being deliberate and productive with the time we do have.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=164">164</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The people we envy for their time, envy us as well</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=172">172</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So our limited time isn’t the</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=175">175</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>enemy we think it is. It provides structure and boundaries to our days. It forces us to prioritise and pursue only the things most important to us. It forces us to get rid of the stuff that isn’t important.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=175">175</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The people who achieve the most aren’t the ones with the most time on their hands, but the ones who waste the least of the time available to them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=178">178</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“A system of cognitive processes ... that help [humans] change their views of the world, so that they can feel better about the worlds in which they find themselves.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HXGE92E&amp;location=198">198</location>
+    </highlight>
+  </highlights>
+</book>

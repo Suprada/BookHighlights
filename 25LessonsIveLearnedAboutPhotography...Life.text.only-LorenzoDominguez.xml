@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>25 Lessons I&#x27;ve Learned about Photography...Life (text only)</title>
+  <authors>Lorenzo Dominguez, Stephanie Staal</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>More than ever before, my boys became my favorite models.  Photographing them at every chance I got, I learned and practiced the vibrant subtleties of portraiture, including the need to create and manipulate an organic environment in which your subjects will not only behave naturally, but will also evoke expressions worth capturing.</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=246">246</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>that I saw everywhere, and in everyone.  If something is not beautiful, it is probably not true.</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=267">267</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The wonderful thing about beginning with black and white photos is that it allows one to focus on one important element in a photo—form.</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=285">285</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>if you are an aspiring photographer or artist even—carry your camera everywhere you go, for you’re damned if you don’t.</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=366">366</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It was no coincidence that I made every effort to follow the edict “Use Your Imagination.”  It was perhaps the greatest lesson my father had ever impressed upon me. He had those very same</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=423">423</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>without an agenda, without the compulsion to keep track of time and place, without a care to divert you away from appreciating all the glorious details of the environment that glimmers around you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=480">480</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Wisdom begins with wonder,”</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=502">502</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>However, such success also depends upon whether or not we can continue to pioneer on our own, to risk, to innovate and, on occasion—to take the long way home.</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=529">529</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>persevere and seize the day.  Seize the day.  Do not hesitate, do not procrastinate, the time is now. For it is easiest not to try, to allow all the wonderful moments that distinguish</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=590">590</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So don&#x27;t be afraid of solitude—strive for it instead. For less is more. Space, both physical and</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=987">987</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>mental, gives one room to breath, to think, to create, and conceive. For emptiness can lead to clarity, and it is often the optimal conduit for enlightenment and inspiration.</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=988">988</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So I learned to let go of the idea that my marriage was going to improve; I let go of the fact that I missed the boys woefully; I let go of the anger and the helplessness, and I made up my mind to single-mindedly look forward and</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=1508">1508</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Ultimately, to succeed sometimes one must cultivate an attitude of gratitude, of giving, and forgiving. Nothing can bring you peace but yourself.  Ralph Waldo Emerson</text>
+      <location url="kindle://book?action=open&amp;asin=B00318D6Y0&amp;location=1528">1528</location>
+    </highlight>
+  </highlights>
+</book>

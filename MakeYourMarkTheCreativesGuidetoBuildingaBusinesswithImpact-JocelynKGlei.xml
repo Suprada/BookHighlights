@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Make Your Mark: The Creative&#x27;s Guide to Building a Business with Impact (The 99U Book Series 3)</title>
+  <authors>Jocelyn K. Glei, 99U</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>But unlike traditional measures of success—like money, titles, or status—the creative mind is driven by a desire to see creativity come to life. Success is making an impact in what matters most to you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=101">101</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Bill reminded me that the first step in living your purpose is to distill it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=136">136</location>
+      <note>Keith Yamashita about Bill Thomas,</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To define your personal purpose, start with these questions: How will the world be better off thanks to you having been on this earth? What are your unique gifts and superpowers? Who have you been when you’ve been at your best? Who must you fearlessly become? At the intersection of these four questions lies your personal purpose.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=152">152</location>
+      <note>Keith Yamashita</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>BECOMING A LEAN, MEAN, LEARNING MACHINE – Aaron Dignan</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=217">217</location>
+      <note>eq, AUthor Aaron Dignan</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What’s different about these companies is that they are lean, mean, learning machines. They have an intense bias to action and a high tolerance for risk, expressed through frequent experimentation and relentless product iteration.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=229">229</location>
+      <note>Aaron Dignan</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They are hypersensitive to friction—in their daily operations and their user experiences.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=232">232</location>
+      <note>Aaron Dignan</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Demand a culture of transparent communication.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=266">266</location>
+      <note>Aaron Dignan</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What I do is look and say, “Is there something people are not realizing that if they understood it, it would help them think differently and more effectively about the future?” I am trying to draw a map of the future based on observations about reality.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=333">333</location>
+      <note>Tim O&#x27;Reilley</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whenever I sit down with a new client, one of the very first questions I ask is what issue they are addressing for their users.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=375">375</location>
+      <note>Emily Heyward</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“One does not begin with answers,” the legendary business consultant Peter Drucker once remarked. “One begins by asking, ‘What are our questions?’ ”</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=425">425</location>
+      <note>Warren Berger</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Product is a clinical term for a passionate endeavor. As Steve Jobs, the “product guy” par excellence, put it: “Every good product I’ve ever seen is because a group of people cared deeply about making something wonderful that they and their friends wanted. They wanted to use it themselves.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=517">517</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But remember: The proof is in the process. Crafting a killer product takes time, so make sure you figure out how to have fun while you’re doing it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=524">524</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Consumers don’t need many things from your brand—they just need one thing from your brand.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=529">529</location>
+      <note>Andy Dunn</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>want. Your job is to care about what they want, not what you want them to want.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=530">530</location>
+      <note>Andy Dunn</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text></text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=600">600</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When thinking about products, I like to use a mountain-climbing analogy. The first step is to pick a peak. Don’t pick a peak because it’s easy. Pick a peak because you really want to go there; that way you’ll enjoy the process.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=685">685</location>
+      <note>Sebastian Thrun</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Our most important asset is our time, so I think it’s best to manage your time well right now and be happy about it, rather than focus on some deferred goal, like buying a fancy car in the future. The data shows that people who are rich aren’t any happier, so you might as well derive your happiness from what you are doing today.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=695">695</location>
+      <note>Sebastian Thrun</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For instance, if you’re driving a car, and after three hundred miles the car runs out of gas, no one takes offense because the “failure” is inherent to the car, not to you. It’s not your failure to operate the car correctly. We all know that you have to refill the gas tank; that’s just the way it is. So if we think of failure in innovation in the same way—as having to refill the gas tank regularly—we can take it much less personally.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=724">724</location>
+      <note>Sebastian Thrun</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s very uncommon for people to have the attitude of “Wow, I don’t know.” In childhood, researchers call this a “growth mind-set”—this idea that you’re comfortable with the fact that you just don’t know something yet, or that you just can’t do something yet. But most people are raised with this feeling that they know everything.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=729">729</location>
+      <note>Sebastian Thrun</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“After high school, kids know everything, after their bachelor’s degree, they know something, and after a PhD, they now know that they know nothing.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=733">733</location>
+      <note>Sebastian Thrun</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>No matter what you do, the mountain is always bigger than you are.</text>
+      <location url="kindle://book?action=open&amp;asin=B00FL3YL9W&amp;location=736">736</location>
+      <note>Sebastian Thrun</note>
+    </highlight>
+  </highlights>
+</book>

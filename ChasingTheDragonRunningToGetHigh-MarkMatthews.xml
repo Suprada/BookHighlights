@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Chasing the Dragon: Running to Get High</title>
+  <authors>Mark Matthews</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Running just seems to make all of your atoms spin a bit faster, unearths previously hidden parts of yourself, and allows a connection with something deeper.</text>
+      <location url="kindle://book?action=open&amp;asin=B00E8RDFOE&amp;location=172">172</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They say religion is for those who don&#x27;t want to go to hell, but spirituality is for those who have been to hell and don&#x27;t want to go back.</text>
+      <location url="kindle://book?action=open&amp;asin=B00E8RDFOE&amp;location=177">177</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>running yourself to physical extremes provides a sense of harrowing hell and then ascending.</text>
+      <location url="kindle://book?action=open&amp;asin=B00E8RDFOE&amp;location=178">178</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>runners have an edge since their brains and hearts go to some unique places, and discomfort becomes a whole new comfort zone.</text>
+      <location url="kindle://book?action=open&amp;asin=B00E8RDFOE&amp;location=195">195</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>but running makes us face ourselves, prove ourselves, and every time we win one of those little battles - either to get out the door and put in a few miles, to hit a certain</text>
+      <location url="kindle://book?action=open&amp;asin=B00E8RDFOE&amp;location=215">215</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>mileage split, or to qualify for the Boston Marathon, it affirms our existence. We&#x27;ve stared into ourselves, listened to the voices of doubt and fear, yet instead responded to something higher.</text>
+      <location url="kindle://book?action=open&amp;asin=B00E8RDFOE&amp;location=216">216</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So yes, be a vampire, not a zombie, suck the blood from other runners, rather than shuffle to the end.</text>
+      <location url="kindle://book?action=open&amp;asin=B00E8RDFOE&amp;location=1332">1332</location>
+    </highlight>
+  </highlights>
+</book>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Dalai Lama&#x27;s Cat and the Art of Purring</title>
+  <authors>David Michie</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>aim at success,’” he read. “‘The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=408">408</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>pursued; it must ensue … as the unintended side effect of one’s dedication to a course greater than oneself.’”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=409">409</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What makes you purr?</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=423">423</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Of all the questions in the world, this is the most important. It is also the great leveler.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=423">423</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The only moment that actually exists is the here and now.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=564">564</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But we cannot experience this directly until we let go of thought and simply relax, until we acknowledge that we have come to this moment, here and now, only because everything else is the way it is.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=568">568</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Usually we react to challenges in a habitual way, with anger or avoidance. By breathing through a challenge, we can arrive at a more useful response.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=605">605</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Clinging to the familiar,” Serena agreed. “To things that used to give us such happiness but don’t anymore.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=614">614</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Suffer comes from a Latin word meaning to carry. And while pain is sometimes unavoidable, suffering is not. For</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=620">620</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Ludo was right: happiness was not to be found in the past. Not in trying to relive memories, however beguiling.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=669">669</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What would happen, dear reader, if you were to achieve your most longed-for dream? What if you were to succeed in your chosen ambition, beyond your wildest hopes?</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=672">672</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“We begin to believe that our happiness depends on a certain outcome or person or lifestyle. That’s the superstition.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=865">865</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>here and now is the only time we can be happy.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=873">873</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The journey really is more important than the destination,”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=881">881</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>On an everyday level, there’s the boredom of being wherever you are and doing whatever task lies ahead,</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=914">914</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>realize how precious it is simply to be alive.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1085">1085</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“We discover that death, like everything in life itself, is merely a concept.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1094">1094</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We cannot procrastinate with our Dharma practice: time is precious and we must use it wisely.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1106">1106</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Boredom? Lethargy? They seem so irrelevant when remembering how quickly time passes.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1126">1126</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s about work becoming love made visible.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1313">1313</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“It is to weave the cloth with threads drawn from your heart, Even as if your beloved were to wear that cloth. It is to build a house with affection, Even as if your beloved were to dwell in that house. It is to sow seeds with tenderness and reap the harvest with joy, Even as if your beloved were to eat the fruit.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1315">1315</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Worst of all is not to realize how every action of body, speech, and mind affects your future experience of reality, even beyond this time and</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1474">1474</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Mind transcends the world of thought,”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=1679">1679</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Four tools,” Geshe Wangpo said, looking at us each in turn. “First: impermanence. Never forget: this, too, will pass.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2263">2263</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Second: what is the point of worrying? If you can do something about it, fix it. If not, what is the point of worrying about it? Let go! Every minute you spend worrying, you lose sixty seconds of happiness. Don’t allow your thoughts to be like thieves, stealing your own</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2266">2266</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Third: don’t judge. When you say ‘This is a bad thing that’s happening,’ how often are you wrong?</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2269">2269</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Fourth: no swamp, no lotus. The most transcendent of flowers grows out of the filth of the swamp. Suffering is like the swamp. If it makes us more humble, more able to sympathize with others and more open to them, then we become capable of transformation and of becoming truly beautiful, like the lotus.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2274">2274</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>down, under the surface, all is well. Mind is always pristine, boundless, radiant. The more you dwell in that place, the easier it will be to deal with temporary, surface things.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2278">2278</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When you have that contentment within, whether or not you achieve your goals, I think success becomes more likely.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2535">2535</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Book Café I had come to realize that despite all our ideas about what will make us happy, much of the time our expectations are wrong.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2590">2590</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Holy Secret is this: If you wish to end your suffering, seek to end the suffering of others. If you wish for happiness, seek the happiness of others. Exchanging thoughts of self for thoughts of others—this is the most effective way to be happy.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2610">2610</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Gain happiness for yourself by giving it to others.</text>
+      <location url="kindle://book?action=open&amp;asin=B00F8KX590&amp;location=2624">2624</location>
+    </highlight>
+  </highlights>
+</book>

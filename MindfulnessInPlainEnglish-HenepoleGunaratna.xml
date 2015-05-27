@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Mindfulness in Plain English: 20th Anniversary Edition</title>
+  <authors>Henepola Gunaratana</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>MEDITATION IS NOT EASY. It takes time and it takes energy. It also takes grit, determination, and discipline.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=41">41</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>a little voice in the back of the mind that keeps saying, “Not good enough yet. Need to have more. Have to make it better. Have to be better.”</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=64">64</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You can’t make radical changes in the pattern of your life until you begin to see yourself exactly as you are now.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=137">137</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You feel love toward others because you understand them, and you understand others because you have understood yourself.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=158">158</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>morality is not a ritualistic obedience to a code of behavior imposed by an external authority. It is rather a healthy habit pattern that you have consciously and voluntarily chosen to impose upon yourself because you recognize its superiority to your present behavior.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=169">169</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We are going to teach you to watch the functioning of your own mind in a calm and detached manner so you can gain insight into your own behavior.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=194">194</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Once you sit, do not change the position again until the end of the time you determined at the beginning.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=618">618</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>After sitting motionlessly, close your eyes.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=628">628</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>After sitting in the manner described and having shared your loving friendliness with everybody, take three deep breaths.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=639">639</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>After taking three deep breaths, breathe normally, letting your breath flow in and out freely, effortlessly, and begin focusing your attention on the rims of your nostrils. Simply notice the feeling of breath going in and out. When one inhalation is complete and before exhaling begins, there is a brief pause. Notice it and notice the beginning of exhaling.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=640">640</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As soon as you notice that your mind is no longer on your breath, mindfully bring it back and anchor it there.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=657">657</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The fourth method is to take a long breath. When the lungs are full, mentally count “one” and breathe out completely until the lungs are empty of fresh air. Then count mentally “two.” Take a long breath again and count “three” and breathe out completely as before. When the lungs are empty of fresh air, count mentally “four.” Count your breath in this manner up to ten. Then count backward from ten to one. Count again from one to ten and then ten to one.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=675">675</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A gatekeeper does not take into account any detail of the people entering a house. All he does is notice people entering the house and leaving the house through the gate. Similarly, when you concentrate you should not take into account any detail of your experiences. Simply notice the feeling of your inhaling and exhaling breath as it goes in and out right at the rims of your nostrils.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=693">693</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>back straight. Sit light and easy. The spine should be like a firm young tree growing out of soft ground. The rest of the body just hangs from it in a loose, relaxed manner.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=783">783</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>your hands are cupped one on the other, and they rest on your lap with the palms turned upward. The hands lie just below the navel with the bend of each wrist pressed against the thigh.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=809">809</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We sit, watching the air going in and out of our noses.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=837">837</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is a difference between being aware of a thought and thinking a thought. That difference is very subtle.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=843">843</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Somewhere in this process, you will come face to face with the sudden and shocking realization that you are completely crazy.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=921">921</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Your mind is a shrieking, gibbering madhouse on wheels barreling pell-mell down the hill, utterly out of control and helpless.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=922">922</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Find yourself a quiet place, a secluded place, a place where you will be alone.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=996">996</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You will probably find it helpful to sit in the same place each time.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1004">1004</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It means you set up a practice schedule and keep to it with a gentle, patient tenacity.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1016">1016</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Meditation is not a duty or an obligation.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1018">1018</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Your practice will therefore go best when you are looking forward to sitting.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1020">1020</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So set up a daily pattern that you can live with. Make it reasonable. Make it fit with the rest of your life.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1021">1021</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>First thing in the morning is a great time to meditate.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1023">1023</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Wash your face, or shower before you begin.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1026">1026</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You may want to do a bit of exercise beforehand to get the circulation flowing.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1026">1026</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The evening is another good time for practice. Your mind is full of all the mental rubbish that you have accumulated during the day, and it is great to get rid of that burden before you sleep.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1029">1029</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Give yourself time to incorporate the meditation practice into your life, and let your practice grow gradually and gently.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1035">1035</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We recommend that after a year or so of steady practice you should be sitting comfortably for an hour at a time.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1043">1043</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As a general rule, just determine what is a comfortable length of time for you at this point in your life. Then sit five minutes longer than that.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1050">1050</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Incidentally, you decide on the length of your session before you meditate.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1054">1054</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But self-discipline is different. It’s the skill of seeing through the hollow shouting of your own impulses and piercing their secret.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1066">1066</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is another word for self-discipline. It is patience.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1072">1072</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They are psychological cleansing devices that require active mental participation in order to be effective.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1084">1084</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“I am about to tread the very same path that has been walked by the Buddha and by his great and holy disciples. An indolent person cannot follow that path. May my energy prevail. May I succeed.”</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1103">1103</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is always some mindfulness present in any moment. The real problem is to gather enough of it to be effective.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1110">1110</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you are miserable you are miserable; that is the reality, that is what is happening, so confront that.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1215">1215</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When the pain becomes demanding, you will find it pulling your attention off the breath.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1252">1252</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Don’t fight back. Just let your attention slide easily over onto the simple sensation.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XF1LKW&amp;location=1253">1253</location>
+    </highlight>
+  </highlights>
+</book>

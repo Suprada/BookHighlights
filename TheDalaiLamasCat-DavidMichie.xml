@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Dalai Lama&#x27;s Cat</title>
+  <authors>David Michie</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>wishes. But also the way we look for happiness and try to avoid discomfort is the same.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=165">165</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Do we believe that, whatever our circumstances, we have the chance to live happy and meaningful lives?</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=459">459</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Most people think that their only</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=461">461</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>option is to change their circumstances. But these are not the true causes of their unhappiness. It has more to do with the way they think about their circumstances.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=461">461</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“It is the wonderful paradox,” he continued, “that the best way to achieve happiness for oneself is to give happiness to others.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=491">491</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I would deliberately set about making some other being happy, even if it was as simple as bestowing a kindly purr, in order to shift the focus of my thoughts off myself and onto</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=494">494</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>means paying attention to the present moment deliberately and non-judgmentally.’ Nice and clear, isn’t it?”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=636">636</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Pure presence.” “Hmm,” Chogyal mused. “No mental agitation or elaboration of any kind.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=639">639</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In the case of money or status or relationships”—His Holiness chuckled—“we can easily see these are not true causes of happiness.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=832">832</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>first, the wish to give happiness to others, which Buddhists define as love, and second, the wish to help free others from dissatisfaction or suffering, which we define as compassion.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=843">843</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>‘The thought manifests as the word; the word manifests as the deed; the deed develops into habit; and habit hardens into character. So</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1043">1043</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>as we think, so we become.’”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1044">1044</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>That you obsess about your clothing, footwear, adornments, and grooming, all of which have rather more to do with an image you wish to project to the world than matters of simple practicality?</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1073">1073</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>at some time has become so caught up in a downward spiral of self-obsession that despite all their frenetic licking, scratching, and grooming, despite all their crazed efforts to feel better about themselves, all they have succeeded in doing is ingesting such</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1079">1079</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>large quantities of self-regarding detritus that they have made themselves sick—quite literally, perhaps?</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1081">1081</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There’s nothing like a good, long sleep to allow unpleasantness to recede into the past.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1097">1097</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You begin at home and at work, with the people and other beings in your life.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1237">1237</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You can serve them a coffee, or you can serve them a coffee and a smile—</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1238">1238</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead, I had robbed myself of that opportunity with my ridiculous self-pity.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1461">1461</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“We forget that it’s only a matter of time before there is change—and, once again, a shift in perspective.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1498">1498</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“When one is angry, the first person to suffer is oneself. No one who is angry has a happy, peaceful mind.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1662">1662</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“For this to happen, you need opportunities to practice the opposing force, which is patience.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1687">1687</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“But what if I … fail?” Her voice was shaky. “You keep trying. There are no instant results for a long-standing habit. But step by step you will definitely progress if you see the advantage.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1691">1691</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“When our understanding of something deepens to the point that it changes our behavior, in the Dharma we call this a realization.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1700">1700</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When we see for ourselves there is a problem, change becomes much easier.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1747">1747</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Sentient beings are killed even for a vegetarian diet. When land is cleared to make space for crops, the natural habitat is destroyed, and many smaller beings are killed. Then crops are planted, and pesticides are sprayed, killing many thousands of insects. You see, it is very difficult to avoid harming other</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1866">1866</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Before we eat any meal, vegetarian or meat, we should always remember the beings that have died so that we can eat. Their lives were just as important to them as your life is to you. Think of them with gratitude and</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1879">1879</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“In the Dharma, there is</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1921">1921</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>no place for guilt. Guilt is useless. It is pointless to feel bad about something in the past that we can’t change. But regret? Yes. This is more useful. Do you both feel sincere regret for what you did?”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1921">1921</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“This is another reason we should behave with love and compassion toward all living beings. We never know in what circumstances we will meet up with them again. Sometimes even in this same lifetime.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1936">1936</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“One of the last things Buddha said to his followers was that anyone who believed a word he had taught them was a fool—unless they had tested it against their own experience.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=1984">1984</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Apology accepted. We all have our days.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2039">2039</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Fear,” said Lobsang. “An instinct that prevents many people from taking actions that they know, deep down inside, would liberate them. Like a bird in a cage whose door has been opened, we are free to go out in search of fulfillment, but fear makes us look for all kinds of reasons not to.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2090">2090</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is interesting how, once you have decided to strike out on a new course of action, events often transpire to help you.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2104">2104</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Boldness has genius, power, and magic in it.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2404">2404</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>a cat is a riddle, inside an enigma, inside a delightful pelt of cuddliness?</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2462">2462</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Mind training is the foundation of all Buddhist activities, and we are encouraged to develop strong concentration not only when meditating but also by practicing mindfulness throughout each day.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2486">2486</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“You can’t manage what you don’t monitor,”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2489">2489</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Mindfulness, it seems, is a foundation practice.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2489">2489</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Without question, the most important practice is bodhichitta.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2506">2506</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We may think, Who am I fooling, trying to pretend I can become a buddha and lead all living beings to enlightenment? But step by step, we develop understanding. We find that others have done it already.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2515">2515</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Every time we do something nice for someone else, even if it is a routine thing they expect, we can do so with the thought ‘By this act of love, or of giving happiness, may I attain enlightenment to liberate all living beings.’ Every time we practice generosity, whether it is making a donation or nursing a cat, we can think the same thing.”</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2528">2528</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I was going to make this a positive transformation. I wasn’t going to avoid any of it.</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2599">2599</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>there is no room for laziness or a lack of confidence. Leading an authentic life calls for big eyes and a strong voice!</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2642">2642</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>‘Sometimes our light goes out, but is blown again into flame by an encounter with another human being. Each of us owes the deepest thanks to those who have rekindled this inner light.’</text>
+      <location url="kindle://book?action=open&amp;asin=B008FQGOFQ&amp;location=2723">2723</location>
+    </highlight>
+  </highlights>
+</book>

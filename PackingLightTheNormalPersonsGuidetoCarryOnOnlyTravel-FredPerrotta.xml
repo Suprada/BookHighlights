@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Packing Light: The Normal Person&#x27;s Guide to Carry-On-Only Travel</title>
+  <authors>Fred Perrotta</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Why do we pack too much stuff, even after we’ve learned how inconvenient, expensive, and wasteful it is? Fear.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=39">39</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Striking the perfect balance between necessity and perceived necessity is an art form. Maybe,</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=89">89</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.” — Terry Pratchett</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=108">108</location>
+      <note>Eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Travel plucks us out of the worn routines of our lives and plops us down into a new culture, language, or city, and lets us figure life out. It strips the excess away and melts us down to our core. It teaches us that stuff doesn’t make us happy — only experiences and being present do that.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=112">112</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Packing is like grammar. You have to know the rules before you can break them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=158">158</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>merino wool base layer or thermal shirt will keep you warm and can easily be combined with other items or taken off as the weather changes.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=169">169</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>traveling in very cold, wintry weather, wear an ultralight down jacket and/or a fleece jacket. Most importantly, don’t pack your jacket.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=174">174</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Bring no more than two pairs of shoes, including the ones you’re wearing. Wear the bulkier pair, typically sneakers or boots. Pack the smaller pair. They must be flat and light. Think sandals, flats, boat shoes, or espadrilles.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=189">189</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Pack “Must Have,” Not “Just In Case”</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=193">193</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You should only bring what you wear on the average day.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=196">196</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>packing means that 20% of what you pack will account for 80% of what you wear.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=198">198</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you’re traveling for two weeks, or a month, or a year, or permanently, break your packing list down into a more manageable chunk: one week.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=206">206</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>On short trips, hand wash your basics like socks, t-shirts, and underwear in the sink between laundry cycles.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=210">210</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Wool is ideal because it keeps you warm in the winter and cool in the summer.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=220">220</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Either invest in wool or be willing to give your synthetic fabrics a quick wash at night if you’ve been sweating. We recommend Smartwool, Wigwam, or Darn Tough wool socks.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=227">227</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We also like ExOfficio and Uniqlo Airism underwear for keeping you dry and eliminating odors.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=230">230</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Pick a simple color palette and only pack clothes that fit that palette. I wear blues and grays.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=236">236</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>brand, want to save money, or want to be more eco-friendly, buy normal-sized toiletries and pour what you need into GoToobs. I use a three ounce GoToob when I need to pack body wash for short trips. To save space, use Dr. Bronner’s Magic Soap. The liquid version is concentrated and can replace your soap, shampoo, shaving cream, toothpaste, and detergent.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=337">337</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>airline.We recommend our flagship product, the Tortuga Travel Backpack, or</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=347">347</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We designed the Tortuga Daypack</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=355">355</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>previously used a two-sided packing cube to separate my dirty socks and underwear from my clean ones.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=360">360</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The primary purpose of the list is not to specify what you will take with you on any particular journey, but to serve as a model for your travels, a constraint on your packing exuberance, a personal blueprint that you can refine over time (not change every time).</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=373">373</location>
+      <note>Doug Dyment, author of OneBag, eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Wool base layers, a down jacket, and a fleece jacket will provide enough warmth for almost any weather.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=390">390</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Icebreaker wool t-shirts are more expensive but a</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=397">397</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I recommend ExOfficio underwear for men and women because they eliminate sweat and odors and are quick-drying.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=411">411</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Merino. Clothing made from merino wool is super-lightweight, keeps you warm in cold weather and cool in hot weather and you can wear it for days on end and it still won’t smell. — Dave Dean, Editor &amp; Founder of Too Many Adapters</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=504">504</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Icebreaker’s Featherweight or Ultralight lines are 90-100% wool but extremely lightweight.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=509">509</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you need something more stylish, consider linen, seersucker, or a lightweight chambray.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=514">514</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Women should visit the website Her Packing List for an entire guide to travel underwear and bras.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=707">707</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Even on Extended Trips, Pack for Two Weeks</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=844">844</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Versatile, low-maintenance clothing is key to packing light. — Netanya Trimboli, Hosteling International</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=1158">1158</location>
+      <note>Eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Tank tops Light cotton shirts in any style of neck line Cotton, or merino wool, cardigans Collared button down shirts Leggings or heavy tights (to layer under a dress or jeans if super cold) Jersey dresses that wrinkles shake out of</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=1163">1163</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Victoria’s Secret Essential t-shirts Old Navy t-shirts J Crew tees Banana Republic stretchy t-shirts American Apparel shirts Target t-shirts like the boyfriend, burn-out or simple cotton shirts</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=1169">1169</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Two Old Navy tank tops in black and pink</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=1201">1201</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Burt’s Bees lip balm.</text>
+      <location url="kindle://book?action=open&amp;asin=B00WYJ37FK&amp;location=1421">1421</location>
+    </highlight>
+  </highlights>
+</book>
