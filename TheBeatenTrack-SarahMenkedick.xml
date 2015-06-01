@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Beaten Track (Kindle Single)</title>
+  <authors>Sarah Menkedick</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>cracked open my sense of the possibilities: A definitive crack, you know the kind, when something that may have been drifting around the edges of your subconscious is suddenly not only possible, but laid out clear as a revelation in front of you.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=100">100</location>
+      <note>Test Note
+second text Note</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So many memories in a certain shape and color and then, la di da, off again to make so many more in new shapes and colors.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=147">147</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And so the central tension of the next several years began to develop, between wanting something new, a visceral and completely immersive challenge, and needing a deeper and continuous connection to community, needing to force myself beyond the easiness of starting fresh in a place where everything dazzled and everything was an easy and similar target on the page.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=148">148</location>
+      <note>Trying an acronym
+qt</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I have an addiction to the singular rush of not knowing a damn thing and learning it all from scratch:</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=151">151</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>and the most ordinary everyday experiences have a sheen of deep impenetrable meaning to them, which you can only discover if you’re quiet enough and in the right state of mind.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=170">170</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the increasingly gear-oriented backpackers of late, whose simplified off-the-beaten-track lifestyle is fueled by a near-military obsession with expensive lightweight gadgetry.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=209">209</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Slow travel operates largely on the gimmick of time just as backpacker travel operates largely on the gimmick of authenticity.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=226">226</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This tolerance of ambiguity — this respect for a complex other we cannot completely understand</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=255">255</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It was a way of seeing and experiencing that avoided or rendered superfluous the productivity-obsessed mantras of this age, the American need to always be doing something and marching resiliently onward, on the up and up, making the most of time and money, getting ahead, going further, getting better, making progress.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=272">272</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>that sense of hushed, faint poignancy beneath experiences whose meaning is not so much voiced as it is ebbing impalpably somewhere inside.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=405">405</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And I felt so full of the world, so far beyond myself and my ego and my bumbling sense of importance, so far beyond all of the tedious obsessions of the American quotidian, and it was that expansiveness that made the moment salient, not the danger, not the risk, not the having done things right, not the formula, not the experience as prescribed by the literature: For me it was the jarring loose of myself from all the petty linear ties of the everyday into something so much fuller, wider, deeper.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=620">620</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Perhaps, in retrospect, there is something to be said for the detachment of the flâneur; for as macho and archaic as the concept is, and for as historically bound as it is to the city, I wonder how an embrace of this distanced drifting, this egalitarian wandering through the “voluptuous extremes” (as Susan Sontag put it) of a place, might free the voyage up from its purposeful zigzag between preordained experiences.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=1337">1337</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The night was fading and we had no idea what month or day it was. It was the belly of travel, the complete unconscious absorption in a place, a warm gauze around you muffling your identity and the whens and whos and whys of where you’d come from.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=1349">1349</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There was, on that road en route to that house on that peninsula, the sense of complete isolation and serenity within it; I could zoom far out and see myself walking a road in Borneo early in the warm night, back to a room that was not mine in a place foreign to me; could see myself not as a character but remotely as just one example of one moment of life on a huge variegated planet; could sense my own smallness and unimportance, the contingency and ephemerality and reassuring insignificance of myself and my life in the midst of so much else.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=1481">1481</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is a singular peace in this. Steady forward and up, feeling only the pace of your breath and your sweat and your body in motion, everything pared down to that journey to the top.</text>
+      <location url="kindle://book?action=open&amp;asin=B005R0SO38&amp;location=1523">1523</location>
+    </highlight>
+  </highlights>
+</book>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?><!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph</title>
+  <authors>Ryan Holiday</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Not to an audience or for publication but to himself, for himself.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=81">81</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So that setbacks or problems are always expected and never permanent.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=93">93</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The power he held never seemed to go to his head—neither did the stress or burden.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=99">99</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But the responses they elicit are the same: Fear. Frustration. Confusion. Helplessness. Depression. Anger.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=128">128</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Like oxygen to a fire, obstacles became fuel for the blaze that was their ambition.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=155">155</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>we’re trying to do something really hard and find ourselves outmatched, overstretched, or out of ideas.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=162">162</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Ancient philosophy never cared much for authorship or originality—all writers did their best to translate and explain the wisdom of the greats</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=169">169</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Not: This is not so bad. But: I can make this good.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=181">181</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The obstacle in the path becomes the path. Never forget, within every obstacle is an opportunity to improve our condition.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=194">194</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>All great victories, be they in politics, business, art, or seduction, involved resolving vexing problems with a potent cocktail of creativity, focus, and daring.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=210">210</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead of opposing enemies, we have internal tension. We have professional frustration. We have unmet expectations. We have learned helplessness. And we still have the same overwhelming emotions humans have always had: grief, pain, loss.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=215">215</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Objective judgment, now at this very moment. Unselfish action, now at this very moment. Willing acceptance—now at this very moment—of all external events. That’s all you need. —MARCUS AURELIUS</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=223">223</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Perception, Action, and the Will.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=229">229</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>these obstacles are actually opportunities to test ourselves, to try new things, and, ultimately, to triumph.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=235">235</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We will see things simply and straightforwardly, as they truly are—neither good nor bad.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=243">243</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>never rising to take the bait or defend himself or get upset).</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=277">277</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You must realize: Nothing makes us feel this way; we choose to give in to such feelings.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=288">288</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Too often we react emotionally, get despondent, and lose our perspective.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=299">299</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To be objective To control emotions and keep an even keel To choose to see the good in a situation To steady our nerves To ignore what disturbs or limits others To place things in perspective To revert to the present moment To focus on what can be controlled</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=314">314</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This can’t harm me—I might not have wanted it to happen, but I decide how it will affect me. No one else has the right.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=344">344</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As for us, we face things that are not nearly as intimidating, and then we promptly decide we’re screwed.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=363">363</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Everything is falling and crashing down around us, exactly when we feel like we can’t handle any more.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=392">392</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Do we stare it down? Ignore it? Blink once or twice and redouble our concentration? Or do we get shaken up? Do we try to medicate these “bad” feelings away?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=393">393</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Obstacles make us emotional, but the only way we’ll survive or overcome them is by keeping those emotions in check—if we can keep steady no matter what happens, no matter how much external events may fluctuate.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=442">442</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>cultivated—freedom from disturbance and perturbation—so you can focus your energy exclusively on solving problems, rather than reacting to them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=447">447</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Real strength lies in the control or, as Nassim Taleb put it, the domestication of one’s emotions, not in pretending they don’t exist. So go ahead, feel it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=456">456</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Just don’t lie to yourself by conflating emoting about a problem and dealing with it. Because they are as different as sleeping and waking.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G3L1B8K&amp;location=458">458</location>
+    </highlight>
+  </highlights>
+</book>

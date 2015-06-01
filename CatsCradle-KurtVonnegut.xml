@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Cat&#x27;s Cradle</title>
+  <authors>Kurt Vonnegut</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>My Bokononist warning is this: Anyone unable to understand how a useful religion can be founded on lies will not understand this book either.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XRELGQ&amp;location=166">166</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Bokonon says: “Peculiar travel suggestions are dancing lessons from God.”</text>
+      <location url="kindle://book?action=open&amp;asin=B003XRELGQ&amp;location=758">758</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Castle quoted another poem: Tiger got to hunt, Bird got to fly; Man got to sit and wonder, “Why, why, why?” Tiger got to sleep, Bird got to land; Man got to tell himself he understand.</text>
+      <location url="kindle://book?action=open&amp;asin=B003XRELGQ&amp;location=1989">1989</location>
+    </highlight>
+  </highlights>
+</book>

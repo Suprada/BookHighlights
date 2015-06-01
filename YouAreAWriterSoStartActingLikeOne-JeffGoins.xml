@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?><!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>You Are a Writer (So Start Acting Like One)</title>
+  <authors>Jeff Goins</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>It’s not that Cole hates his job. He rather likes it. Which is the whole problem. There’s another life he longs to live as well, a parallel one that feels at odds with the one he’s living.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=36">36</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Believe you already are what you want to be. And then start acting like it.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=74">74</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Write. Clarify your worldview. Get comfortable with your voice. Build a habit of writing that works for you.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=97">97</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He said it was none of that. The truth was much simpler. When do you become a writer? “When you say you are,” he said.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=155">155</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Through this process, I learned a crucial lesson:  Before others will believe what is true about you, you’ll have to believe it yourself.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=165">165</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is no wrong thing. Just begin. Cancel all backup plans, pick a project, and move forward. It doesn’t matter what you pick. Maybe it’s a book, an article, or whatever. Write it. And finish it.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=189">189</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Soreness is the result of untrained muscle. If you practice every day, you don’t get fatigued. All muscles are built this way, even creative ones. If you do anything long enough, it becomes habitual.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=206">206</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This may take months or years. But if you keep showing up, keep practicing and doing the work of a professional, you’ll find it.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=213">213</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You have to choose your priorities, or they will choose you.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=217">217</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The only person you need to worry about writing for is you. This is the secret to satisfaction in anything: doing what gives you life and not trying to live up to others’ expectations.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=242">242</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s not about writing in spurts of inspiration. It’s about doing the work, day-in and day-out.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=274">274</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You’d better be writing because you can’t not write. You’d better love it.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=396">396</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Talent alone cannot make a writer. There must be a man behind the book.” —RALPH WALDO EMERSON</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=414">414</location>
+      <note>external auote</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You are going to have to be a marketer, an entrepreneur, and a talented salesperson.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=421">421</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Every writer wants her message to be heard. It’s a universal human need to be noticed, embraced, and accepted. We all want to belong.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=463">463</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This is the world we live in today: a noisy, cluttered place in which the loudest voices get the most attention.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=466">466</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A platform to share your writing. A brand to build trust with readers. Channels of connection to distribute your art.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=471">471</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Your platform is your home base. It’s the place where new people can meet you. It’s the place where you earn their trust and permission. It’s where your loyal readers know they can find you week after week.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=487">487</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Get experience.  Demonstrate competence.  Generate buzz.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=579">579</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What’s the best way to build a platform and earn influence?  Easy. Help people. Be a resource to others.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=592">592</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Everyone has a brand.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=608">608</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Seth Godin says, be remarkable in the most literal way—so people will remark about you.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=625">625</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s what makes you, you. But it’s not just your personality. It’s who you consciously choose to be. It’s an intentional identity you don for the sake of your art.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=628">628</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Name: Your actual name, a brand name, or a pseudonym. Image: A logo, your face, or some kind of custom headshot. Voice: Your style and tone of communication. It’s how people recognize you.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=640">640</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A writer’s voice is the combination of passion, personality, and people.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=667">667</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Here are a few questions to ask yourself: Describe yourself in a few adjectives. What do you and others come up with? Take note of your interests: favorite books, movies, music, etc. What do they have in common? Imagine your ideal reader. Describe him or her. Write a letter to this person (including a name).</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=669">669</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>wanted to build a platform around my writing. I repurposed a headshot from a family photo shoot I did with my wife. I put it on every piece of collateral I had: website, Twitter, Facebook, etc. Then I started reaching out to people, building relationships, and writing.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=677">677</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Here’s the truth: Most writers don’t like promoting themselves. I sure don’t. But what alternative do we have? If you want to matter, you have to get your content in front of people; you have to be connected to others: agents, editors, publishers, readers, and writers.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=703">703</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You’re going to have to join some existing channels and networks—if you want your message to matter. Here are a few examples: Facebook  Twitter  Email  Phone  Conferences  Meetups</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=714">714</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This concept of building long-term relationships slowly may not be easy for you. But it’s necessary. Even if it takes discipline, don’t skip this part.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=724">724</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Here are some ways to ask and build permission, so you can deliver a message: Invite Facebook fans or Twitter followers to read an epic blog post. Invite blog readers to subscribe to your newsletter. Ask another writer or potential mentor to coffee. Give away something for free—like an eBook—in exchange for attention.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=744">744</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For me, this is the email list that connects people to my blog.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=756">756</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This didn’t take years of living in obscurity. Once I figured it out, it took about eight months. I did it with a full-time job and a wife, working in the evenings and early mornings.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=768">768</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s the Age of No Excuse—where anything is possible and the only one holding you back is you.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=773">773</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As it turns out, content is not king. Relationship is.</text>
+      <location url="kindle://book?action=open&amp;asin=B007YJEIAS&amp;location=935">935</location>
+    </highlight>
+  </highlights>
+</book>

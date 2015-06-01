@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>On the Shortness of Life (Penguin Great Ideas)</title>
+  <authors>Seneca</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>But can anyone dare to complain about another’s pride when he himself never has time for himself?</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=69">69</location>
+      <note>time</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Men do not let anyone seize their estates, and if there is the slightest dispute about their boundaries they rush to stones and arms; but they allow others to encroach on their lives – why, they themselves even invite in those who will take over their lives.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=73">73</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You will find no one willing to share out his money; but to how many does each of us divide up his life! People</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=75">75</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=76">76</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You act like mortals in all that you fear, and like immortals in all that you desire.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=87">87</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>How stupid to forget our mortality, and put off sensible plans to our fiftieth and sixtieth years, aiming to begin life from a point at which few have arrived!</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=91">91</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So valuable did leisure seem to him that because he could not enjoy it in actuality, he did so mentally in advance.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=100">100</location>
+      <note>live life ike this..</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>since the mind when distracted absorbs nothing deeply, but rejects everything which is, so to speak, crammed into it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=140">140</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Living is the least important activity of the preoccupied man; yet there is nothing which is harder to learn.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=141">141</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=142">142</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>he has the longest possible life simply because whatever time was available he devoted entirely to himself. None of it lay fallow and neglected, none of it under another’s control; for being an extremely thrifty guardian of his time he never found anything for which it was worth exchanging.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=146">146</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Mark off, I tell you, and review the days of your life:</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=154">154</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But the man who spends all his time on his own needs, who organizes every day as though it were his last, neither longs for nor fears the next day.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=159">159</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The greatest obstacle to living is expectancy, which hangs upon tomorrow and loses today.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=183">183</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You are arranging what lies in Fortune’s control, and abandoning what lies in yours.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=184">184</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In the present we have only one day at a time, each offering a minute at a time. But all the days of the past will come to your call: you can detain and inspect them at your will – something which the preoccupied have no time to do.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=210">210</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Unless we are very ungrateful, all those distinguished founders of holy creeds were born for us and prepared for us a way of life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=295">295</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But we can choose whose children we would like to be.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=318">318</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Some time has passed: he grasps it in his recollection. Time is present: he uses it. Time is to come: he anticipates it. This combination of all times into one gives him a long life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=326">326</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For as soon as their preoccupations fail them, they are restless with nothing to do, not knowing how to dispose of their leisure or make the time pass.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=332">332</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>‘How long will this last?’ This feeling has caused kings to bewail their power, and they were not so much delighted by the greatness of their fortune as terrified by the thought of its inevitable end.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=342">342</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Life will be driven on through a succession of preoccupations: we shall always long for leisure, but never enjoy it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=363">363</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When you are retired and enjoying peace of mind, you will find to keep you busy more important activities than all those you have performed so energetically up to now.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=370">370</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You had promised higher and greater things of yourself.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=376">376</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Stolid pack-animals are much more fit for carrying loads than thoroughbred horses: who ever subdued their noble speed with a heavy burden?</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=376">376</location>
+      <note>lesson. not evryne can do everything. Some are brorn to lead</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>much that is worth your study: the love and practice of the virtues, forgetfulness of the passions, the knowledge of how to live and die, and a life of deep tranquillity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=393">393</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Is it really so pleasant to die in harness? That is the feeling of many people: their desire for their work outlasts their ability to do it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=408">408</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Never have I trusted Fortune, even when she seemed to offer peace. All those blessings which she kindly bestowed on me – money, public office, influence – I relegated to a place whence she could claim them back without bothering me. I kept a wide gap between them and me, with the result that she has taken them away, not torn them away.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=474">474</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Different reasons roused different peoples to leave their homes; but this at least is clear, nothing has stayed where it was born.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=523">523</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For how little have we lost, when the two finest things of all will accompany us wherever we go, universal nature and our individual virtue.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=545">545</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whatever is best for a human being lies outside human control: it can be neither given nor taken away.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=548">548</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Marcellus in exile at Mytilene, living as happily as human nature allows, and never more keen on liberal studies than at that time.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=569">569</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For how little is needed to support a man!</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=586">586</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As far as I am concerned, I know that I have lost not wealth but distractions. The body’s needs are few: it wants to be free from cold, to banish hunger and thirst with nourishment; if we long for anything more we are exerting ourselves to serve our vices, not our needs.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=587">587</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What luxury, if ten million meant poverty! How then can you think that it is the amount of money that matters and not the attitude of mind?</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=616">616</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So the man who restrains himself within the bounds set by nature will not notice poverty; the man who exceeds these bounds will be pursued by poverty however rich he is.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=633">633</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is the mind that creates our wealth, and this goes with us into exile, and in the harshest desert places it finds sufficient to nourish the body and revels in the enjoyment of its own goods. Money</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=634">634</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For to be afflicted with endless sorrow at the loss of someone very dear is foolish self-indulgence, and to feel none is inhuman callousness.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=709">709</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I know that this is not something which is in our power and that no strong feeling is under our control, least of all that which arises from sorrow: for it is violent and violently resists every remedy.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=731">731</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>who use books not to acquire wisdom but as the furniture of luxury.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=745">745</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>because it is natural to touch more often the part that hurts.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=800">800</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>‘Where is the need,’ I ask, ‘to compose something to last for ages?</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=845">845</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So if you must fill your time, write something in a simple style for your own use and not for publication: less toil is needed if you study only for the day.’</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=847">847</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Again, when my mind is lifted up by the greatness of its thoughts, it becomes ambitious for words and longs to match its higher inspiration with its language, and so produces a style that conforms to the impressiveness of the subject matter. Then it is that I forget my rule and principle of restraint, and I am carried too far aloft by a voice no longer my own.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=848">848</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>for we take too intimate a view of our own characteristics and bias always affects our judgement.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=852">852</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Greeks call this steady firmness of mind ‘euthymia’ (Democritus wrote a good treatise about it), but I call it tranquillity,</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=868">868</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We are, therefore, seeking how the mind can follow a smooth and steady course, well disposed to itself, happily regarding its own condition and with no interruption to this pleasure, but remaining in a state of peace with no ups and downs: that will be tranquillity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=870">870</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For the human mind is naturally mobile and enjoys activity. Every chance of stimulation and distraction is welcome to it – even more welcome to all those inferior characters who actually enjoy being worn out by busy activity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=897">897</location>
+      <note>internet</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>‘Thus each man ever flees himself.’ But to what end, if he does not escape himself? He pursues and dogs himself as his own most tedious companion.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=909">909</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Above all it is essential to appraise oneself, because we usually overestimate our capabilities.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=980">980</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For the performer must always be stronger than his task: loads that are too heavy for the bearer are bound to overwhelm him.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=986">986</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You must set your hands to tasks which you can finish or at least hope to finish, and avoid those which get bigger as you proceed and do not cease where you had intended.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=988">988</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You must consider whether your nature is more suited to practical activity or to quiet study and reflection, and incline in the direction your natural faculty and disposition take you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=994">994</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But nothing delights the mind so much as fond and loyal friendship. What a blessing it is to have hearts that are ready and willing to receive all your secrets in safety, with whom you are less afraid to share knowledge of something than keep it to yourself, whose conversation soothes your distress, whose advice helps you make up your mind, whose cheerfulness dissolves your sorrow, whose very appearance cheers you up!</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=997">997</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Still, you must especially avoid those who are gloomy and always lamenting, and who grasp at every pretext for complaint. Though a man’s loyalty and kindness may not be in doubt, a companion who is agitated and groaning about everything is an</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1009">1009</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So the ideal amount of money is that which neither falls within the range of poverty nor far exceeds it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1034">1034</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Let us get used to banishing ostentation, and to measuring things by their qualities of function rather than display.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1036">1036</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Let us learn to increase our self-restraint, to curb luxury, to moderate ambition, to soften anger, to regard poverty without prejudice, to practise frugality, even if many are ashamed of</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1039">1039</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In any situation in life you will find delights and relaxations and pleasures if you are prepared to make light of your troubles and not let them distress you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1064">1064</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>he lives as though he were lent to himself and bound to return the loan on demand without complaint.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1087">1087</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>‘What can happen to one can happen to all.’ If you let this idea sink into your vitals, and regard all the ills of other people (of which every day shows an enormous supply) as having a clear path to you too, you will be armed long before you are attacked.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1111">1111</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>it is the mark of a greater mind not to restrain laughter than not to restrain tears, since laughter expresses the gentlest of our feelings, and reckons that nothing is great or serious or even wretched in all the trappings of our existence.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1194">1194</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigour, while a short period of rest and relaxation will restore our powers.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1231">1231</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>work. I remember that this was the practice of the great orator Asinius Pollio, whom nothing kept at work after the tenth hour. After that time he would not even read his letters, in case something fresh cropped up to be dealt with; but in those two hours he would rid himself of the weariness of the whole day.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1239">1239</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Some take a break in the middle of the day and keep any less demanding task for the afternoon hours.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1241">1241</location>
+      <note>do this</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We must indulge the mind and from time to time allow it the leisure which is its food and strength.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1243">1243</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We must go for walks out of doors, so that the mind can be strengthened and invigorated by a clear sky and plenty of fresh air. At times it will acquire fresh energy from a journey by carriage and a change of scene, or from socializing and drinking freely.</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1243">1243</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Aristotle that ‘No great intellect has been without a touch of madness,’</text>
+      <location url="kindle://book?action=open&amp;asin=B00BCU07LO&amp;location=1252">1252</location>
+      <note>eq</note>
+    </highlight>
+  </highlights>
+</book>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Subtle Beauty (Crowns of the Twelve Book 1)</title>
+  <authors>Ann Hunter</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>&quot;In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.&quot; --Buddha&#x27;s Little Instruction Book, J. Kornfield</text>
+      <location url="kindle://book?action=open&amp;asin=B00HNJX0Q2&amp;location=2363">2363</location>
+    </highlight>
+  </highlights>
+</book>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?><!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Barefoot Warrior: The Journey of a Young Adult in Search of His True Nature</title>
+  <authors>Kyle Weaver</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>The problem with adults is that they have very few useful comments when it comes to a problem you’re having. They never seem to understand what you’re saying, so when you talk to them, they try to change your problem into something they do understand.</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=293">293</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What if I really could be my own sun? he thought. Grow myself my own way. What would I grow?</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=465">465</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Here’s my new motto: Family — you know it when you have it, but who cares because family has nothing to do with what you know.</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=1729">1729</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“What if our minds are like projectors?” he said. “What if they project our ideas out into the world like a movie onto a screen? What if we think we’re seeing the world, but what we’re really seeing is just our ideas about it?”</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=1907">1907</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>More exciting still, it occurred to him that if he was now consciously aware of the projector in his mind, and simultaneously he was no longer under anyone else’s care or supervision, then quite possibly for the first time in his life, he was now totally free.</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=1918">1918</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The thought crossed Kyle’s mind, what if everyone on earth was an angel of sorts, poised and ready for mild acts of kindness each and every moment? What if the world’s greatest problem was that most people had just forgotten that simple fact?</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=1980">1980</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I’m going to be authentic, no matter what. I’m not gonna say anything because of what I think they want to hear, or fake anything. I’m not gonna hide myself in some secret place deep down inside. I’m gonna be direct and honest. Totally. I’m gonna be the screen, not the projector. I’m gonna let things be what they are without judging them, or boxing them into my ideas about them. Like really listening to people, trying to hear what they’re saying, not turn it into what I want them to be saying.</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=2056">2056</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I’m digging up the ruins of all the things I thought I knew so I can burn them to cinders, and bury them for good. I want to be blank and free. I want to wake up each morning without knowing how the day is supposed to go. I want to see the real people around me, not just my ideas of them.</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=2259">2259</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What if we all have a sunlight kind of energy inside of us, always shining out at everyone else? What if everyone’s ideas and feelings shine out in invisible rays at everything, sometimes creating ripples of smiles, sometimes waves of anger? What if together, bound like the cells in a firefly, we form an organism? What if the organism has good days and bad days, light moments and dark moments, all depending on what each one of us little cells shines out there? What would happen if we spent more time shining the best of ourselves out there, out into the organism we all are together? What if we began to bathe in each other’s best? What might our organism evolve into then?</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=2267">2267</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It seems to me that your bar mitzvah should come on the day when you stop sitting around like some dumb lump of clay and you actually take over the sculpting process. That day, you become the lead artist on yourself. You let everyone around you know it. Why not throw a party for that?</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=2457">2457</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>said, I stand naked before the world, and the world stands naked before me.</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=2476">2476</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“How can you expect anyone to take you seriously if you don’t take them seriously in return?”</text>
+      <location url="kindle://book?action=open&amp;asin=B007GJ3W6M&amp;location=2763">2763</location>
+    </highlight>
+  </highlights>
+</book>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Superhuman by Habit: A Guide to Becoming the Best Possible Version of Yourself, One Tiny Habit at a Time</title>
+  <authors>Tynan</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Habits are the closest we can get to having superpowers.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=34">34</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Habits can only be thought of rationally when looked at from a perspective of years or decades.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=129">129</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The benefit of a habit isn&#x27;t the magnitude of each individual action you take, but the cumulative impact it will have on your life in the long term. It&#x27;s</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=130">130</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Second, you should be very scared to fail to execute a habit, even once. By failing to execute, potentially you&#x27;re not just losing a minor bit of progress, but rather threatening the cumulative benefits you&#x27;d accrue  by establishing a habit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=151">151</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whenever you are going to skip executing a habit, force yourself to consciously admit that you&#x27;re skipping, and articulate why you&#x27;re skipping.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=155">155</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Missing two days of a habit is habit suicide.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=168">168</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You can&#x27;t rely on willpower alone to get through the next day. It didn&#x27;t work on the first day you skipped, and it&#x27;s best to acknowledge that it probably won&#x27;t work the next day.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=177">177</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Rather than say, “Okay, I&#x27;m definitely going to do it tomorrow”, decide specifically when you&#x27;re going to do it, and come up with solutions to problems in advance, particularly whatever problem stopped you from executing in the first place.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=179">179</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When planning a variance, make it concrete, black and white, and specify exactly when the variance</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=195">195</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>will end.  For example, instead of doing your regular gym routine while traveling through Europe, you commit to do twenty pushups every morning, and then as soon as you return home, resume your normal routine.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=195">195</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Remember that the power of a habit isn&#x27;t actually in the individual execution, but in the consistency.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=209">209</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is far far worse to skip doing something than to just do a horrible job of it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=209">209</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Use your mistakes to focus. They draw attention to an area that needs more attention, so give it that attention.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=254">254</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whenever you stick to a habit, especially if it was difficult or you did particularly well, take two seconds, smile, and congratulate yourself.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=266">266</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Most habits worth having are long-term ones.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=279">279</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The one constant in your life is yourself.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=280">280</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>in building habits, you need something consistent to grade yourself against. Use your adherence to process, not your actual results.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=282">282</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Choosing your next habit is a personal decision, sort of like choosing a house or a spouse.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=316">316</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>However, the right habit to tackle is one that you care about.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=321">321</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>gifts we&#x27;re born with-- or not. Building social skills, something very few people actually do, pays off immensely.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=336">336</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Not as wealthy as you&#x27;d like to be? Assume that it is your fault.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=349">349</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What is a habit if not a tool to change things about ourselves that leave room for improvement?</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=362">362</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>people we think of as exceptional aren&#x27;t that way because of who they are, but because of what they</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=370">370</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Fundamentally, there seem to be two types of people: those who find</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=380">380</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>it easier to add new things to do, and those who find it easier to subtract things.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=381">381</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Habits should always follow an actual concrete goal, rather than just exist for the sake of having a habit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=393">393</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Excitement is enough to get you through the first week or two of a new habit, but is fundamentally unable to sustain you beyond that.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=412">412</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Failing to understand and validate your motivation up front leads you to the possibility of entering a cycle of pushing hard on a new habit for a couple weeks, losing interest, feeling bad for giving up, and then being slightly more reluctant and pessimistic towards future habits.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=414">414</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>1. What good things will happen if I implement this habit? 2. What bad things will happen if I implement this habit? 3. What good things will happen if I don&#x27;t implement this habit? 4. What bad things will happen if I don&#x27;t implement this habit?</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=434">434</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To make sure that this motivation sticks, write yourself a note explaining why you&#x27;re going to implement the habit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=445">445</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Start small, become consistent, and increase at a manageable pace. That&#x27;s how you optimize for the finish line, rather than the starting line.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=470">470</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A serious danger to the habit builder is the reasonable reschedule.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=474">474</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Daily habits, on the other hand, are resistant to the reasonable reschedule.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=482">482</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It takes a couple weeks of compliance, but it&#x27;s daily habits will quickly become an indelible part of your daily must-do list.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=487">487</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Habits work the same way. Humans are creatures of routine, and altering that routine takes significantly more willpower and effort than simply maintaining it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=516">516</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Some people may have trouble digging down to their true motivation for wanting to implement a habit, others may have trouble choosing the best habits for them at any given time, and others may have trouble sticking with the habit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=552">552</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Maybe you need to spend more time actually writing out your motivations, you need an honest friend to give you some guidance on where your efforts could best be spent, or you need someone to hold you accountable.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=555">555</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Don&#x27;t say that you will drink tea every morning, because you probably won&#x27;t. Say that every day, as soon as you wake up, you will drink tea.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=569">569</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Okay, whenever I feel stressed, or feel like I&#x27;m about to be stressed, I&#x27;m going to drink a cup of green tea, write out what&#x27;s worrying me the most, and then take one small step towards resolving it.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=578">578</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It&#x27;s through this process that habits give you freedom-- chains take care of the necessities of life, and leave you with time and willpower to make forward progress.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=604">604</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For example, building up willpower is extremely slow, but once you have a high capacity for it, you can do a lot of difficult things outside your routine.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=623">623</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>eliminate all non-work web browsing for three months,</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=630">630</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Reserve accountability for only the most difficult and important of your habits.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=639">639</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>habit of self-reliance,</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=640">640</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When we talk about creating habits, we are talking about changing our long-term behavior. We extrapolate our current trajectory, decide we would prefer a different trajectory, and then we take the steps to bend reality towards it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=643">643</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>habitualize high-quality input.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=668">668</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>occasionally run into one that changes your perception in an instant and births a new lifelong habit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=672">672</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The solution is to only quit habits when you no longer want to quit them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=680">680</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Those who have a problem with seeking stimulation are never content focusing on one thing. Instead they jump from one to the next, trying to get a quick hit of dopamine.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=716">716</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Use the impulse to seek stimulation as a trigger for a habit of taking a moment to think about what you should actually be doing with your time.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=727">727</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Simplicity and freedom from distraction are the core components of the habit builder&#x27;s habitat.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=738">738</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Building positivity towards yourself is the process of drastically increasing the portion of your time you consider yourself to be happy, minimizing the emotional toll of “bad” events, and maintaining an even positive mood.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=786">786</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>acknowledge the paradox of being certain in our position yet aware that our strong convictions are sometimes wrong.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=824">824</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Remember that everyone is just doing their best and trying to be happy, just like you.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=839">839</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Sleeping as long as you want to and waking up without an alarm clock smacks of being on vacation,</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=926">926</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The goal with good sleep is to get as much sleep as your body wants, probably around 8 hours on average, and to wake up without an alarm clock.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=928">928</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In addition to your bedtime, set a strict screens-off time one or two hours prior to your bedtime.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=965">965</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You may want to record how much sleep you get every day. When I first switched to this</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=973">973</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A key distinction that made meditation easier for me was to realize that being really bad at it was a good thing.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1005">1005</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As always, focus on the process and count it as a win any time you sit with your eyes closed, trying your best, for five minutes.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1009">1009</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The most tangible benefit I noticed from meditation was that it created a space in between feeling an impulse and acting on it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1010">1010</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We can think of everything we do during our lives as either input or output. Either we&#x27;re creating something new or we&#x27;re taking in outside influence.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1102">1102</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Write a prescribed amount every day. I find it easiest to assign myself to write a single blog post every day, but you could also choose a word count.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1150">1150</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>but 500 per day is plenty for blogging.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1152">1152</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>My habit is to write every day of the week and then post the best two to my blog.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1160">1160</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The real value is that it forces you to be thorough about evaluating thoughts, helps synthesize input into output, and transforms you into a clearer communicator.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1166">1166</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the time to go see masterpieces. A masterpiece is anything made by someone who is an expert in their craft.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1180">1180</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Every day, you will clean your house to a “nine out of ten” standard twice.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1247">1247</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Once per day, preferably early afternoon when you&#x27;ve had the chance to read emails and still have a bunch of productive time left, go through all of the starred emails and either reply, take the necessary action, or unstar it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1275">1275</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The essential habit of becoming a minimalist is the habit of regularly evaluating how your possessions either add to or detract from the conscious life you&#x27;re living and then getting rid of those things that are burdensome.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1313">1313</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“if you want something done, give it to a busy person.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1429">1429</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>That phrase makes sense because we know that busy people have, probably subconsciously, created habits to allow them to get a lot done.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1429">1429</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Twice, then Quit is very simple. When you want to quit working for the first time, don&#x27;t. Push through and work some more. The second</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1447">1447</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>time you want to quit, also don&#x27;t quit. Push through again. The third time you want to quit, go ahead and quit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1448">1448</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>That wasn&#x27;t surprising by itself, but what I didn&#x27;t expect to find was that almost all of my wasted time was before I even got to work.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1467">1467</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Think about the top thing that you want to get done every single day.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1477">1477</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Then, every day, track what time you started that activity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1480">1480</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This habit works on the principle of “what gets measured gets managed.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1483">1483</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another leading cause of procrastination is simply not</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1489">1489</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>knowing what to do next.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1490">1490</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whenever that happens, simply set a clock for thirty minutes, and begin planning.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1500">1500</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It&#x27;s often easiest to start with a very long term vision. Why do you want this goal? What exactly does success look like?</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1505">1505</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Sometimes you&#x27;ll be overwhelmed with ideas and your writing hand will have trouble keeping up with your brain. That happens when you&#x27;re paralyzed by choice and can&#x27;t decide what to do next. Other</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1513">1513</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Every night, before you go to bed, rate your day on a scale from one to ten. I recommend that you rate yourself on how little time you wasted,</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1537">1537</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When you have a few months of rating history,</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1549">1549</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We put our faith in the compounded power of small repeated actions, and we adjust our behavior to reap those benefits.</text>
+      <location url="kindle://book?action=open&amp;asin=B00NGC8I9E&amp;location=1557">1557</location>
+    </highlight>
+  </highlights>
+</book>

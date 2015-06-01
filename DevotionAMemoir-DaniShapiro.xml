@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Devotion: A Memoir</title>
+  <authors>Dani Shapiro</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Could I find and hold on to a deeper truth than the whir and strum of my daily life, which seemed designed to ensure that</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=445">445</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>some day I would wake up—after the years of packed lunches and piano practice and rushed dinners—and wonder where it all had gone?</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=446">446</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Yogis use a beautiful Sanskrit word, samskara, to describe the knots of energy that are locked in the hips, the heart, the jaw, the lungs. Each knot tells a story—a narrative rich with emotional detail. Release a samskara and you release that story. Release your stories, and suddenly there is more room to breathe, to feel, to experience the world.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=454">454</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The whole world is a lesson in what’s true,” she said. “Everyone is struggling. Life is difficult for everybody. Once you’re in, there’s no way out. You have to go forward. And we all die in the end. So how to deal with it?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=719">719</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“I don’t think it has to be metaphysical,” she said. “It’s the expression of a wish, really.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=758">758</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But still—knowing what they knew—they didn’t hold back. They opened themselves up</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1227">1227</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>to the probability that their hearts would be broken again and again.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1228">1228</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Most mornings I didn’t feel like doing this, but I had learned that it was best to ignore what I felt like doing, and instead create a ritual, a habit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1275">1275</location>
+      <note>Just do, dont feel</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>better. I was trying to get better too. I was looking for a structure, a system, a way to live my life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1496">1496</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I had carried with me Heschel’s idea of time as a cathedral. It didn’t have to be Sabbath for this moment to be holy. It was holy precisely because there was no other.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1529">1529</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It was a lesson I needed to learn over and over again: to stop and simply be. To recognize these moments and enter them—with reverence and an unprotected heart—as if walking into a cathedral.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1546">1546</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But solitude—the kind of silence inside of which one can transact some private business with the fewest obstacles, in Thoreau’s words—does not simply have to do with being alone.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1785">1785</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I open Virginia Woolf’s A Writer’s Diary to a random page. This morning’s entry: “Arrange the pieces as they come.” Is there any other way to live than arranging the pieces as they come?</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1793">1793</location>
+      <note>to read</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Yesterday I wrote to Steve Cope that I am alternately as good as I’ve ever been, and full of despair. His response: “The tension arc between despair and wonderful is very good for the writing, don’t you think?</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1796">1796</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Writers often say that the hardest part of writing isn’t the writing itself; it’s the sitting down to write. The same is true of yoga, meditation, and prayer. The sitting down, the making space. The doing. It sounds so simple, doesn’t it? Unroll the mat. Sit cross-legged on the floor. Just do it. Close your eyes and express a silent need, a wish, a moment of gratitude. What’s so hard about that? Except—it is hard.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1860">1860</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The great spirits of religious traditions do not solve all questions but live in the questions, and return to them again and again, not as a circle returns, but as an ascending spiral comes to the same place, each time at a higher level,” writes Rabbi David Wolpe.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1921">1921</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>other.) In the country, I stopped being a person who, in the words of Sylvia Boorstein, startles easily. I grew calmer, but beneath that calm was a deep well of loneliness I hadn’t known was there.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=1948">1948</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I became lost in conversations that hadn’t happened and probably never would.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2053">2053</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>On the long ride back to Connecticut, Michael driving, I kept thinking about the whole idea of human frailty, and how—paradoxically—the recognition of frailty contained within it a kind of strength. What Burt had said had struck a nerve: the questioning was the true work of engagement. To question, to doubt, to rail against, even to reject—these were our prerogative.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2068">2068</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As we sped along the highway, I checked my e-mail. There was a message from Burt: I want to quote you a Mishnah text from tractate Berakhot about prayer: “The early pious ones used to meditate for an hour before praying.” I know it feels to you like you are starting over each time, but really all you are doing is bringing your footsteps back to our well-trod path. That’s not starting over. It’s picking up the thread.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2073">2073</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I had experienced my own memory as a living thing, a palpable presence in my body. I had felt my past unfurl inside me as if it had a mind of its own. These layers of ourselves are always there, waiting for the right moment to emerge.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2112">2112</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But Buddha had specific advice for women householders as well: Be capable at one’s work. Work with diligence and skill. Manage domestic help skillfully (if relevant) and treat them fairly. Perform household duties efficiently. Be hospitable to one’s husband’s parents and friends. Be faithful to one’s husband; protect and invest family earnings. Discharge responsibilities lovingly and conscientiously. Accomplish faith. Practice generosity. Cultivate wisdom.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2122">2122</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>My various rituals—the yoga, meditation, thinking, reading, Torah study—these were disciplines. They had become, to some degree, habit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2134">2134</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Yiddish phrases are in the hortatory subjunctive, an unusual tense that is used in the Buddhist metta phrases: May I be protected and safe; may I be contented and pleased. Not so different, really, from I should live and be well.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2191">2191</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The mind ties itself into gratuitous knots, as a result of habit,” Sylvia was saying.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2205">2205</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I was reminded of the way Sylvia had described her own mind when she was first practicing: A mind with a lot of energy scanning the horizon for what to worry about.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2210">2210</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I thought of something Sharon had said earlier that evening: “The magic moment in the practice is the awareness that our attention has drifted and we’ve become distracted—and we begin again.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2220">2220</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>unnerving. I reminded myself that I had willingly signed up for this. I was here to retreat into myself—to see the patterns emerging in my own mind.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2228">2228</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Sylvia was my age, she regularly went on month-long retreats. She left her family, went to India. She arose each morning at four to meditate.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2229">2229</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“My ability to be present in the world with an open heart depends on my ability to be present to myself with an open heart.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2249">2249</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>retreat: May I be safe, may I be happy, may I be strong, may I live with ease</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2328">2328</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The great yogi B. K. S. Iyengar once wrote, “The moment you say ‘I have got it,’ you have lost everything you had. As soon as something comes, you have to go one step further. Then there is evolution. The moment you say ‘I am satisfied with that,’ that means stagnation has come. That is the end of your learning; you have closed the windows of your intellect. So let me do what I cannot do, not what I can do.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2457">2457</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Does a seeker ever stop seeking? Or is the very definition of a seeker one who keeps searching, driven by an insatiable hunger for knowledge, awareness, wisdom, peace?</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2548">2548</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Steve leaned across the table, as if telling me a secret. “You know, there’s an ancient Christian mystical teaching about being one with the flame,” he said. “The flame is always there—call it whatever you want…God, the Holy Spirit—but the idea is that we try to bring ourselves into alignment with it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2564">2564</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>written beautifully about this: “In the best of circumstances, a loving family, good health, adequate financial resources, and untroubled times are the palace walls that protect our childhoods and early consciousness and allow us to move into our adult lives with confidence. And then, sooner or later, we see what the Buddha saw. We see the truth of change. We begin to understand how fragile life is and how, most surely, we will lose everything that is dear to us. At some point, in some way, we ask ourselves this question: ‘What is to be done? Is there some way I can do this life with my eyes open and my heart open and still love it? Is there a way not to suffer?’”</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2752">2752</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Carl Jung put it perfectly: “Thoroughly unprepared we take the step into the afternoon of life,” he wrote. “Worse still, we take this step with the false assumption that our truths and ideals will serve us as hitherto. But we cannot live the afternoon of life according to the program of life’s morning; for what was great in the morning will be little at evening, and what in the morning was true will by evening have become a lie.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2786">2786</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Steve Cope calls early meditation experiences the noble failure.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2914">2914</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This is the magic moment that Sharon Salzberg talks about. Not when your thoughts have wandered, but when you realize your thoughts have wandered. Come back. Gently, with compassion for the self, and its poor little monkey mind destined to fail.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=2924">2924</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Even in physically challenging twists and inversions, I could be elsewhere, thinking. I started to keep lists of what I found myself thinking about.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3018">3018</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The wisdom of a Catholic monk: “Here—from Thomas Merton. ‘Your brightness is my darkness. I know nothing of you and, by myself, cannot even imagine how to go about knowing you. If I imagine you, I am mistaken. If I understand you, I am deluded. If I am conscious and certain I know you, I am crazy. The darkness is enough.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3144">3144</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One afternoon at Garrison, Sharon Salzberg spoke about a Buddhist teacher in India, a widowed woman with many, many children who had no time to sit on a cushion, meditating. How had she done it, then? Sharon had once asked her. How had she achieved her remarkable ability to live in the present? The answer was simply this: she stirred the rice mindfully.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3211">3211</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Often, the phrase Say what you mean and mean what you say floats through my head.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3282">3282</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He was living one story, and suddenly he found himself in another.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3360">3360</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We are always adapting to new circumstances. We think we’ve found an answer that we can carry with us for our whole lives—and then it turns out that the questions themselves have changed. We think we’ve hit on something that will ease our suffering, or protect us—a talisman, a ritual, a form of prayer—and if we are honest with ourselves, even these keep changing.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3361">3361</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>May I feel protected and safe. May I feel contented and pleased. May my physical body support me with strength. May my life unfold smoothly with ease.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3365">3365</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>May I be safe. May I be happy. May I be strong. May I live with ease.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3372">3372</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Precisely because of its emptiness, it vibrated with all of life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3407">3407</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Buddhist teachers often use the word cultivation. They speak of cultivating awareness. Of cultivating a practice. The minutes add up, then the days, weeks, months, years. Something takes root, and invisibly flowers. Cultivation is defined as the process of fostering growth.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3467">3467</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whether the Buddha and his forest monks or Merton’s Christian hermit or Thoreau’s journey to Walden to transact his private business with the fewest possible obstacles, those who seek the purest spiritual knowledge do so alone.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3511">3511</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Whatever you think you can do or believe you can do, begin it,” Goethe once wrote. “Action has magic, grace and power in it.” Jacob stood very near me.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3570">3570</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Much has already happened, and has formed the shape of our lives as surely as water shapes rock. Much lies ahead of us. We can’t see what’s</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3610">3610</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>coming. We can’t know it. All we have is our hope that all will be well, and our knowledge that it won’t always be so. We live in the space between this hope and this knowledge.</text>
+      <location url="kindle://book?action=open&amp;asin=B00338QEZ6&amp;location=3611">3611</location>
+    </highlight>
+  </highlights>
+</book>

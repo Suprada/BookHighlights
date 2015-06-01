@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Herland</title>
+  <authors>Charlotte Perkins Gilman</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>This led me very promptly to the conviction that those “feminine charms” we are so fond of are not feminine at all, but mere reflected masculinity—developed to please us because they had to please us, and in no way essential to the real fulfillment of their great process.</text>
+      <location url="kindle://book?action=open&amp;asin=B00K5EBDV6&amp;location=1246">1246</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Oh, no,” she insisted, smiling, shaking her soft brown hair. “We do things FROM our mothers—not FOR them. We don’t have to do things FOR them—they don’t need it, you know. But we have to live on—splendidly—because of them; and that’s the way we feel about God.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00K5EBDV6&amp;location=2337">2337</location>
+    </highlight>
+  </highlights>
+</book>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>How Google Works</title>
+  <authors>Eric Schmidt, Jonathan Rosenberg</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>freedom to think from first principles and real-world physics rather than having to accept the prevailing “wisdom.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=17">17</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Because if you hire the right people and have big enough dreams, you’ll usually get there. And even if you fail, you’ll probably learn something important.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=28">28</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>a few simple principles, first and foremost of which was to focus on the user.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=88">88</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Many incumbents—aka pre-Internet companies—built their businesses based on assumptions of scarcity: scarce information, scarce distribution resources and market reach, or scarce choice and shelf space.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=202">202</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The basis for success then, and for continual product excellence, is speed.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=238">238</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As already noted, experimentation is cheap and the cost of failure—if done well—is much lower than it used to be.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=246">246</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Typically, the most valuable knowledge workers are the ones who thrive in the straitjacketed world of corporate process, by building deep expertise in a narrow set of skills.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=253">253</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They don’t seek mobility; organizational status quo is where they excel.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=255">255</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They get bored easily and shift jobs a lot. They are multidimensional, usually combining technical depth with business savvy and creative flair.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=263">263</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>operating processes have been biased toward lowering risk and avoiding mistakes. These processes, and the overall management approach from which they were derived, result in environments that stifle smart creatives.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=267">267</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>She is her own focus group, alpha tester, and guinea pig.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=281">281</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Her perspective is different from yours or ours. It’s even occasionally different from her own perspective, for a smart creative can play the perspective chameleon when she needs to.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=282">282</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>She is self-directed creative. She doesn’t wait to be told what to do and sometimes ignores direction if she doesn’t agree with it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=287">287</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But they all must possess business savvy, technical knowledge, creative energy, and a hands-on approach to getting things done. Those are the fundamentals.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=294">294</location>
+    </highlight>
+    <highlight isNoteOnly="true">
+      <text>“it’s what you learn after you know it all that counts.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=338">338</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>because culture and success go hand in hand, and if you don’t believe your own slogans you won’t get very far.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=347">347</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Smart creatives, though, place culture at the top of the list. To be effective, they need to care about the place they work.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=413">413</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The smart approach is to ponder and define what sort of culture you want at the outset of your company’s life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=422">422</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What do we care about? What do we believe? Who do we want to be? How do we want our company to act and make decisions? Then write down their responses.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=425">425</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Jack Welch said in Winning: “No vision is worth the paper it’s printed on unless it is communicated constantly and reinforced with rewards.”27</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=456">456</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When offices get crowded, they tend to get messy too.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=536">536</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Messiness is not an objective in itself (if it was, we know some teens who would be great hires), but since it is a frequent by-product of self-expression and innovation, it’s usually a good sign.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=543">543</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When it comes to the quality of decision-making, pay level is intrinsically irrelevant and experience is valuable only if it is used to frame a winning argument.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=563">563</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For a meritocracy to work, it needs to engender a culture where there is an “obligation to dissent”.38 If someone thinks there is something wrong with an idea, they must raise that concern. If they don’t, and if the subpar idea wins the day, then they are culpable.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=581">581</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They prefer a flat organization, less because they want to be closer to the top and more because they want to get things done and need direct access to decision-makers.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=603">603</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Jeff Bezos, Amazon’s founder, at one point had a “two-pizza team” rule,41 which stipulates that teams be small enough to be fed by two pizzas.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=644">644</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Small teams get more done than big ones, and they spend less time politicking and worrying about who gets credit.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=645">645</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Determine which people are having the biggest impact and organize around them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=651">651</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Internal teams work in much the same way: You want to invest in the people who are going to do what they think is right, whether or not you give them permission.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=657">657</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As the old saying goes: If you want something done, give it to a busy person.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=676">676</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is no room for knaves. And generally, in our experience, once a knave, always a knave.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=690">690</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>(Tom Peters: “There is no such thing as a minor lapse of integrity.”)</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=691">691</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Marissa Mayer, who became one of Silicon Valley’s most famous working mothers not long after she took over as Yahoo’s CEO in 2012, says that burnout isn’t caused by working too hard, but by resentment at having to give up what really matters to you.46</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=724">724</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We like this quote from American academic and former University of Connecticut president Michael Hogan: “My first word of advice is this: Say yes. In fact, say yes as often as you can. Saying yes begins things. Saying yes is how things grow. Saying yes leads to new experiences, and new experiences will lead you to knowledge and wisdom.… An attitude of yes is how you will be able to go forward in these uncertain times.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=744">744</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A defining mark of a fun culture is identical to that of an innovative one: The fun comes from everywhere.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=785">785</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Lou Gerstner, who helped engineer a turnaround at IBM, notes in his book Who Says Elephants Can’t Dance?, “It’s been said that every institution is nothing but the extended shadow of one person.51</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=827">827</location>
+      <note>eq?eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To do all this, you have to be crazy enough to think you will succeed, but sane enough to make it happen. This requires commitment, tenacity, and most of all, single-mindedness.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=839">839</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Leadership requires passion. If you don’t have it, get out now.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=850">850</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Giving the customer what he wants is less important than giving him what he doesn’t yet know he wants.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=950">950</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When you base your product strategy on technical insights, you avoid me-too products that simply deliver what customers are asking for. (Henry Ford: “If I had listened to customers, I would have gone out looking for faster horses.”)65</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1009">1009</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In the Internet Century, the objective of creating networks is not just to lower costs and make operations more efficient, but to create fundamentally better products.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1081">1081</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>These companies assembled existing technology components in new ways to reimagine existing businesses.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1089">1089</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whereas the twentieth century was dominated by monolithic, closed networks, the twenty-first will be driven by global, open ones.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1093">1093</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Platforms generally scale more quickly when they are open. Look at the biggest platform of them all, the Internet.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1111">1111</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But generally it means sharing more intellectual property such as software code or research results, adhering to open standards rather than creating your own, and giving customers the freedom to easily exit your platform.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1129">1129</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>With open, you trade control for scale and innovation.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1133">1133</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A final thought on defaulting to open is the concept of user freedom, a practice that is the opposite of customer lock-in:</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1156">1156</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Nietzsche wrote in Thus Spake Zarathustra: “You must be proud of your enemy; then your enemy’s successes are also your successes.”87 Be proud of your competitors. Just don’t follow them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1203">1203</location>
+      <note>Eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Iteration is the most important part of the strategy. It needs to be very, very fast and always based on learning.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1223">1223</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Passionate people don’t wear their passion on their sleeves; they have it in their hearts. They live it. Passion is more than résumé-deep, because its hallmarks—persistence, grit, seriousness, all-encompassing absorption—cannot be gauged from a checklist.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1312">1312</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In our experience raw brainpower is the starting point for any exponential thinker. Intelligence is the best indicator of a person’s ability to handle change.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1336">1336</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>These “learning animals” have the smarts to handle massive change and the character to love it. Psychologist Carol Dweck has another term for it. She calls it a “growth mindset.”95</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1341">1341</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But if you have a growth mindset, you believe the qualities that define you can be modified and cultivated through effort. You can change yourself; you can adapt; in fact, you are more comfortable and do better when you are forced to do so.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1344">1344</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A smart generalist doesn’t have bias, so is free to survey the wide range of solutions and</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1357">1357</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another crucial quality is character. We mean not only someone who treats others well and can be trusted, but who is also well-rounded and engaged with the world. Someone who is interesting.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1371">1371</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The most important skill any business person can develop is interviewing.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1495">1495</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>(“What books are you reading right now?”).</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1512">1512</location>
+      <note>Excellent interview question</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The best smart creatives often want to leave so they can go start something on their own. Don’t discourage this, but do ask them for their elevator pitch. (“Elevator pitch” is venture capital–speak for “you have thirty seconds to impress me with your business idea.”) What is your strategic foundation? What sort of culture do you envision? What would you tell me if I were a prospective investor?</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1729">1729</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Reid Hoffman, Jonathan’s former colleague at Apple and founding CEO of LinkedIn notes, “Just because a job ends, your relationship with your employee doesn’t have to.… The first thing you should do when a valuable employee tells you he is leaving is try to change his mind. The second is congratulate him on the new job and welcome him to your company’s alumni network.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1739">1739</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Career development takes effort and forethought—you need to plan it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1810">1810</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Think about your ideal job, not today but five years from now. Where do you want to be? What do you want to do? How much do you want to make? Write down the job description: If you saw this job on a website, what would the posting look like? Now fast forward four or five years and assume you are in that job. What does your five-years-from-now résumé look like? What’s the path you took from now to then to get to your best place? Keep thinking about that ideal job, and assess your strengths and weaknesses in light of it. What do you need to improve to get there? This step requires external input, so talk to your manager or peers and get their take on it. Finally, how will you get there? What training do you need? What work experience?</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1814">1814</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Figure out how to use the various tools at your disposal to tap into the sites and authors you respect. Create circles of other like-minded smart people and swap books and articles.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1838">1838</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This from our estimable former colleague Sheryl Sandberg: “It is the ultimate luxury to combine passion and contribution. It’s also a very clear path to happiness.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1857">1857</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Or you could take a more deliberate approach. Adjust your course. Make your five-years-out ideal job closer to your if-only-I-could dream job, yet attainable from your current path. We’ve seen even this simple act of setting the right goal turn around people’s careers.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1866">1866</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One of the most transformative developments of the Internet Century is the ability to quantify almost any aspect of business. Decisions once based on subjective opinion and anecdotal evidence now rely primarily on data.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1978">1978</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Edward Tufte, the uber-guru of data presentation and visualization, advocates putting more data on fewer slides: “Visual reasoning usually works more effectively when relevant information is shown side by side. Often, the more intense the detail, the greater the clarity and understanding.”123</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=1994">1994</location>
+      <note>eq, rb</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Bobblehead yessers are different from your classic “yes-men” because, unlike them, bobbleheads have a nasty tendency to complain and whine and not do or support the very thing to which they just agreed as soon as they walk out of the meeting.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2009">2009</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Tom Peters would call Bill’s attitude in this situation a “bias for action,” and his book In Search of Excellence lists it as a top common attribute of the companies he studied.130</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2048">2048</location>
+      <note>rb</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Have patience, information, and alternatives. P is especially important. You want to wait as long as possible before committing to a course of action.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2055">2055</location>
+      <note>lp</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But don’t be a slave to a sense of urgency. Maintain flexibility until the last possible moment.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2062">2062</location>
+      <note>lp</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you attend a meeting, attend the meeting. Multitasking doesn’t work. If you are in a meeting and using your laptop or phone for something not related to the meeting, it’s obvious your time is better spent elsewhere.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2159">2159</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>(Bill Gates in 1999: “Power comes not from knowledge kept but from knowledge shared. A company’s values and reward system should reflect that idea.”)</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2269">2269</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>John Seely Brown, the former director of Xerox’s Palo Alto Research Center, once said, “The essence of being human involves asking questions, not answering them.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2313">2313</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Good news will be just as good tomorrow, but bad news will be worse.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2346">2346</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Eric calls our approach to transparency a “climb, confess, comply” model. Pilots learn that when they get in trouble, the first step is to climb: Get yourself out of danger. Then, confess: Talk to the tower and explain that you screwed up and how. Finally, comply: When traffic controllers tell you how to do it better next time, do it!</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2362">2362</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Conversation is still the most important and valuable form of communication, but technology and the pace of work often conspire to make it one of the rarest.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2376">2376</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Sociologists have a name for this phenomenon (as do anthropologists and mixologists): laziness.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2379">2379</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Most every company has “tribal elders” who possess unique expertise in their field and a deep knowledge of the organization.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2388">2388</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Yes, that does happen, but it turns out that most rock stars have very little patience for people wasting their time and they make doing so a very unpleasant experience. The inexperienced smart creative who does it once quickly learns not to do it again.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2394">2394</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In most aspects of life, you need to say something about twenty times before it truly starts to sink in.145</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2397">2397</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To get this right, you first need to know what the core themes are.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2406">2406</location>
+      <note>tai</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>People will like it when you take off the blinders and talk about a wider variety of things.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2423">2423</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Say yes to all forms of communication.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2442">2442</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Tell the truth, be humble, and bank goodwill for a rainy day.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2446">2446</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One of Eric’s most basic rules is sort of a golden rule for management: Make sure you would work for yourself. If you are so bad as a manager that you as a worker would hate working for you, then you have some work to do. The best tool we have found for this is the self-review: At least once per year, write a review of your own performance, then read it and see if you would work for you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2468">2468</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Respond quickly. There are people who can be relied upon to respond promptly to emails, and those who can’t.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2480">2480</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When writing an email, every word matters, and useless prose doesn’t. Be crisp in your delivery. If you are describing a problem, define it clearly. Doing this well requires more time, not less. You have to write a draft then go through it and eliminate any words that aren’t necessary. Think about the late novelist Elmore Leonard’s response to a question about his success as a writer: “I leave out the parts that people skip.”147 Most emails are full of stuff that people can skip.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2487">2487</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Make it easy to follow up on requests. When you send a note to someone with an action item that you want to track, copy yourself, then label the note “follow up.” That makes it easy to find and follow up on the things that haven’t been done; just resend the original note with a new intro asking “Is this done?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2510">2510</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Help your future self search for stuff. If you get something you think you may want to recall later, forward it to yourself along with a few keywords that describe its content. Think to yourself, How will I search for this later? Then, when you search for it later, you’ll probably use those same search terms.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2512">2512</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>(Champion racecar driver Mario Andretti: “If everything seems under control, you’re just not going fast enough.”)152</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2609">2609</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“If everything seems under control, you’re just not going fast enough.”)152</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2609">2609</location>
+      <note>Eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Apple and Google both operate in industries with extraordinarily fast product life cycles.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2654">2654</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For something to be innovative, it needs to be new, surprising, and radically useful.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2692">2692</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But usually there’s a reason the market is empty: It’s not big enough to sustain a growing venture. It still may be a good business opportunity—someone must make money off of all those niche products we see in the SkyMall catalog—but if you want to create an environment of innovation, it’s better to look for big markets with huge growth potential.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2715">2715</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Udi told us when recounting his Yahoo experience, “Innovative people do not need to be told to do it, they need to be allowed to do it.” In other words, innovation has to evolve organically.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2738">2738</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is the final destination of a path that starts when ideas spawn like mutations from a primordial ooze and traverse a long, perilous route from inception to fruition. Along the way, stronger ideas accumulate believers and momentum, and weaker ones fall to the wayside. There is no process by which to implement this evolution; its defining characteristic is its lack of process.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2739">2739</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To paraphrase Darwin from The Origin of Species: As many more [ideas] are born than can possibly survive; and as, consequently, there is a frequently recurring struggle for existence, it follows that any [idea], if it vary however slightly in any manner profitable to itself, under the complex and sometimes varying conditions of life, will have a better chance of surviving, and thus be naturally selected.159</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2743">2743</location>
+      <note>tai, eq. lp</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>All companies that want to be innovative, which is to say all companies, need to start by creating an environment where the different components of creation are given free rein to collide in new and interesting ways, and then give these new creations the time and freedom to evolve and live, or—much more often—stagnate and die.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2748">2748</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The first follower is what transforms a lone nut into a leader.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2767">2767</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Robert Noyce, cofounder of Fairchild Semiconductor and Intel, said, “Optimism is an essential ingredient for innovation. How else can the individual welcome change over security, adventure over staying in a safe place?”162 Hire people who are smart enough to come up with new ideas and crazy enough to think they just might work. You need to find and attract those optimistic people, then give them the place to create change and adventure.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2771">2771</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Product excellence is the only way for a company to be consistently successful, so our prime directive when it comes to product strategy is to focus on the user (while not interfering with the internal development of alien civilizations).</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2796">2796</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Give the wrong people a big challenge, and you’ll induce anxiety. But give it to the right people, and you’ll induce joy.170 They enjoy rising to the challenge for the sake of it, but also, as sociologist and management guru Rosabeth Moss Kanter has pointed out, for the very real benefits it can bring: new skills, new connections with colleagues in the field, enhanced reputation—what economists would describe as investing in their human capital.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2859">2859</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>First, a good OKR marries the big-picture objective with a highly measurable key result.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2887">2887</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>percent… run a half marathon in under two hours),</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2890">2890</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Competitors are everywhere in the Internet Century, and chasing them (as we noted earlier) is the fastest path to mediocrity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2905">2905</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Ten percent also works because creativity loves constraints.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2936">2936</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A lack of resources forces ingenuity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2939">2939</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Steve Jobs maxim that “you have to be run by ideas, not hierarchy.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2973">2973</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Our constant advice to anyone who wants to launch a 20 percent project is to start by building a prototype, because that’s how you get people excited about the project. Coming up with an idea is pretty easy. Getting a few of your colleagues to join your project and add their 20 percent time to your 20 percent time is a lot harder. This is where the Darwinian process begins.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=2996">2996</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The most valuable result of 20 percent time isn’t the products and features that get created, it’s the things that people learn when they try something new.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3013">3013</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To innovate, you must learn to fail well. Learn from your mistakes: Any failed project should yield valuable technical, user, and market insights that can help inform the next effort.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3129">3129</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Author and professor Nassim Taleb writes about making systems that are “antifragile”: They don’t just survive failures and external shocks, they get stronger as a result.192</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3135">3135</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Mulla Nasrudin, the thirteenth-century wise fool of Sufi lore, seconds the notion: “Good judgment comes from experience; experience comes from bad judgment.”194</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3139">3139</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Jeff Bezos points out, “Just by lengthening the time horizon, you can engage in endeavors that you could never otherwise pursue. At Amazon we like things to work in five to seven years. We’re willing to plant seeds, let them grow—and we’re very stubborn. We say we’re stubborn on vision and flexible on details.”195</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3146">3146</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The rate of technology-driven change outpaces our ability to train people in new skills, putting tremendous pressure on entire classes of workers and the economic structure of many nations.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3186">3186</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And what can businesses and individual entrepreneurs do to survive and thrive during periods of disruption?</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3191">3191</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The definitive preindustrial nineteenth-century institution was The Household;</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3202">3202</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>After the industrial revolution, the definitive twentieth-century institution became The Corporation.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3203">3203</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In the twenty-first century, The Corporation as a hub of economic activity is being challenged by The Platform.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3206">3206</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In contrast, a platform has a back-and-forth relationship with consumers and suppliers. There’s a lot more give-and-take.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3209">3209</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And at an individual level, people within big companies aren’t rewarded for taking risks, but are penalized for failure. The individual payoff is asymmetrical, so the rational person opts for safety.202</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3227">3227</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The very nature of mature companies is to be risk-averse and to attack big change like a body attacks an infection.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3231">3231</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whereas Web 1.0 let you read and buy things and Web 2.0 let you do things, the social web let you talk about and share things.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3243">3243</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Vic had seen the potential of smartphones early on, and had helped build the team that pushed Google to make “mobile first” a common mantra.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3253">3253</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What would it mean to Google when the dominant use of the web was as a social platform? Could the social web make search obsolete? Sometimes the most effective way to help change and innovation outrun the antibodies of corporate entropy is a simple one: Ask the hardest question.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3266">3266</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>(Harvard Business School Professor and business consultant Clayton Christensen: “I keep my attention on the questions I need to ask so I can catch the issues of the future.”)</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3269">3269</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There are solid reasons underlying our optimism. The first is the explosion of data and a trend toward the free flow of information.</text>
+      <location url="kindle://book?action=open&amp;asin=B00HUU13Y0&amp;location=3362">3362</location>
+    </highlight>
+  </highlights>
+</book>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Daily Rituals: How Artists Work</title>
+  <authors>Mason Currey</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>How do you do meaningful creative work while also earning a living? Is it better to devote yourself wholly to a project or to set aside a small portion of each day? And</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=130">130</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>when there doesn’t seem to be enough time for all you hope to accomplish, must you give things up (sleep, income, a clean house), or</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=131">131</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>can you learn to condense activities, to do more in less time, to “work smarter, not harder,” as my dad is always telling me? More</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=132">132</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A solid routine fosters a well-worn groove for one’s mental energies and helps stave off the tyranny of moods.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=141">141</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I’m a classic “morning person,” capable of considerable focus in the early hours but pretty much useless after lunch. That afternoon, to make myself feel better about this often inconvenient predilection (who wants to get up at 5:30 every day?),</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=148">148</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Sooner or later,” Pritchett writes, “the great men turn out to be all alike. They never stop working. They never lose a minute. It is very depressing.”</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=162">162</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It was my practice to be at my table every morning at 5.30 A.M.; and it was also my practice to allow myself no mercy.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=411">411</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Frances Trollope, an immensely popular author in her own right. She did not begin writing until the age of fifty-three, and then only because she desperately needed money to support her six children and ailing husband. In order to squeeze the necessary writing time out of the day while still acting as the primary caregiver to her family, Mrs. Trollope sat down at her desk each day at 4:00 A.M. and completed her writing in time to serve breakfast.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=428">428</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Toni Morrison (b. 1931)</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=824">824</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>While he was writing his first book, The Mezzanine, Baker worked a series of office jobs in Boston and New York. Then his routine was to write on his lunch break, taking advantage of this “pure, blissful hour of freedom” in the middle of</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=917">917</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Later, Baker worked a job outside of Boston that required a ninety-minute commute, so he bought a mini–cassette recorder and dictated his writing while he drove.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=919">919</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“And I liked it, I liked the feeling of getting up really early,” he says. “The mind is newly cleansed but it’s also befuddled and you’re still just plain sleepy. I found that I wrote differently then.”</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=929">929</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“I suppose I was enjoying myself so much in ordinary living that writing was a task which I performed in spells and bursts. I never had a definite place which was my room or where I retired</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=1340">1340</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>specially to write.”</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=1341">1341</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>living separated from her husband, the poet Ted Hughes, and taking care of their two small children alone, did Plath find a routine that worked for her. She was using sedatives to get to sleep, and when they wore off at about 5:00 A.M. she would get up and write until the children awoke.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=1397">1397</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Two hours. I think most writers would be very happy with two hours of concentrated work.”</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=1512">1512</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>P. G. Wodehouse (1881–1975)</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=1840">1840</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“I seem to be rather good at adjusting to things,” Wodehouse said.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=1844">1844</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Of course, it amused him; there were few experiences of life, grave or gay, which did not amuse him, even when they wronged him.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=2186">2186</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Alice Munro (b. 1931)</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=2602">2602</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In the 1950s, as a young mother taking care of two small children, Munro wrote in the slivers of time she could find between housekeeping and child-rearing duties. She would often slip away to her bedroom to write in the afternoons, while her elder daughter was at school and the younger one was taking a nap. (Munro</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=2603">2603</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But balancing this double life was not easy.</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=2605">2605</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>wake at five in the morning. I get to work as early as I can. I work as long as I can. I do this every day in the week, including holidays. I don’t take vacations voluntarily and I try to do my work even when I’m on vacation. (And even when I’m in the hospital.)</text>
+      <location url="kindle://book?action=open&amp;asin=B009Y4I4OM&amp;location=2634">2634</location>
+    </highlight>
+  </highlights>
+</book>
