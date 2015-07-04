@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>A Thousand Mornings</title>
+  <authors>Mary Oliver</authors>
+  <source>
+    Library paper book
+  </source>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <highlightID>1</highlightID>
+      <text>
+        <p>I go Down to the shore<br /></p>
+
+        <p>I go down to the shore in the morning<br />
+          and depending on the hour the waves<br />
+          are rolling in or moving out,<br />
+          and I say, oh, I am miserable,<br />
+          what shall— <br />
+          what should I do? And the sea says <br />
+          in its lovely voice:<br />
+          Excuse me, I have work to do.<br /></p>
+      </text>
+      <location>1</location>
+      <note></note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <highlightID>2</highlightID>
+      <text>
+      <p>The Gardener<br /></p>
+
+      <p>Have I lived enough?<br />
+      Have I loved enough?<br />
+      Have I considered Right Action enough, have I<br />
+        come to any conclusion?<br />
+      Have I experienced happiness with sufficient gratitude?<br />
+      Have I endured loneliness with grace?<br /></p>
+
+      <p>I say this, or perhaps I’m just thinking it.
+        Actually, I probably think too much.<br /></p>
+
+      <p>Then I step out into the garden,
+      where the gardener, who is said to be a simple man,
+        is tending his children, the roses.<br /></p>
+      </text>
+      <location>7</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+    <highlightID>3</highlightID>
+      <text>
+      <p>Today<br /></p>
+
+      <p>Today I’m flying low and I’m<br />
+      not saying a word.<br />
+      I’m letting all the voodoos of ambition sleep.<br /></p>
+
+      <p>The world goes on as it must,<br />
+      the bees in the garden rumbling a little,<br />
+      the fish leaping, the gnats getting eaten.<br />
+      And so forth.</p>
+
+      <p>But I’m taking the day off.<br />
+      Quiet as a feather.<br />
+      I hardly move though really I’m travelling<br />
+      a terrific distance.</p>
+
+      <p>Stillness. One of the doors<br />
+      into the temple.</p>
+      </text>
+      <location>23</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+    <highlightID>4</highlightID>
+      <text>
+      <p>I have decided</p>
+
+      <p>I have decided to find myself a home<br />
+      in the mountains, somewhere high up<br />
+      where one learns to live peacefully in<br />
+      the cold and the silence. It’s said that<br />
+      in such a place certain revelations may<br />
+      be discovered. That what the spirit<br />
+      reaches for may be eventually felt, if not<br />
+      exactly understood. Slowly, no doubt. I’m<br />
+      not talking about a vacation.</p>
+
+      <p>Of course at the same time I mean to<br />
+      stay exactly where I am.</p>
+
+      <p>Are you following me?</p>
+      </text>
+
+      <location>45</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+    <highlightID>5</highlightID>
+      <text>
+      <p>The poet compares human nature<br />
+      to the ocean from which we came</p>
+
+      <p>The sea can do craziness, it can do smooth,<br />
+      it can lie down like silk breathing<br />
+      or toss havoc shoreward; it can give</p>
+
+      <p>Gifts or withhold it all; it can rise, ebb, froth<br />
+      like an incoming frenzy of fountains, or it can<br />
+      sweet-talk entirely. As I can too,</p>
+
+      <p>and so, no doubt, can you, and you.</p>
+      </text>
+      <location>65</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+    <highlightID>6</highlightID>
+      <text>
+      <p>The man who has many answers</p>
+
+      <p>The man who has many answers<br />
+      is often found<br />
+      in the theaters of information<br />
+      where he offers, graciously,<br />
+      his deep findings.</p>
+
+      <p>While the man who has only questions,<br />
+      to comfort himself, makes music.</p>
+      </text>
+      <location>69</location>
+    </highlight>
+  </highlights>
+</book>
