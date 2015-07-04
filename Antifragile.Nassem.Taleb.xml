@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Antifragile: Things That Gain from Disorder (Incerto)</title>
+  <authors>Nassim Nicholas Taleb</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Wind extinguishes a candle and energizes fire. Likewise with randomness, uncertainty, chaos: you want to use them, not hide from them. You want to be the fire and wish for the wind. This summarizes this author’s nonmeek attitude to randomness and uncertainty.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=330">330</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder, and stressors and love adventure, risk, and uncertainty. Yet, in spite of the ubiquity of the phenomenon, there is no word for the exact opposite of fragile. Let us call it antifragile.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=335">335</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The resilient resists shocks and stays the same; the antifragile gets better.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=338">338</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The antifragile loves randomness and uncertainty, which also means—crucially—a love of errors, a certain class of errors. Antifragility has a singular property of allowing us to deal with the unknown, to do things without understanding them—and do them well. Let me be more aggressive: we are largely better at doing than we are at thinking, thanks to antifragility.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=343">343</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>antifragility and fragility are degrees on a spectrum.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=350">350</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And we can almost always detect antifragility (and fragility) using a simple test of asymmetry: anything that has more upside than downside from random events (or certain shocks) is antifragile; the reverse is fragile.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=360">360</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We have been fragilizing the economy, our health, political life, education, almost everything … by suppressing randomness and volatility.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=364">364</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>everything bottom-up thrives under the right amount of stress and disorder. The process of discovery (or innovation, or technological progress) itself depends on antifragile tinkering, aggressive risk bearing rather than formal education.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=370">370</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The chief ethical rule is the following: Thou shalt not have antifragility at the expense of the fragility of others.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=383">383</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I want to live happily in a world I don’t understand.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=385">385</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Antifragility is not just the antidote to the Black Swan; understanding it makes us less intellectually fearful in accepting the role of these events as necessary for history, technology, knowledge, everything.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=411">411</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Consider that Mother Nature is not just “safe.” It is aggressive in destroying and replacing, in selecting and reshuffling.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=414">414</location>
+      <note>do this</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Given the unattainability of perfect robustness, we need a mechanism by which the system regenerates itself continuously by using, rather than suffering from, random events, unpredictable shocks, stressors, and volatility.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=418">418</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Complications lead to multiplicative chains of unanticipated effects.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=472">472</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>how to dare to look our ignorance in the face and not be ashamed of being human—be aggressively and proudly human.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=479">479</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you label them “fragile,” then you necessarily want them to be left alone in peace,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=490">490</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Extended Disorder Family (or Cluster): (i) uncertainty, (ii) variability, (iii) imperfect, incomplete knowledge, (iv) chance, (v) chaos, (vi) volatility, (vii) disorder, (viii) entropy, (ix) time, (x) the unknown, (xi) randomness, (xii) turmoil, (xiii) stressor, (xiv) error, (xv) dispersion of outcomes, (xvi) unknowledge.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=510">510</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>does not mean that one’s personal experiences constitute a sufficient sample to derive a conclusion about an idea; it is just that one’s personal experience gives the stamp of authenticity and sincerity of opinion.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=542">542</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is time to revive the not well-known philosophical notion of doxastic commitment, a class of beliefs that go beyond talk, and to which we are committed enough to take personal risks.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=551">551</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Recall that the fragile wants tranquility, the antifragile grows from disorder, and the robust doesn’t care too much.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=667">667</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So a certain system of tinkering and trial and error would have the attributes of antifragility.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=673">673</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you want to become antifragile, put yourself in the situation “loves mistakes”—to the right of “hates mistakes”—by making these numerous and small in harm.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=674">674</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>How do you innovate? First, try to get in trouble. I mean serious, but not terminal, trouble. I hold—it is beyond speculation, rather a conviction—that innovation and sophistication spark from initial situations of necessity, in ways that go far beyond the satisfaction of such necessity (from the unintended side effects of, say, an initial invention or attempt at invention).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=909">909</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He did not like it when we had it too easy, as he worried about the weakening of the will.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=924">924</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>audible. One should have enough self-control to make the audience work hard to listen, which causes them to switch into intellectual overdrive.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=945">945</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>noise. Like many writers, I like to sit in cafés, working, as they say, against resistance.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=952">952</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Redundancy is ambiguous because it seems like a waste if nothing unusual happens. Except that something unusual happens—usually.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=964">964</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>With few exceptions, those who dress outrageously are robust or even antifragile in reputation; those clean-shaven types who dress in suits and ties are fragile to information about them.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1108">1108</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When you don’t have debt you don’t care about your reputation in economics circles—and somehow it is only when you don’t care about your reputation that you tend to have a good one.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1114">1114</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The frequency of stressors matters a bit. Humans tend to do better with acute than with chronic stressors, particularly when the former are followed by ample time for recovery, which allows the stressors to do their jobs as messengers.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1211">1211</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Such a stressor would be certainly better than the mild but continuous stress of a boss, mortgage, tax problems, guilt over procrastinating with one’s tax return, exam pressures, chores, emails to answer, forms to complete, daily commutes—things that make you feel trapped in life.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1216">1216</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There may be a few good reasons to be on medication, in severely pathological cases, but my mood, my sadness, my bouts of anxiety, are a second source of intelligence—perhaps even the first source. I get mellow and lose physical energy when it rains, become more meditative, and tend to write more and more slowly then, with the raindrops hitting the window, what Verlaine called autumnal “sobs” (sanglots). Some days I enter poetic melancholic states, what the Portuguese call saudade or the Turks hüzün (from the Arabic word for sadness). Other days I am more aggressive, have more energy—and will write less, walk more, do other things, argue with researchers, answer emails, draw graphs on blackboards. Should I be turned into a vegetable or a happy imbecile?</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1253">1253</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>one’s fear of making mistakes.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1270">1270</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This “goal-driven” attitude hurts deeply inside my existential self.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1292">1292</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you are not a washing machine or a cuckoo clock—in other words, if you are alive—something deep in your soul likes a certain measure of randomness and disorder.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1294">1294</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Much of modern life is preventable chronic stress injury.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1316">1316</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The fragility of every startup is necessary for the economy to be antifragile, and that’s what makes, among other things, entrepreneurship work:</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1336">1336</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When you are fragile, you depend on things following the exact planned course, with as little deviation as possible—for</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1441">1441</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>using error as a source of information. If every trial provides you with information about what does not work, you start zooming in on a solution—so every attempt becomes more valuable, more like an expense than an error.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1445">1445</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But, and this is one of the good things in life, sometimes you only know about someone’s character after you harm them with an error for which you are solely responsible—I have been astonished at the generosity of some persons in the way they forgave me for my mistakes.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1480">1480</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Further, my characterization of a loser is someone who, after making a mistake, doesn’t introspect, doesn’t exploit it, feels embarrassed and defensive rather than enriched with a new piece of information, and tries to explain why he made the mistake rather than moving on.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1488">1488</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>risks are hidden. Thanks to variability, these artisanal careers harbor a bit of antifragility: small variations make them adapt and change continuously by learning from the environment and being, sort of, continuously under pressure to be fit.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1662">1662</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Small is beautiful in so many other ways. Take for now that the small (in the aggregate, that is, a collection of small units) is more antifragile than the large—in fact the large is doomed to breaking,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1752">1752</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Its system, even in banking during my days, was based on apprenticeship models, nearly vocational rather than the theoretical ones. In other words, on techne (crafts and know how), not episteme (book knowledge, know what).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1773">1773</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We can also see from the turkey story the mother of all harmful mistakes: mistaking absence of evidence (of harm) for evidence of absence,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1824">1824</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So our mission in life becomes simply “how not to be a turkey,” or, if possible, how to be a turkey in reverse—antifragile, that is.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=1826">1826</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One of the methods, called sortes virgilianae (fate as decided by the epic poet Virgil), involved opening Virgil’s Aeneid at random and interpreting the line that presented itself as direction for the course of action. You should use such method for every sticky business decision. I will repeat until I get hoarse:</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2029">2029</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We, at some point, had free-range humans and free-range children before the advent of the golden period of the soccer mom.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2093">2093</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Just remember that attacking the antifragile will backfire.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2189">2189</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is a Latin expression festina lente, “make haste slowly.” The Romans were not the only ancients to respect the act of voluntary omission. The Chinese thinker Lao Tzu coined the doctrine of wu-wei, “passive achievement.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2326">2326</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Psychologists and economists who study “irrationality” do not realize that humans may have an instinct to procrastinate only when no life is in danger.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2339">2339</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I do not procrastinate after a severe injury. I do so with unnatural duties and procedures.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2341">2341</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Since procrastination is a message from our natural willpower via low motivation, the cure is changing the environment, or one’s profession, by selecting one in which one does not have to fight one’s impulses. Few can grasp the logical consequence that, instead, one should lead a life in which procrastination is good, as a naturalistic-risk-based form of decision making.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2345">2345</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For a sample of a composed, calm, and pondered voice, listen to interviews with “Sammy the Bull,” Salvatore Gravano, who was involved in the murder of nineteen people (all competing mobsters). He speaks with minimal effort, as if what he is discussing is “not a big deal.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2370">2370</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A very rarely discussed property of data: it is toxic in large quantities—even in moderate quantities.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2396">2396</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The idea of proposing the Triad was born there and then as an answer to my frustration: Fragility-Robustness-Antifragility as a replacement for predictive methods.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2550">2550</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There are ample empirical findings to the effect that providing someone with a random numerical forecast increases his risk taking, even if the person knows the projections are random.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2557">2557</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To see how redundancy is a nonpredictive, or rather a less predictive, mode of action,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2562">2562</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Since detecting (anti)fragility—or, actually, smelling it, as Fat Tony will show us in the next few chapters—is easier, much easier, than prediction and understanding the dynamics of events, the entire mission reduces to the central principle of what to do to minimize harm (and maximize gain) from forecasting errors, that is, to have things that don’t fall apart, or even benefit, when we make a mistake.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2570">2570</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>first make things more robust to defects and forecast errors, or even exploit these errors, making lemonade out of the lemons.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2574">2574</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>antifragility is necessarily how things move forward under the mother of all stressors, called time.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2576">2576</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>understand (anti)fragility, namely, “why did we build something so fragile to these types of events?”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2579">2579</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another illustration, this time in economics, is the Swedish government’s focus on total fiscal responsibility after their budget troubles in 1991—it makes them much less dependent on economic forecasts. This allowed them to shrug off later crises.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2590">2590</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Social, economic, and cultural life lie in the Black Swan domain, physical life much less so.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2598">2598</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In other words, focus on getting out of the f*** Fourth Quadrant—the Fourth Quadrant is the scientific name I gave to the Black Swan domain, the one in which we have a high exposure to rare, “tail” events and these events are incomputable.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2608">2608</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A related idea is expressed in a (perhaps apocryphal) statement by the financier Warren Buffett that he tries to invest in businesses that are “so wonderful that an idiot can run them. Because sooner or later, one will.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2621">2621</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Nero’s principal activity in life is reading books, with a few auxiliary activities in between.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2645">2645</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is easy to find lunch partners among resident office inmates but trust me, you don’t want to get near them. They will have liquefied stress hormones dripping from their pores, they will exhibit anxiety if they discuss anything that may divert them from what they think is in the course of their “work,” and when in the process of picking their brain you hit on a less uninteresting mine, they will cut you short with a “I have to run” or “I have a two-fifteen.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2657">2657</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Nero lived a life of mixed (and transient) asceticism, going to bed as close to nine o’clock as he could, sometimes even earlier in the winter. He tried to leave parties when the effect of alcohol made people start talking to strangers about their personal lives or, worse, turn metaphysical. Nero preferred to conduct his activities by daylight, trying to wake up in the morning with the sun’s rays gently penetrating his bedroom, leaving stripes on the walls.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2670">2670</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And, as he discovered, the worst thing one can do to feel one knows things a bit deeper is to try to go into them a bit deeper. The sea gets deeper as you go further into it, according to a Venetian proverb.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2691">2691</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Curiosity is antifragile, like an addiction, and is magnified by attempts to satisfy it—books have a secret mission and ability to multiply, as everyone who has wall-to-wall bookshelves knows well.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2693">2693</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>By betting against fragility, they were antifragile.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2718">2718</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is another dimension to the need to focus on actions and avoid words: the health-eroding dependence on external recognition. People are cruel and unfair in the way they confer recognition, so it is best to stay out of that game. Stay robust to how others treat you.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2733">2733</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>losses. A man is honorable in proportion to the personal risks he takes for his opinion—in other words, the amount of downside he is exposed to.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2747">2747</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But noise it was: wasted effort, cacophony, unaesthetic behavior, increased entropy, production of energy that causes a local warming up of the New York area ecozone, and a large-scale delusion of this thing called “wealth” that was bound to evaporate somehow.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2764">2764</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You can’t predict in general, but you can predict that those who rely on predictions are taking more risks, will have some trouble, perhaps even go bust. Why? Someone who predicts will be fragile to prediction errors.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2775">2775</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Fat Tony’s model is quite simple. He identifies fragilities, makes a bet on the collapse of the fragile unit, lectures Nero and trades insults with him about sociocultural matters, reacts to Nero’s jabs at New Jersey life, collects big after the collapse. Then he has lunch.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2778">2778</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Seneca subscribed to, and was a prominent expositor of, the philosophical school of Stoicism, which advanced a certain indifference to fate.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2795">2795</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>one. My point is that wisdom in decision making is vastly more important—not just practically, but philosophically—than knowledge.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2801">2801</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is about continuously degrading the value of earthly possessions.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2824">2824</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And the key phrase reverberating in Seneca’s oeuvre is nihil perditi, “I lost nothing,” after an adverse event. Stoicism makes you desire the challenge of a calamity. And Stoics look down on luxury:</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2826">2826</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Stoicism, seen this way, becomes pure robustness—for the attainment of a state of immunity from one’s external circumstances, good or bad, and an absence of fragility to decisions made by fate, is robustness. Random events won’t affect us either way (we are too strong to lose, and not greedy to enjoy the upside), so we stay in the middle column of the Triad.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2829">2829</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Success brings an asymmetry: you now have a lot more to lose than to gain. You are hence fragile.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2845">2845</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If an additional quantity of wealth, say, a thousand Phoenician shekels, would not benefit you, but you would feel great harm from the loss of an equivalent amount, you have an asymmetry. And it is not a good asymmetry: you are fragile.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2857">2857</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I have always hated employment and the associated dependence on someone else’s arbitrary opinion, particularly when much of what’s done inside large corporations violates my sense of ethics.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2864">2864</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But, before that, for my last job, I wrote my resignation letter before starting the new position, locked it up in a drawer, and felt free while I was there.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2866">2866</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I would go through the mental exercise of assuming every morning that the worst possible thing had actually happened—the rest of the day would be a bonus. Actually the method of mentally adjusting “to the worst” had advantages way beyond the therapeutic, as it made me take a certain class of risks for which the worst case is clear and unambiguous, with limited and known downside. It is hard to stick to a good discipline of mental write-off when things are going well, yet that’s when one needs the discipline the most.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2868">2868</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Stoicism is about the domestication, not necessarily the elimination, of emotions. It is not about turning humans into vegetables. My idea of the modern Stoic sage is someone who transforms fear into prudence, pain into information, mistakes into initiation, and desire into undertaking</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2876">2876</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He said that wealth is the slave of the wise man and master of the fool.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2886">2886</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The bookkeeping of benefits is simple: it is all expenditure; if any one returns it, that is clear gain (my emphasis); if he does not return it, it is not lost, I gave it for the sake of giving.” Moral bookkeeping, but bookkeeping nevertheless.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2892">2892</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Simple test: if I have “nothing to lose” then it is all gain and I am antifragile.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2904">2904</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You are antifragile for a source of volatility if potential gains exceed potential losses (and vice versa).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2913">2913</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For those readers who wonder about the difference between Buddhism and Stoicism, I have a simple answer. A Stoic is a Buddhist with attitude, one who says “f*** you” to fate.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2917">2917</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The barbell (or bimodal) strategy is a way to achieve antifragility and move to the right side of the Triad.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2926">2926</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The first step toward antifragility consists in first decreasing downside, rather than increasing upside; that is, by lowering exposure to negative Black Swans and letting natural antifragility work by itself.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2929">2929</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The consideration of path dependence makes our approach simple: it is easy to identify the fragile and put it in the left column of the Triad, regardless of upside potential—since the broken will tend to stay permanently broken.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2936">2936</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This fragility that comes from path dependence</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2938">2938</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The barbell (a bar with weights on both ends that weight lifters use) is meant to illustrate the idea of a combination of extremes kept separate, with avoidance of the middle. In our context it is not necessarily symmetric: it is just composed of two extremes, with nothing in the center. One can also call it, more technically, a bimodal strategy, as it has two distinct modes rather than a single, central one.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2960">2960</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>That is extreme risk aversion on one side and extreme risk loving on the other, rather than just the “medium” or the beastly “moderate” risk attitude that in fact is a sucker game (because medium risks can be subjected to huge measurement errors).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2965">2965</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For antifragility is the combination aggressiveness plus paranoia—clip your downside, protect yourself from extreme harm, and let the upside, the positive Black Swans, take care of itself.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2973">2973</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Recall Nero in Chapter 9 hanging around with janitors and scholars, rarely with middlebrows.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2981">2981</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It also means letting people experience some, not too much, stress, to wake them up a bit.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2997">2997</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>small dangers, invest your energy in protecting them from consequential harm.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=2998">2998</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One finds similar ideas in ancestral lore: it is explained in a Yiddish proverb that says “Provide for the worst; the best can take care of itself.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3000">3000</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is a tradition with French and other European literary writers to look for a sinecure, say, the anxiety-free profession of civil servant, with few intellectual demands and high job security, the kind of low-risk job that ceases to exist when you leave the office, then spend their spare time writing, free to write whatever they want, under their own standards.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3007">3007</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The barbell businessman-scholar situation was ideal; after three or four in the afternoon, when I left the office, my day job ceased to exist until the next day and I was completely free to pursue what I found most valuable and interesting.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3021">3021</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And professions can be serial: something very safe, then something speculative.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3024">3024</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Then, after a decade or so, he left completely for something speculative and highly risky.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3025">3025</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This is what Seneca elected to do: he initially had a very active, adventurous life, followed by a philosophical withdrawal to write and meditate, rather than a “middle” combination of both. Many of the “doers” turned “thinkers” like Montaigne have done a serial barbell: pure action, then pure reflection.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3027">3027</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Main course and dessert are separate.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3032">3032</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the maximum weight one can lift, then nothing, compared to other alternatives that entail less intense but very long hours in the gym. This, supplemented with effortless long walks, constitutes an exercise barbell.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3049">3049</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you dislike someone, leave him alone or eliminate him; don’t attack him verbally.2</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3054">3054</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So just as Stoicism is the domestication, not the elimination, of emotions, so is the barbell a domestication, not the elimination, of uncertainty.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3065">3065</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>People find insuring their house a necessity, not something to be judged against a financial strategy, but when it comes to their portfolios, because of the way things are framed in the press, they don’t look at them in the same way.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3075">3075</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The barbell is simply an idea of insurance of survival; it is a necessity, not an option.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3077">3077</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The rational flâneur is someone who, unlike a tourist, makes a decision at every step to revise his schedule, so he can imbibe things based on new information, what Nero was trying to practice in his travels, often guided by his sense of smell.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3101">3101</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The opposite of opportunism in human relations is loyalty, a noble sentiment—but one that needs to be invested in the right places, that is, in human relations and moral commitments.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3106">3106</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Optionality will take us many places, but at the core, an option is what makes you antifragile and allows you to benefit from the positive side of uncertainty, without a corresponding serious harm from the negative side.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3114">3114</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Like Britain in the Industrial Revolution, America’s asset is, simply, risk taking and the use of optionality, this remarkable ability to engage in rational forms of trial and error, with no comparative shame in failing, starting again, and repeating failure.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3120">3120</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This kind of sum I’ve called in my vernacular “f*** you money”—a sum large enough to get most, if not all, of the advantages of wealth (the most important one being independence and the ability to only occupy your mind with matters that interest you) but not its side effects, such as having to attend a black-tie charity event and being forced to listen to a polite exposition of the details of a marble-rich house renovation.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3144">3144</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>antifragility equals more to gain than to lose equals more upside than downside equals asymmetry (favorable) equals likes volatility. And if you make more when you are right than you are hurt when you are wrong, then you will benefit, in the long run, from volatility (and the reverse).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3163">3163</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Financial independence, when used intelligently, can make you robust; it gives you options and allows you to make the right choices. Freedom is the ultimate option.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3175">3175</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Further, you will never get to know yourself—your real preferences—unless you face options and choices.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3176">3176</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Authors, artists, and even philosophers are much better off having a very small number of fanatics behind them than a large number of people who appreciate their work. The number of persons who dislike the work don’t count—there is no such thing as the opposite of buying your book, or the equivalent of losing points in a soccer game, and this absence of negative domain for book sales provides the author with a measure of optionality.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3224">3224</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another business that does not care about the average but rather the dispersion around the average is the luxury goods industry</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3234">3234</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>No one at present dares to state the obvious: growth in society may not come from raising the average the Asian way, but from increasing the number of people in the “tails,” that small, very small number of risk takers crazy enough to have ideas of their own, those endowed with that very rare ability called imagination, that rarer quality called courage, and who make things happen.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3248">3248</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you “have optionality,” you don’t have much need for what is commonly called intelligence, knowledge, insight, skills, and these complicated things that take place in our brain cells. For you don’t have to be right that often. All you need is the wisdom to not do unintelligent things to hurt yourself (some acts of omission) and recognize favorable outcomes when they occur. (The key is that your assessment doesn’t need to be made beforehand, only after the outcome.)</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3259">3259</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the idea present in California, and voiced by Steve Jobs at a famous speech: “Stay hungry, stay foolish.” He probably meant “Be crazy but retain the rationality of choosing the upper bound when you see it.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3278">3278</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Option = asymmetry + rationality</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3290">3290</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The rationality part lies in keeping what is good and ditching the bad, knowing to take the profits.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3291">3291</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The fragile has no option. But the antifragile needs to select what’s best—the best option.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3293">3293</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In trial and error, the rationality consists in not rejecting something that is markedly better than what you had before.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3297">3297</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He did not think of trial and error as options. He did not think of model error as negative options.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3304">3304</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>An option hides where we don’t want it to hide. I will repeat that options benefit from variability, but also from situations in which errors carry small costs.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3307">3307</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you list the businesses that have generated the most wealth in history, you would see that they all have optionality.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3329">3329</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We humans lack imagination, to the point of not even knowing what tomorrow’s important things look like. We use randomness to spoon-feed us with discoveries—which is why antifragility is necessary.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3386">3386</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But it took me a lifetime to figure out the second point: implementation does not necessarily proceed from invention. It, too, requires luck and circumstances.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3400">3400</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>hence a straightforward and practical testing heuristic: the simpler and more obvious the discovery, the less equipped we are to figure it out by complicated methods. The key is that the significant can only be revealed through practice.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3420">3420</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Simplicity, I realized, does not lead to laurels.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3425">3425</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>we see that all we need is the ability to accept that what we have on our hands is better than what we had before—in other words, to recognize the existence of the option (or “exercise the option” as people say in the business, that is, take advantage of a valuable alternative that is superior to what precedes it, with a certain gain from switching from one into the other, the only part of the process where rationality is required).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3428">3428</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>(as I keep saying, removal of something non-natural does not carry long-term side effects; it is typically iatrogenics-free).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3447">3447</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Consider two types of knowledge. The first type is not exactly “knowledge”; its ambiguous character prevents us from associating it with the strict definitions of knowledge. It is a way of doing things that we cannot really express in clear and direct language—it is sometimes called apophatic—but that we do nevertheless, and do well. The second type is more like what we call “knowledge”; it is what you acquire in school, can get grades for, can codify, what is explainable, academizable, rationalizable, formalizable, theoretizable, codifiable, Sovietizable, bureaucratizable, Harvardifiable, provable, etc.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3489">3489</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The error of naive rationalism leads to overestimating the role and necessity of the second type, academic knowledge, in human affairs—and degrading the uncodifiable, more complex, intuitive, or experience-based type.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3494">3494</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We are very likely to believe that skills and ideas that we actually acquired by antifragile doing, or that came naturally to us (from our innate biological instinct), came from books, ideas, and reasoning.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3497">3497</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But why is it that when we anthropomorphize and replace “birds” with “men,” the idea that people learn to do things thanks to lectures becomes plausible?</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3526">3526</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So we are blind to the possibility of the alternative process, or the role of such a process, a loop: Random Tinkering (antifragile) → Heuristics (technology) → Practice and Apprenticeship → Random Tinkering (antifragile) → Heuristics (technology) → Practice and Apprenticeship …</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3536">3536</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Authors theorize about some ancestry of my ideas, as if people read books then developed ideas, not wondering whether perhaps it is the other way around; people look for books that support their mental program.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3588">3588</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This makes me suspicious of the master-pupil relationships we read about in cultural history: about all the people that have been called my pupils have been my pupils because we were like-minded.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3593">3593</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But we don’t correct for the difference in science, medicine, and mathematics, for the same reasons we didn’t pay attention to iatrogenics.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3599">3599</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another reason one should trust the disconfirmatory more than the confirmatory.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3603">3603</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The British government documents, as early as fifty years ago, an aim for education other than the one we have today: raising values, making good citizens, and “learning,” not economic growth</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3697">3697</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>in ancient times, learning was for learning’s sake, to make someone a good person, worth talking to, not to increase the stock of gold in</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3699">3699</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In one of the rare noncharlatanic books in finance, descriptively called What I Learned Losing a Million Dollars, the protagonist makes a big discovery.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3716">3716</location>
+      <note>to read</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So that is how I learned the lesson that price and reality as seen by economists are not the same thing.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3753">3753</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Aside from the non-narrative view of things, another lesson. People with too much smoke and complicated tricks and methods in their brains start missing elementary, very elementary things.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3776">3776</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So I saw the less is more in action: the more studies, the less obvious elementary but fundamental things become; activity, on the other hand, strips things to their simplest possible model.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3779">3779</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is something (here, perception, ideas, theories) and a function of something (here, a price or reality, or something real). The conflation problem is to mistake one for the other, forgetting that there is a “function” and that such function has different properties.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3784">3784</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>he is also the greatest expert in cafés for thinking and writing across the planet.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3794">3794</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The difference between a narrative and practice—the important things that cannot be easily narrated—lies mainly in optionality, the missed optionality of things.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3808">3808</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You make forays into the future by opportunism and optionality.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3817">3817</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Yogi Berra said, “In theory there is no difference between theory and practice; in practice there is.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3822">3822</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So far we have seen arguments that intellect is associated with fragility and instills methods that conflict with tinkering.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3823">3823</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>All this does not mean that tinkering and trial and error are devoid of narrative: they are just not overly dependent on the narrative being true—the narrative is not epistemological but instrumental.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3835">3835</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Something hit me then. Nobody worries that a child ignorant of the various theorems of aerodynamics and incapable of solving an equation of motion would be unable to ride a bicycle. So why didn’t he transfer the point from one domain to another?</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3898">3898</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Builders needed the original engineers who knew how to twist things to make the engine work. Theory came later, in a lame way, to satisfy the intellectual bean counter.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=3945">3945</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They probably needed someone like Steve Jobs—blessed with an absence of college education and the right aggressiveness of temperament—to take the elements to their natural conclusion. As we will see in the next section, it is precisely this type of uninhibited doer who made the Industrial Revolution happen.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4029">4029</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Self-directed scholarship has an aesthetic dimension.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4050">4050</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As to the hobbyist in general, evidence shows him (along with the hungry adventurer and the private investor) to be at the source of the Industrial Revolution.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4058">4058</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Visibly the money should go to the tinkerers, the aggressive tinkerers who you trust will milk the option.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4102">4102</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Because in Extremistan, it is more important to be in something in a small amount than to miss it.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4109">4109</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The difference between humans and animals lies in the ability to collaborate, engage in business, let ideas, pardon the expression, copulate.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4169">4169</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It has been difficult for people to understand that, historically, skepticism has been mostly skepticism of expert knowledge rather than skepticism about abstract entities like God, and that all the great skeptics have been largely either religious or, at least, pro-religion (that is, in favor of others being religious).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4176">4176</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To repeat (it is necessary to repeat because intellectuals tend to forget it), absence of evidence is not evidence of absence, a simple point that has the following implications: for the antifragile, good news tends to be absent from past data, and for the fragile it is the bad news that doesn’t show easily.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4202">4202</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>First, “most companies” in Extremistan make no profit—the rare event dominates, and a small number of companies generate all the shekels.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4232">4232</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We will return to these two distinct payoffs, with “bounded left” (limited losses, like Thales’ bet) and “bounded right” (limited gains, like insurance or banking).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4244">4244</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Let me stop to issue rules based on the chapter so far. (i) Look for optionality; in fact, rank things according to optionality, (ii) preferably with open-ended, not closed-ended, payoffs; (iii) Do not invest in business plans but in people, so look for someone capable of changing six or seven times over his career, or more (an idea that is part of the modus operandi of the venture capitalist Marc Andreessen); one gets immunity from the backfit narratives of the business plan by investing in people. It is simply more robust to do so; (iv) Make sure you are barbelled, whatever that means in your business.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4247">4247</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The word “empiric” designated someone who relied on experiment and experience to ascertain what was correct. In other words, trial and error and tinkering. That was held to be inferior—professionally, socially, and intellectually. It is still not considered to be very “intelligent.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4273">4273</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is not very well noticed that Arabic thought favors abstract thinking and science in the most theoretical sense of the word — violently rationalistic, away from empiricism.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4301">4301</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The biologist and intellectual E. O. Wilson was once asked what represented the most hindrance to the development of children; his answer was the soccer mom. He did not use the notion of the Procrustean bed, but he outlined it perfectly. His argument is that they repress children’s natural biophilia, their love of living things. But the problem is more general; soccer moms try to eliminate the trial and error, the antifragility, from children’s lives, move them away from the ecological and transform them into nerds working on preexisting (soccer-mom-compatible) maps of reality.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4323">4323</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As a child of civil war, I disbelieve in structured learning—actually I believe that one can be an intellectual without being a nerd, provided one has a private library instead of a classroom, and spends time as an aimless (but rational) flâneur benefiting from what randomness can give us inside and outside the library. Provided we have the right type of rigor, we need randomness, mess, adventures, uncertainty, self-discovery, near-traumatic episodes, all these things that make life worth living,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4328">4328</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Only the autodidacts are free. And not just in school matters—those who decommoditize, detouristify their lives.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4335">4335</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I figured out how to select people on their ability to integrate socially with others while sitting around doing nothing and enjoying fuzziness. You select people on their ability to hang around, as a filter, and studious people were not good at hanging around: they needed to have a clear task.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4362">4362</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I thought it was the same with people who were selected for trying to get high grades in a small number of subjects rather than follow their curiosity: try taking them slightly away from what they studied and watch their decomposition, loss of confidence, and denial.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4381">4381</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But I read voraciously, wholesale, initially in the humanities, later in mathematics and science, and now in history—outside a curriculum, away from the gym machine so to speak.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4388">4388</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The minute I was bored with a book or a subject I moved to another one, instead of giving up on reading altogether</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4391">4391</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The trick is to be bored with a specific book, rather than with the act of reading.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4393">4393</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And you find gold, so to speak, effortlessly, just as in rational but undirected trial-and-error-based research. It is exactly like options, trial and error, not getting stuck, bifurcating when necessary but keeping a sense of broad freedom and opportunism. Trial and error is freedom.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4394">4394</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It was a barbell—play it safe at school and read on your own, have zero expectation from school.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4415">4415</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is such a thing as nonnerdy applied mathematics: find a problem first, and figure out the math that works for it (just as one acquires language), rather than study in a vacuum through theorems and artificial examples, then change reality to make it look like these examples.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4430">4430</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He muttered the hyperbole that hit home: “much of what other people know isn’t worth knowing.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4433">4433</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Indeed, the most severe mistake made in life is to mistake the unintelligible for the unintelligent—something Nietzsche figured out.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4445">4445</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>it hit me that Nietzsche understood something that I did not find explicitly stated in his work: that growth in knowledge—or in anything—cannot proceed without the Dionysian.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4568">4568</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>optionality as a replacement for intelligence.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4613">4613</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>lacking playfulness—hence optionality.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4623">4623</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In real life, as we saw with the ideas of Seneca and the bets of Thales, exposure is more important than knowledge; decision effects supersede logic.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4627">4627</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The need to focus on the payoff from your actions instead of studying the structure of the world (or understanding the “True” and the “False”) has been largely missed in intellectual history.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4629">4629</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Philosophers talk about truth and falsehood. People in life talk about payoff, exposure, and consequences (risks and rewards), hence fragility and antifragility. And sometimes philosophers and thinkers and those who study conflate Truth with risks and rewards.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4632">4632</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you sat with a pencil and jotted down all the decisions you’ve taken in the past week, or, if you could, over your lifetime, you would realize that almost all of them have had asymmetric payoff, with one side carrying a larger consequence than the other. You decide principally based on fragility, not probability. Or to rephrase, You decide principally based on fragility, not so much on True/False.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4644">4644</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“modify your exposure” and learn to get out of trouble, something religions and traditional heuristics have been better at enforcing than naive and cosmetic science.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4661">4661</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Procrustean bed in life consists precisely in simplifying the nonlinear and making it linear—the simplification that distorts.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4724">4724</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>like read in bed in the morning, write at a desk in front of a window, take long walks (slowly), drink espressos (mornings), chamomile tea (afternoons), Lebanese wine (evenings), and Muscat wines (after dinner), take more long walks (slowly), argue with friends and family members (but never in the morning), and read (again) in bed before sleeping, not</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4731">4731</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The realization that fragility was simply vulnerability to the volatility of the things that affect it</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4758">4758</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>More harm than benefits: simply, an increase in intensity brings more harm than a corresponding decrease offers benefits.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4786">4786</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For the fragile, the cumulative effect of small shocks is smaller than the single effect of an equivalent single large shock.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4805">4805</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This leaves me with the principle that the fragile is what is hurt a lot more by extreme events than by a succession of intermediate ones.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4806">4806</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>my advocacy of redundancies as an aggressive stance.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4888">4888</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But the greatest benefit of such discipline is that it prevents me from cramming my day with appointments (typically, appointments are neither useful nor pleasant).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4890">4890</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another intuitive way to look at convexity effects: consider the scaling property. If you double the exposure to something, do you more than double the harm it will cause? If so, then this is a situation of fragility. Otherwise, you are robust.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4901">4901</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It turns out that the effect of variability in food sources and the nonlinearity in the physiological response is central to biological systems.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4918">4918</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The very idea of exercise is to gain from antifragility to workout stressors—as we saw, all kinds of exercise are just exploitations of convexity effects.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4931">4931</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A squeeze occurs when people have no choice but to do something, and do it right away, regardless of the costs.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4937">4937</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>size hurts you at times of stress; it is not a good idea to be large during difficult times.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4952">4952</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In project management, Bent Flyvbjerg has shown firm evidence that an increase in the size of projects maps to poor outcomes and higher and higher costs of delays as a proportion of the total budget. But there is a nuance: it is the size per segment of the project that matters, not the entire project—some projects can be divided into pieces, not others.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=4994">4994</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>no borrowing allowed, forced fiscal balance.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5071">5071</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>According to the wonderful principle that one should use people’s stupidity to have fun,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5185">5185</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We can see here that the function of something becomes different from the something under nonlinearities.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5265">5265</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I have used all my life a wonderfully simple heuristic: charlatans are recognizable in that they will give you positive advice, and only positive advice, exploiting our gullibility and sucker-proneness for recipes that hit you in a flash as just obvious, then evaporate later as you forget them.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5351">5351</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the learning of life is about what to avoid.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5357">5357</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>follows: we know a lot more what is wrong than what is right,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5368">5368</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For the Arab scholar and religious leader Ali Bin Abi-Taleb (no relation), keeping one’s distance from an ignorant person is equivalent to keeping company with a wise man.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5396">5396</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Finally, consider this modernized version in a saying from Steve Jobs: “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5397">5397</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The less-is-more idea in decision making</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5405">5405</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Just worry about Black Swan exposures, and life is easy.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5412">5412</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A small number of employees in a corporation cause the most problems, corrupt the general attitude—and vice versa—so getting rid of these is a great solution.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5426">5426</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As they say in the mafia, just work on removing the pebble in your shoe.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5434">5434</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For instance, if you have more than one reason to do something (choose a doctor or veterinarian, hire a gardener or an employee, marry a person, go on a trip), just don’t do it.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5452">5452</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Obvious decisions (robust to error) require no more than a single reason.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5455">5455</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Antifragility implies—contrary to initial instinct—that the old is superior to the new, and much more than you think.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5476">5476</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>political philosopher Raymond Aron,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5490">5490</location>
+      <note>to read</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Technothinkers tend to have an “engineering mind”—to put it less politely, they have autistic tendencies.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5563">5563</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And they typically share an absence of literary culture.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5566">5566</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You just need the following: some respect for the past, some curiosity about the historical record, a hunger for the wisdom of the elders, and a grasp of the notion of “heuristics,” these often unwritten rules of thumb that are so determining of survival.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5574">5574</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The robustness of an item is proportional to its life!</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5633">5633</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Effectively my answer would be to make them read the classics. The future is in the past. Actually there is an Arabic proverb to that effect: he who does not have a past has no future.6</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5669">5669</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>These impulses to buy new things that will eventually lose their novelty, particularly when compared to newer things, are called treadmill effects.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5704">5704</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>asked me for a rule on what to read. “As little as feasible from the last twenty years, except history books that are not about the last fifty years,”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5868">5868</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He told me that after his detoxification, he realized that all his peers do is read timely material that becomes instantly obsolete.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5873">5873</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There are secrets to our world that only practice can reveal, and no opinion or analysis will ever capture in full.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5937">5937</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This secret property is, of course, revealed through time, and, thankfully, only through time.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=5938">5938</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But it may not be just medicine—what we call diseases of civilization result from the attempt by humans to make life comfortable for ourselves against our own interest, since the comfortable is what fragilizes.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6023">6023</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another application of via negativa: spend less, live longer is a subtractive strategy.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6403">6403</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>removing things can be quite a potent (and, empirically, a more rigorous) action.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6405">6405</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the “pursuit of happiness” is not equivalent to the “avoidance of unhappiness.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6416">6416</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Each of us certainly knows not only what makes us unhappy (for instance, copy editors, commuting, bad odors, pain, the sight of a certain magazine in a waiting room, etc.), but what to do about it.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6417">6417</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The regimen of the Salerno School of Medicine: joyful mood, rest, and scant nourishment.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6420">6420</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>from a scientific perspective, it seems that the only way we may manage to extend people’s lives is through caloric restriction—which</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6425">6425</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As to liquid, my rule is drink no liquid that is not at least a thousand years old—so its fitness has been tested.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6445">6445</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I would add that, in my own experience, a considerable jump in my personal health has been achieved by removing offensive irritants: the morning newspapers (the mere mention of the names of the fragilista journalists Thomas Friedman or Paul Krugman can lead to explosive bouts of unrequited anger on my part), the boss, the daily commute, air-conditioning (though not heating), television, emails from documentary filmmakers, economic forecasts, news about the stock market, gym “strength training” machines, and many more.3</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6451">6451</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Food tastes so much better after exertion.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6458">6458</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Romans had a strange relation to wealth: anything that “softens” or “mollifies” was seen negatively.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6458">6458</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Arabs kept the tradition, shedding possessions to go to silent, barren, empty spaces. And of course, with mandatory fasting,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6465">6465</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If true wealth consists in worriless sleeping, clear conscience, reciprocal gratitude, absence of envy, good appetite, muscle strength, physical energy, frequent laughs, no meals alone, no gym class, some physical labor (or hobby), good bowel movements, no meeting rooms, and periodic surprises, then it is largely subtractive (elimination of iatrogenics).</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6476">6476</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Just by looking at the Greek Orthodox calendar and its required fasts.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6493">6493</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>when we are herbivores, we eat steadily; but when we are predators we eat more randomly.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6514">6514</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But scientists are in the process of discovering the effects of episodic deprivation of some, or all, foods. Somehow, evidence shows, we get sharper and fitter in response to the stress of the constraint.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6543">6543</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They do not realize that for reasons still opaque to them, walking effortlessly, at a pace below the stress level, can have some benefits—or, as I speculate, is necessary for humans,</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6572">6572</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A lesson I learned from this ancient culture is the notion of megalopsychon (a term expressed in Aristotle’s ethics), a sense of grandeur that was superseded by the Christian value of “humility.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6700">6700</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Natural and ancestral systems work by penalties: no perpetual free option given to anyone.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6784">6784</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Reality removes the uncertainty, the imprecision, the vagueness, the self-serving mental biases that make us appear more intelligent.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6809">6809</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have—or don’t have—in their portfolio.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6868">6868</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>On paper, the frequency of being right matters, but only on paper—typically, fragile payoffs have little (sometimes no) upside, and antifragile payoffs have little downside.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6882">6882</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So the antifragile can lose for a long time with impunity, so long as he happens to be right once; for the fragile, a single loss can be terminal.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6884">6884</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Look at it again, the way we looked at entrepreneurs. They are usually wrong and make “mistakes”—plenty of mistakes. They are convex. So what counts is the payoff from success.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=6892">6892</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A rule then hit me: with the exception of, say, drug dealers, small companies and artisans tend to sell us healthy products, ones that seem naturally and spontaneously needed;</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7104">7104</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Only a sense of honor can lead to commerce. Any commerce.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7175">7175</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is a phenomenon called the treadmill effect, similar to what we saw with neomania: you need to make more and more to stay in the same place.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7216">7216</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It never meant not working; it just meant not deriving your personal and emotional identity from your work, and viewing work as something optional, more like a hobby. In a way your profession does not identify you so much as other attributes, here your birth</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7271">7271</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>someone who cannot be squeezed into doing something he would otherwise never do.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7277">7277</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Don’t do unto others what you don’t want them to do to you.”</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7442">7442</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Shaiy’s extraction was: Everything gains or loses from volatility. Fragility is what loses from volatility and uncertainty. The glass on the table is short volatility.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7444">7444</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Time is volatility. Education, in the sense of the formation of character, personality, and acquisition of true knowledge, likes disorder; label-driven education and educators abhor disorder.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7452">7452</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It so happens that everything nonlinear is convex or concave, or both, depending on the intensity of the stressor.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7458">7458</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Remember that food would not have a taste if it weren’t for hunger; results are meaningless without effort, joy without sadness, convictions without uncertainty, and an ethical life isn’t so when stripped of personal risks.</text>
+      <location url="kindle://book?action=open&amp;asin=B0083DJWGO&amp;location=7472">7472</location>
+    </highlight>
+  </highlights>
+</book>

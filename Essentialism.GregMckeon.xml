@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>Essentialism: The Disciplined Pursuit of Less</title>
+  <authors>Greg Mckeown</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>So he went to speak with a mentor who gave him surprising advice: “Stay, but do what you would as a consultant and nothing else. And don’t tell anyone.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=57">57</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He was tentative at first. He would evaluate requests based on the timid criteria, “Can I actually fulfill this request, given the time and resources I have?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=60">60</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Now when a request would come in he would pause and evaluate the request against a tougher criteria: “Is this the very most important thing I should be doing with my time and resources right now?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=63">63</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead of spinning his wheels trying to get everything done, he could get the right things done.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=74">74</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead of making just a millimeter of progress in a million directions he began to generate tremendous momentum towards accomplishing the things that were truly vital.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=75">75</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In this example is the basic value proposition of Essentialism: only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone, can you make your highest contribution towards the things that really matter.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=83">83</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He is driven by the idea that almost everything is noise. He believes very few things are essential.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=92">92</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There are far more activities and opportunities in the world than we have time and resources to invest in.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=103">103</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=107">107</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In many cases we can learn to make one-time decisions that make a thousand future decisions so we don’t exhaust ourselves asking the same questions again and again.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=115">115</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In other words, Essentialism is a disciplined, systematic approach for determining where our highest point of contribution lies, then making execution of those things almost effortless.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=118">118</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Says “no” to everything except the essential Removes</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=128">128</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you don’t prioritize your life, someone else will.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=151">151</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Eager to build on his success, he continued to read as much as he could and pursue all he could with gusto and enthusiasm. By the time I met him he was hyperactive, trying to learn it all and do it all.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=165">165</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And in the process, he lost his ability to discern the vital few from the trivial many.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=166">166</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Curiously, and overstating the point in order to make it, the pursuit of success can be a catalyst for failure</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=183">183</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We are unprepared in part because, for the first time, the preponderance of choice has overwhelmed our ability to manage it. We have lost our ability to filter what is important and what isn’t. Psychologists call this “decision fatigue”: the more choices we are forced to make, the more the quality of our decisions deteriorates.5</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=197">197</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What is new is how especially damaging this myth is today, in a time when choice and expectations have increased exponentially. It results in stressed people trying to cram yet more activities into their already overscheduled lives.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=208">208</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The word priority came into the English language in the 1400s. It was singular. It meant the very first or prior thing.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=212">212</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>and not just getting rid of the obvious time wasters, but cutting out some really good opportunities as well.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=224">224</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Most of these efforts didn’t come with an expiration date. Unless we have a system for purging them, once adopted, they live on in perpetuity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=235">235</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Do I love this?” and “Do I look great in it?” and “Do I wear this often?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=238">238</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Let’s say you have your clothes divided into piles of “must keep” and “probably should get rid of.” But are you really ready to stuff the “probably should get rid of” pile in a bag and send it off? After</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=243">243</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you’re not quite there, ask the killer question: “If I didn’t already own this, how much would I spend to buy it?” This usually does the trick.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=246">246</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In other words, once you’ve figured out which activities and efforts to keep—the ones that make your highest level of contribution—you need a system to make executing your intentions as effortless as possible.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=253">253</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“What do I feel deeply inspired by?” and “What am I particularly talented at?” and “What meets a significant need in the world?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=293">293</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The purpose of the exploration is to discern the vital few from the trivial many.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=297">297</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What if society encouraged us to reject what has been accurately described as doing things we detest, to buy things we don’t need, with money we don’t have, to impress people we don’t like?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=329">329</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What if instead we celebrated how much time we had spent listening, pondering, meditating, and enjoying time with the most important people in our lives?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=332">332</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As poet Mary Oliver wrote: “Tell me, what is it you plan to do / with your one wild and precious life?”12</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=340">340</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There are three deeply entrenched assumptions we must conquer to live the way of the Essentialist: “I have to,” “It’s all important,” and “I can do both.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=362">362</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“I choose to,” “Only a few things really matter,” and “I can do anything but not everything.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=366">366</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>IT IS THE ABILITY TO CHOOSE WHICH MAKES US HUMAN. —Madeleine L’Engle</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=372">372</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>result of a twenty-minute spontaneous brainstorm about what I currently wanted to be doing with my life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=375">375</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“If you could do only one thing with your life right now, what would you do?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=391">391</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Up to that point I had always known logically that I could choose not to study law. But emotionally it had never been an option.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=392">392</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>when we surrender our ability to choose, something or someone else will step in to choose for us.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=395">395</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>choice—a choice is an action.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=400">400</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>while we may not always have control over our options, we always have control over how we choose among them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=401">401</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For too long, we have overemphasized the external aspect of choices (our options) and underemphasized our internal ability to choose (our actions).</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=406">406</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The ability to choose cannot be taken away or even given away—it can only be forgotten.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=408">408</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One example I heard is that of a child who struggles early on with mathematics. He tries and tries but never gets any better, so eventually he gives up. He believes nothing he does will matter.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=422">422</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When people believe that their efforts at work don’t matter, they tend to respond in one of two ways. Sometimes they check out and stop trying, like the mathematically challenged child. The other response is less obvious at first. They do the opposite. They become hyperactive. They accept every opportunity presented. They throw themselves into every assignment. They tackle every challenge with gusto. They try to do it all. This</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=424">424</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To become an Essentialist requires a heightened awareness of our ability to choose.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=436">436</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>certain types of effort yield higher rewards than others.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=471">471</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It would have been easy to think of the jobs in terms of that ratio between time and reward. But I knew what really counted was the relationship between time and results.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=472">472</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Less but better” does.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=477">477</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Getting used to the idea of “less but better” may prove harder than it sounds, especially when we have been rewarded in the past for doing more … and more and more.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=483">483</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Pareto Principle,” the idea, introduced as far back as the 1790s by Vilfredo Pareto, that 20 percent of our efforts produce 80 percent of results.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=487">487</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Distinguishing the “trivial many” from the “vital few”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=495">495</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“power law.” According to the power law theory, certain efforts actually produce exponentially more results than others.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=506">506</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The top software developers are more productive than average software developers not by a factor of 10X or 100X or even 1,000X but by 10,000X.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=507">507</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As John Maxwell has written, “You cannot overestimate the unimportance of practically everything.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=511">511</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We discover how even the many good opportunities we pursue are often far less valuable than the few truly great ones. Once we understand this, we start scanning our environment for those vital few and eagerly eliminate the trivial many. Only then can we say no to good opportunities and say yes to truly great ones.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=515">515</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>An Essentialist, in other words, discerns more so he can do less.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=519">519</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To practice this Essentialist skill we can start at a simple level, and once it becomes second nature for everyday decisions we can begin to apply it to bigger and broader areas of our personal and professional lives.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=524">524</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The moral of the story: ignoring the reality of trade-offs is a terrible strategy for organizations. It turns out to be a terrible strategy for people as well.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=563">563</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We can try to avoid the reality of trade-offs, but we can’t escape them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=600">600</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>After all, by definition, a trade-off involves two things we want.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=607">607</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Do you want it done faster or better?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=609">609</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Essentialists ask the tougher but ultimately more liberating question, “Which problem do I want?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=611">611</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As painful as they can sometimes be, trade-offs represent a significant opportunity. By forcing us to weigh both options and strategically select the best one for us, we significantly increase our chance of achieving the outcome we want.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=617">617</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>in getting him accepted. They said, “We had him try out a lot of different things, but as soon as it became clear an activity was not going to be his ‘big thing’ we discussed it and took him out of it.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=621">621</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Essentialists see trade-offs as an inherent part of life, not as an inherently negative part of life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=630">630</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead of asking, “What do I have to give up?” they ask, “What do I want to go big on?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=631">631</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Nonessentialists get excited by virtually everything and thus react to everything.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=649">649</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To discern what is truly essential we need space to think, time to look and listen, permission to play, wisdom to sleep, and the discipline to apply highly selective criteria to the choices we make.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=654">654</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>creating space to explore, think, and reflect should be kept to a minimum. Yet these very activities are the antidote to the nonessential busyness</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=661">661</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>WITHOUT GREAT SOLITUDE NO SERIOUS WORK IS POSSIBLE. —Pablo Picasso</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=668">668</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He wrote: “I think it’s critical to set aside time to take a breath, look around, and think. You need that level of clarity in order to innovate and grow.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=678">678</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Unfortunately, in our time-starved era we don’t get that space by default—only by design.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=683">683</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>to think about life Creates space to escape and explore life</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=693">693</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>For some reason there is a false association with the word focus. As with choice, people tend to think of focus as a thing. Yes, focus is something we have. But focus is also something we do.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=705">705</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In order to have focus we need to escape to focus.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=707">707</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They are given assignments to practice deliberately discerning the essential few from the many good.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=715">715</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I blocked off eight hours a day to write: from 5:00 A.M. to 1:00 P.M., five days a week. The basic rule was no e-mail, no calls, no appointments, and no interruptions until after 1:00 P.M.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=731">731</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It seems obvious, but when did you last take time out of your busy day simply to sit and think?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=736">736</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I’m talking about deliberately setting aside distraction-free time in a distraction-free space to do absolutely nothing other than think.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=738">738</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>by abolishing any chance of being bored we have also lost the time we used to have to think and process.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=743">743</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Here’s another paradox for you: the faster and busier things get, the more we need to build thinking time into our schedule. And the noisier things get, the more we need to build quiet reflection spaces in which we can truly focus.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=744">744</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Today he still takes the time away from the daily distractions of running his foundation to simply think.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=768">768</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One practice I’ve found useful is simply to read something from classic literature (not a blog, or the newspaper, or the latest beach novel) for the first twenty minutes of the day.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=770">770</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Meditations of Marcus Aurelius; and the Upanishads. There</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=776">776</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>WHERE IS THE KNOWLEDGE WE HAVE LOST IN INFORMATION? —T. S. Eliot</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=782">782</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“In that instant,” Ephron recalls, “I realized that journalism was not just about regurgitating the facts but about figuring out the point. It wasn’t enough to know the who, what, when, and where; you had to understand what it meant. And why it mattered.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=798">798</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Have you ever felt lost and unsure about what to focus on?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=805">805</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Being a journalist of your own life will force you to stop hyper-focusing on all the minor details and see the bigger picture.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=817">817</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>By training yourself to look for “the lead,” you will suddenly find yourself able to see what you have missed.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=819">819</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Essentialists are powerful observers and listeners.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=831">831</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Pays attention to the signal in the noise Hears what is not being said Scans to find the essence of the information</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=841">841</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Therefore, one of the most obvious and yet powerful ways to become a journalist of our own lives is simply to keep a journal.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=847">847</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I also suggest that once every ninety days or so you take an hour to read your journal entries from that period.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=855">855</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead, focus on the broader patterns or trends.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=857">857</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Getting to the essence of a story takes a deep understanding of the topic, its context, its fit into the bigger picture, and its relationship to different fields.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=876">876</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One trick she uses is role play: she puts herself in the shoes of all the main players in a story in order to better understand their motives, reasoning, and points of view.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=881">881</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“What question are you trying to answer?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=892">892</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A LITTLE NONSENSE NOW AND THEN, IS CHERISHED BY THE WISEST MEN. —Roald Dahl</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=901">901</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The word school is derived from the Greek word schole, meaning “leisure.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=915">915</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Play, which I would define as anything we do simply for the joy of doing rather than as a means to an end—whether it’s flying a kite or listening to music or throwing around a baseball—might seem like a nonessential activity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=929">929</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Nothing fires up the brain like play.”3</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=934">934</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Knows play is essential Knows play sparks exploration</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=938">938</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“In a world continuously presenting unique challenges and ambiguity, play prepares these bears for a changing planet.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=942">942</location>
+      <note>eq Bob Fagan</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Yet of all animal species, Stuart Brown writes, humans are the biggest players of all. We are built to play and built through play. When we play, we are engaged in the purest expression of our humanity, the truest expression of our individuality.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=946">946</location>
+      <note>eq, Stuart Brown</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Play is fundamental to living the way of the Essentialist because it fuels exploration in at least three specific ways.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=950">950</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>First, play broadens the range of options available to us. It helps us to see possibilities we otherwise wouldn’t have seen and make connections we would otherwise not have made. It opens our minds and broadens our perspective. It helps us challenge old assumptions and makes us more receptive to untested ideas. It gives us permission to expand our own stream of consciousness and come up with new stories. Or as Albert Einstein once said: “When I examine myself and my methods of thought, I come to the conclusion that the gift of fantasy has meant more to me than my talent for absorbing positive knowledge.”6</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=951">951</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Second, play is an antidote to stress, and this is key because stress, in addition to being an enemy of productivity, can actually shut down the creative, inquisitive, exploratory parts of our brain.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=956">956</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Third, as Edward M. Hallowell, a psychiatrist who specializes in brain science, explains, play has a positive effect on the executive function of the brain. “The brain’s executive functions,” he writes, “include planning, prioritizing, scheduling, anticipating, delegating, deciding, analyzing—in short, most of the skills any executive must master in order to excel in business.”8</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=963">963</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Play stimulates the parts of the brain involved in both careful, logical reasoning and carefree, unbound exploration.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=967">967</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Play doesn’t just help us to explore what is essential. It is essential in and of itself.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=986">986</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He suggests that readers mine their past for play memories. What did you do as a child that excited you? How can you re-create that today?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=989">989</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>EACH NIGHT, WHEN I GO TO SLEEP, I DIE. AND THE NEXT MORNING, WHEN I WAKE UP, I AM REBORN. —Mahatma Gandhi</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=992">992</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The best asset we have for making a contribution to the world is ourselves.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1031">1031</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I also remember Bill Clinton was quoted as saying that every major mistake he had made in his life had happened as a result of sleep deprivation. Ever since, I have tried to get eight hours a night.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1050">1050</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Essentialists choose to do one fewer thing right now in order to do more tomorrow. Yes, it is a trade-off. But cumulatively, this small trade-off can yield big rewards.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1061">1061</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One hour more of sleep equals several more hours of much higher productivity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1066">1066</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Sleep is for high performers. Sleep is a priority. Sleep breeds creativity. Sleep enables the highest levels of mental contribution.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1067">1067</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The best violinists slept an average of 8.6 hours in every twenty-four-hour period: about an hour longer than the average American.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1079">1079</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Over the period of a week they also spent an average of 2.8 hours of napping in the afternoon: about two hours longer than the average.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1080">1080</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Our highest priority is to protect our ability to prioritize.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1136">1136</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In a piece called “No More Yes. It’s Either HELL YEAH! Or No,” the popular TED speaker Derek Sivers describes a simple technique for becoming more selective in the choices we make. The key is to put the decision to an extreme test: if we feel total and utter conviction to do something, then we say yes, Derek-style. Anything less gets a thumbs down. Or as a leader at Twitter once put it to me, “If the answer isn’t a definite yes then it should be a no.” It</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1147">1147</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You can think of this as the 90 Percent Rule, and it’s one you can apply to just about every decision or dilemma. As you evaluate an option, think about the single most important criterion for that decision, and then simply give the option a score between 0 and 100. If you rate it any lower than 90 percent, then automatically change the rating to 0 and simply reject it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1166">1166</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Says yes to only the top 10 percent of opportunities Uses narrow, explicit criteria like “Is this exactly what I am looking for?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1187">1187</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Making our criteria both selective and explicit affords us a systematic tool for discerning what is essential and filtering out the things that are not.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1199">1199</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If it isn’t a clear yes, then it’s a clear no.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1224">1224</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the result of a disciplined and continuous approach to figure out what works and what doesn’t.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1226">1226</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But if we just say yes because it is an easy reward, we run the risk of having to later say no to a more meaningful one.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1241">1241</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In other words, they would have to be more selective in the work they took on, so they could channel all their energies toward excelling in the area that had become their specialty.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1251">1251</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>First, write down the opportunity. Second, write down a list of three “minimum criteria” the options would need to “pass” in order to be considered. Third, write down a list of three ideal or “extreme criteria” the options would need to “pass” in order to be considered. By definition, if the opportunity doesn’t pass the first set of criteria, the answer is obviously no. But if it also doesn’t pass two of your three extreme criteria, the answer is still no. opportunity What opportunity is being offered to you? minimum What are your minimum criteria for this option to be considered? extreme What are the ideal criteria for this option to be approved?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1253">1253</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead, why not conduct an advanced search and ask three questions: “What am I deeply passionate about?” and “What taps my talent?” and “What meets a significant need in the world?” Naturally there won’t be as many pages to view, but that is the point of the exercise. We aren’t looking for a plethora of good things to do. We are looking for the one where we can make our absolutely highest point of contribution.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1263">1263</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>After all, there is still that nagging reluctance, that nagging fear that “what if” years down the road you come to regret giving away that blazer with the big shoulder pads and loud pinstripes.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1289">1289</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Likewise, in your life, the killer question when deciding what activities to eliminate is: “If I didn’t have this opportunity, what would I be willing to do to acquire it?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1293">1293</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Instead, ask the essential question: “What will I say no to?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1298">1298</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is the question that will uncover your true purpose and help you make the highest level of contribution not only to your own goals but to the mission of your organization.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1300">1300</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>TO FOLLOW, WITHOUT HALT, ONE AIM: THERE IS THE SECRET TO SUCCESS. —Anna Pavlova, Russian ballet dancer</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1305">1305</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“What do you really want out of your career over the next five years?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1328">1328</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>hand, people thrive. When there is a lack of clarity, people waste time and energy on the trivial many. When they have sufficient levels of clarity, they are capable of greater breakthroughs and innovations—greater than people even realize they ought to have—in those areas that are truly vital. In</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1337">1337</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In the same way, when individuals are involved in too many disparate activities—even good activities—they can fail to achieve their essential mission. One reason for this is that the activities don’t work in concert, so they don’t add up into a meaningful whole.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1357">1357</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Has a strategy that is concrete and inspirational Has an intent that is both meaningful and memorable Makes one decision that eliminates one thousand later</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1382">1382</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>An essential intent doesn’t have to be elegantly crafted; it’s the substance, not the style that counts. Instead, ask the more essential question that will inform every future decision you will ever make: “If we could be truly excellent at only one thing, what would it be?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1397">1397</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>powerful essential intent inspires people partially because it is concrete enough to answer the question, “How will we know when we have succeeded?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1402">1402</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The concreteness of the objective made it real. The realness made it inspiring. It answered the question: “How will we know when we have succeeded?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1413">1413</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Creating an essential intent is hard. It takes courage, insight, and foresight to see which activities and efforts will add up to your single highest point of contribution. It takes asking tough questions, making real trade-offs, and exercising serious discipline to cut out the competing priorities that distract us from our true intention. Yet it is worth the effort because</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1420">1420</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>COURAGE IS GRACE UNDER PRESSURE. —Ernest Hemingway</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1426">1426</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But the deeper I have looked at the subject of Essentialism the more clearly I have seen courage as key to the process of elimination. Without courage, the disciplined pursuit of less is just lip service. It</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1448">1448</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I say this without judgment. We have good reasons to fear saying no. We worry we’ll miss out on a great opportunity. We’re scared of rocking the boat, stirring things up, burning bridges. We can’t bear the thought of disappointing someone we respect and like.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1451">1451</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The main thing is to keep the main thing the main thing”—to</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1474">1474</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One simple answer is we are unclear about what is essential. When this happens we become defenseless. On the other hand, when we have strong internal clarity it is almost as if we have a force field protecting us from the nonessentials coming at us from all directions.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1479">1479</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>They distract us from the reality of the fact that either we can say no and regret it for a few minutes, or we can say yes and regret it for days, weeks, months, or even years.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1490">1490</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The only way out of this trap is to learn to say no firmly, resolutely, and yet gracefully.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1491">1491</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But Essentialists know that after the rush comes the pang of regret. They know they will soon feel bullied and resentful—both at the other person and at themselves. Eventually they will wake up to the unpleasant reality that something more important must now be sacrificed to accommodate this new commitment.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1506">1506</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Dares to say no firmly, resolutely, and gracefully Says yes only to the things that really matter</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1512">1512</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Only once we separate the decision from the relationship can we make a clear decision and then separately find the courage and compassion to communicate it.9</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1517">1517</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Essentialists choose “no” more often than they say no.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1520">1520</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If we have no clear sense of the opportunity cost—in other words, the value of what we are giving up—then it is especially easy to fall into the nonessential trap of telling ourselves we can get it all done.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1525">1525</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>graceful “no” grows out of a clear but unstated calculation of the trade-off.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1527">1527</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I am simply saying everyone is selling something—an idea, a viewpoint, an opinion—in exchange for your time.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1530">1530</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Essentialists accept they cannot be popular with everyone all of the time. Yes, saying no respectfully, reasonably, and gracefully can come at a short-term social cost. But part of living the way of the Essentialist is realizing respect is far more valuable than popularity in the long run.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1545">1545</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Below are eight responses you can put in your “no” repertoire. 1. The awkward pause. Instead of being controlled by the threat of an awkward silence, own it. Use it as a tool. When a request comes to you (obviously this works only in person), just pause for a moment. Count to three before delivering your verdict. Or if you get a bit more bold, simply wait for the other person to fill the void.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1554">1554</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>2. The soft “no” (or the “no but”). I</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1558">1558</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>3. “Let me check my calendar and get back to you.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1562">1562</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>4. Use e-mail bouncebacks.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1568">1568</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When I was writing this book I set an e-mail bounceback with the subject line “In Monk Mode.” The e-mail said: “Dear Friends, I am currently working on a new book which has put enormous burdens on my time. Unfortunately, I am unable to respond in the manner I would like. For this, I apologize.—Greg.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1571">1571</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Say, “Yes. What should I deprioritize?” Saying no to a senior leader at work is almost unthinkable, even laughable, for many people.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1574">1574</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Say it with humor. I</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1582">1582</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>7. Use the words “You are welcome to X. I am willing to Y.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1585">1585</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>8. “I can’t do it, but X might be interested.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1590">1590</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Tom Friel, the former CEO of Heidrick &amp; Struggles, once said to me, “We need to learn the slow ‘yes’ and the quick ‘no.’</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1602">1602</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>HALF OF THE TROUBLES OF THIS LIFE CAN BE TRACED TO SAYING YES TOO QUICKLY AND NOT SAYING NO SOON ENOUGH. —Josh Billings</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1607">1607</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Sunk-cost bias is the tendency to continue to invest time, money, or energy into something we know is a losing proposition simply because we have already incurred, or sunk, a cost that cannot be recouped.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1620">1620</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Have you ever continued to invest time or effort in a nonessential project instead of cutting your losses?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1632">1632</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Have you ever kept plodding down a dead end because you could not admit, “I shouldn’t have pursued this direction in the first place”?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1634">1634</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Asks, “If I weren’t already invested in this project, how much would I invest in it now?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1640">1640</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Thinks, “What else could I do with this time or money if I pulled the plug now?” Comfortable with cutting losses</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1640">1640</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When we feel we “own” an activity, it becomes harder to uncommit. Nonetheless, here is a useful tip: PRETEND YOU DON’T OWN IT YET</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1658">1658</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Don’t ask, “How will I feel if I miss out on this opportunity?” but rather, “If I did not have this opportunity, how much would I be willing to sacrifice in order to obtain it?” Similarly, we can ask, “If I wasn’t already involved in this project, how hard would I work to get on it?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1662">1662</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Why are adults so much more vulnerable to the sunk-cost bias than young children? The answer, he believes, is a lifetime of exposure to the “Don’t waste” rule, so that by the time we are adults we are trained to avoid appearing wasteful, even to ourselves.8 “Abandoning a project that you’ve invested a lot in feels like you’ve wasted everything, and waste is something we’re told to avoid,” Arkes said.9</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1667">1667</location>
+      <note>eq, Hal Arkes</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>INSTEAD, ADMIT FAILURE TO BEGIN SUCCESS</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1678">1678</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There should be no shame in admitting to a mistake; after all, we really are only admitting that we are now wiser than we once were.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1682">1682</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>STOP TRYING TO FORCE A FIT</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1683">1683</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>GET A NEUTRAL SECOND OPINION When we get so emotionally hung up on trying to force something that is not the right fit, we can often benefit from a sounding board.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1692">1692</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The tendency to continue doing something simply because we have always done it is sometimes called the “status quo bias.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1701">1701</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>APPLY ZERO-BASED BUDGETING Typically, when accountants allocate a budget they use last year’s budget as the baseline for the next year’s projection. But with zero-based budgeting, they use zero as the baseline. In other words, every item in the proposed budget must be justified from scratch.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1706">1706</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You can apply zero-based budgeting to your own endeavors. Instead of trying to budget your time on the basis of existing commitments, assume that all bets are off. All previous commitments are gone. Then begin from scratch, asking which you would add today.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1711">1711</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you’ve already made a casual commitment you’re regretting, find a nice way to worm your way out. Simply apologize and tell the person that when you made the commitment you didn’t fully realize what it would entail.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1721">1721</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>GET OVER THE FEAR OF MISSING OUT</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1723">1723</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>TO FIGHT THIS FEAR, RUN A REVERSE PILOT</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1726">1726</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In a reverse pilot you test whether removing an initiative or activity will have any negative consequences.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1730">1730</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>By quietly eliminating or at least scaling back an activity for a few days or weeks you might be able to assess whether it is really making a difference or whether no one really cares. Even</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1738">1738</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Clearly, editing—which involves the strict elimination of the trivial, unimportant, or irrelevant—is an Essentialist craft. So</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1758">1758</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>An editor is not merely someone who says no to things. A three-year-old can do that. Nor does an editor simply eliminate; in fact, in a way, an editor actually adds. What I mean is that a good editor is someone who uses deliberate subtraction to actually add life to the ideas, setting, plot, and characters.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1772">1772</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>disciplined editing can help add to your level of contribution. It increases your ability to focus on and give energy to the things that really matter. It lends the most meaningful relationships and activities more space to blossom.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1774">1774</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You must, as Stephen King has said, “kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler’s heart, kill your darlings.”4</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1782">1782</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Thinks that making things better means subtracting something Eliminates the distracting words, images, and details</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1787">1787</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Latin root of the word decision—cis or cid—literally means “to cut” or “to kill.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1796">1796</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Since ultimately, having fewer options actually makes a decision “easier on the eye and the brain,” we must summon the discipline to get rid of options or activities that may be good, or even really good, but that get in the way.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1798">1798</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>That may be one reason why Stephen King has written, “To write is human, to edit is divine.”6</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1801">1801</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Condensing means saying it as clearly and concisely as possible.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1809">1809</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Thus to apply the principle of condensing to our lives we need to shift the ratio of activity to meaning. We need to eliminate multiple meaningless activities and replace them with one very meaningful activity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1818">1818</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Similarly, in our own professional or private lives we can make course corrections by coming back to our core purpose. Having a clear overarching intent, as discussed in chapter 10, enables us to check ourselves—to regularly compare our activities or behaviors to our real intent. If they are incorrect, we can edit them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1826">1826</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Becoming an editor in our lives also includes knowing when to show restraint. One way we can do this is by editing our tendency to step in.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1833">1833</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Becoming an Essentialist means making cutting, condensing, and correcting a natural part of our daily routine—making editing a natural cadence in our lives.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1839">1839</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s true that boundaries can come at a high price. However, not pushing back costs more: our ability to choose what is most essential in life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1880">1880</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Essentialists, on the other hand, see boundaries as empowering. They recognize that boundaries protect their time from being hijacked and often free them from the burden of having to say no to things that further others’ objectives instead of their own. They know that clear boundaries allow them to proactively eliminate the demands and encumbrances from others that distract them from the true essentials.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1887">1887</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>DON’T ROB PEOPLE OF THEIR PROBLEMS</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1903">1903</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Similarly, when we don’t set clear boundaries in our lives we can end up imprisoned by the limits others have set for us. When we have clear boundaries, on the other hand, we are free to select from the whole area—or the whole range of options—that we have deliberately chosen to explore.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1926">1926</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another quick test for finding your dealbreakers is to write down any time you feel violated or put upon by someone’s request.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1934">1934</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Even a small “pinch” (to use a description I think is helpful for describing a minor violation of your boundaries) that makes you feel even a twinge of resentment—whether it’s an unwanted invitation, an unsolicited “opportunity,” or a request for a small favor—is a clue for discovering your own hidden boundaries.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1935">1935</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The only thing we can expect (with any great certainty) is the unexpected. Therefore, we can either wait for the moment and react to it or we can prepare. We can create a buffer.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1978">1978</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A similar thing can happen if we forget to respect and maintain buffers in our lives. We get busy and distracted, and before we know it the project is due, the day of the big presentation has arrived—no matter how much extra time we built in.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=1990">1990</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>This time, however, she started packing a week in advance. She made certain the car was fully packed the night before so that in the morning the only thing she had to do was wake up the children and get everyone in the car. It worked. They got off early, with a good night’s sleep, nothing was forgotten, and when they hit traffic it wasn’t stressful because they had a buffer for that possibility.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2006">2006</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Nonessentialist tends to always assume a best-case scenario.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2010">2010</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Builds in a buffer for unexpected events Practices extreme and early preparation</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2021">2021</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>USE EXTREME PREPARATION</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2036">2036</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“planning fallacy.”6 This term, coined by Daniel Kahneman in 1979, refers to people’s tendency to underestimate how long a task will take, even when they have actually done the task before.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2064">2064</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One way to protect against this is simply to add a 50 percent buffer to the amount of time we estimate it will take to complete a task or project</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2078">2078</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Think of the most important project you are trying to get done at work or at home. Then ask the following five questions: (1) What risks do you face on this project? (2) What is the worst-case scenario? (3) What would the social effects of this be? (4) What would the financial impact of this be? and (5) How can you invest to reduce risks or strengthen financial or social resilience? Your</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2092">2092</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>TO ATTAIN KNOWLEDGE ADD THINGS EVERY DAY. TO ATTAIN WISDOM SUBTRACT THINGS EVERY DAY. —Lao-tzu</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2102">2102</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s counterintuitive to have the fastest person at the back of the line, but the moment he does it the pack begins to move in a single group.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2116">2116</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The question is this: What is the “slowest hiker” in your job or your life? What is the obstacle that is keeping you back from achieving what really matters to you? By systematically identifying and removing this “constraint” you’ll be able to significantly reduce the friction keeping you from executing what is essential.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2128">2128</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>the Essentialist simply makes a one-time investment in removing obstacles.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2141">2141</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>An Essentialist produces more—brings forth more—by removing more instead of doing more.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2150">2150</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We can’t know what obstacles to remove until we are clear on the desired outcome.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2157">2157</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So just as Alex fixes the least efficient machine first, followed by the second least efficient, and so on—instead of trying to fix them all at once—we too must tackle the removal of obstacles one by one.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2171">2171</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Removing obstacles does not have to be hard or take a superhuman effort. Instead, we can start small. It’s kind of like dislodging a boulder at the top of a hill. All it takes is a small shove, then momentum will naturally build.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2189">2189</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>EVERY DAY DO SOMETHING THAT WILL INCH YOU CLOSER TO A BETTER TOMORROW. —Doug Firebaugh</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2194">2194</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The way of the Nonessentialist is to go big on everything: to try to do it all, have it all, fit it all in.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2216">2216</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The way of the Essentialist is different. Instead of trying to accomplish it all—and all at once—and flaring out, the Essentialist starts small and celebrates progress.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2218">2218</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Starts small and gets big results Celebrates small acts of progress</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2223">2223</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work,” they said.5</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2242">2242</location>
+      <note>eq, Teresa Amabile,Steven Kramer</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>we need to start small and build momentum.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2246">2246</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As former Stanford professor and educator Henry B. Eyring has written, “My experience has taught me this about how people and organizations improve: the best place to look is for small changes we could make in the things we do often. There is power in steadiness and repetition.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2248">2248</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A popular idea in Silicon Valley is “Done is better than perfect.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2279">2279</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The idea is, “What is the simplest possible product that will be useful and valuable to the intended customer?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2282">2282</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Similarly, we can adopt a method of “minimal viable progress.” We can ask ourselves, “What is the smallest amount of progress that will be useful and valuable to the essential task we are trying to get done?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2283">2283</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>I would share a short idea (my minimal viable product) on Twitter. If it seemed to resonate with people there, I would write a blog piece on Harvard Business Review. Through this iterative process, which required very little effort, I was able to find where there seemed to be a connection between what I was thinking and what seemed to have the highest relevancy in other people’s lives.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2286">2286</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Early and small” means starting at the earliest possible moment with the minimal possible time investment.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2296">2296</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Often just ten minutes invested in a project or assignment two weeks before it is due can save you much frantic and stressed-out scrambling at the eleventh hour.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2297">2297</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Take a goal or deadline you have coming up and ask yourself, “What is the minimal amount I could do right now to prepare?”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2298">2298</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is something powerful about visibly</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2310">2310</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>ROUTINE, IN AN INTELLIGENT MAN, IS A SIGN OF AMBITION. —W. H. Auden</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2316">2316</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>He also gave Phelps a routine for what to think about as he went to sleep and first thing when he awoke. He called it “Watching the Videotape.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2330">2330</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Essentialist designs a routine that makes achieving what you have identified as essential the default position.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2349">2349</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Designs a routine that enshrines what is essential, making execution almost effortless Makes the essential the default position</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2354">2354</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Without routine, the pull of nonessential distractions will overpower us. But if we create a routine that enshrines the essentials, we will begin to execute them on autopilot.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2356">2356</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Think about the first time you had to perform a certain critical function at work. At first you felt like a novice. You probably felt unsure and awkward. The effort to focus drained your willpower. Decision fatigue set in. You were probably easily distracted. This is perfectly normal. But once you performed the function over and over, you gained confidence.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2368">2368</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There is another cognitive advantage to routine as well. Once the mental work shifts to the basal ganglia, mental space is freed up to concentrate on something new.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2373">2373</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The work Mihaly Csikszentmihalyi has done on creativity demonstrates how highly creative people use strict routines to free up their minds. “Most creative individuals find out early what their best rhythms are for sleeping, eating, and working, and abide by them even when it is tempting to do otherwise,” Mihaly says. “They wear clothes that are comfortable, they interact only with people they find congenial, they do only things they think are important. Of course, such idiosyncrasies are not endearing to those they have to deal with.… But personalizing patterns of action helps to free the mind from the expectations that make demands on attention and allows intense concentration on matters that count.”6</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2382">2382</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The danger is that we may develop routines that are counterproductive. Without being fully aware, we can get caught in nonessential habits—like checking our e-mail the second we get out of bed every morning, or picking up a doughnut on the way home from work each day, or spending our lunch hour trolling the Internet instead of using the time to think, reflect, recharge, or connect with friends and colleagues.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2399">2399</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What this means is that if we want to change our routine, we don’t really need to change the behavior. Rather, we need to find the cue that is triggering the nonessential activity or behavior and find a way to associate that same cue with something that is essential.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2413">2413</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Ray has followed an extraordinarily consistent routine. He wakes up at 5:30 A.M. every single morning, including Saturday and Sunday (as he’s done for more than fifty years). He then exercises for an hour. He eats breakfast at 7:30 A.M. and arrives at work at 8:15 A.M. Dinner is at 6:30 P.M. with his family. Bedtime is 10:00 P.M. But what really enables Ray to operate at his highest level of contribution is that throughout the day, his routine is governed by a single rule: “Focus on the hardest thing first.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2434">2434</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>LIFE IS AVAILABLE ONLY IN THE PRESENT MOMENT. IF YOU ABANDON THE PRESENT MOMENT YOU CANNOT LIVE THE MOMENTS OF YOUR DAILY LIFE DEEPLY. —Thich Nhat Hanh</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2461">2461</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It is all based on a simple but powerful idea: to operate at your highest level of contribution requires that you deliberately tune in to what is important in the here and now.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2479">2479</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Do you spend more time thinking about the things you can’t control rather than the things you can control about the areas where your efforts matter? Do you ever find yourself busy trying to mentally prepare for the next meeting, or the next assignment, or the next chapter in your life, rather than being fully present in the current one?</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2483">2483</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Kairos is different. While it is difficult to translate precisely, it refers to time that is opportune, right, different. Chronos is quantitative; kairos is qualitative. The latter is experienced only when we are fully in the moment—when we exist in the now.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2489">2489</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The way of the Essentialist is to tune into the present. To experience life in kairos, not just chronos.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2495">2495</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>What we can’t do is concentrate on two things at the same time. When I talk about being present, I’m not talking about doing only one thing at a time. I’m talking about being focused on one thing at a time. Multitasking itself is not the enemy of Essentialism; pretending we can “multifocus” is.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2531">2531</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When faced with so many tasks and obligations that you can’t figure out which to tackle first, stop. Take a deep breath. Get present in the moment and ask yourself what is most important this very second—not what’s most important tomorrow or even an hour from now. If you’re not sure, make a list of everything vying for your attention and cross off anything that is not important right now.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2549">2549</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Getting the future out of your head enables you to more fully focus on “what is important now.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2553">2553</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So now, as he gets to the door of his house, he applies what he calls “the pause that refreshes.” This technique is easy. He stops for just a moment. He closes his eyes. He breathes in and out once: deeply and slowly. As he exhales, he lets the work issues fall away. This allows him to walk through the front door to his family with more singleness of purpose.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2566">2566</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It supports the sentiment attributed to Lao Tzu: “In work, do what you enjoy. In family life, be completely present.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2568">2568</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Pay attention through the day for your own kairos moments. Write them down in your journal. Think about what triggered that moment and what brought you out of it. Now that you know what triggers the moment, try to re-create it.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2578">2578</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>BEWARE THE BARRENNESS OF A BUSY LIFE. —Socrates</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2584">2584</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In the latter, it is a different way—a simpler way—of doing everything. It becomes a lifestyle. It becomes an all-encompassing approach to living and leading. It becomes the essence of who we are.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2607">2607</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But the way of the Essentialist isn’t just about success; it’s about living a life of meaning and purpose.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2641">2641</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As these ideas become emotionally true, they take on the power to change you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2647">2647</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Greeks had a word, metanoia, that refers to a transformation of the heart.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2648">2648</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In many ways, to live as an Essentialist in our too-many-things-all-the-time society is an act of quiet revolution.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2657">2657</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Choosing to push back a work deadline in order to go camping with my children</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2673">2673</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Choosing to regularly spend a whole day on that day’s priority, even if it means doing nothing else on my to-do list</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2675">2675</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As the Dalai Lama, another true Essentialist, has said: “If one’s life is simple, contentment has to come. Simplicity is extremely important for happiness.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2708">2708</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The life of an Essentialist is a life of meaning. It is a life that really matters.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2711">2711</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The second is the pathetically tiny amount of time we have left of our lives. For me this is not a depressing thought but a thrilling one. It removes fear of choosing the wrong thing. It infuses courage into my bones. It challenges me to be even more unreasonably selective about how to use this precious—and precious is perhaps too insipid of a word—time.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2719">2719</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>keeps his own mortality front and center.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2722">2722</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“What is essential?” Eliminate everything else.</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2727">2727</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>DEBATE UNTIL YOU HAVE ESTABLISHED A REALLY CLEAR (NOT PRETTY CLEAR) ESSENTIAL INTENT</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2790">2790</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Out of all virtues simplicity is my most favorite virtue. So much so that I tend to believe that simplicity can solve most of the problems, personal as well as the world problems. If the life approach is simple one need not lie so frequently, nor quarrel nor steal, nor envy, anger, abuse, kill. Everyone will have enough and plenty so need not hoard, speculate, gamble, hate. When character is beautiful, you are beautiful. That is the beauty of simplicity.3</text>
+      <location url="kindle://book?action=open&amp;asin=B00G1J1D28&amp;location=2830">2830</location>
+      <note>eq, Ea Bhatt</note>
+    </highlight>
+  </highlights>
+</book>

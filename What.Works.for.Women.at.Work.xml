@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>What Works for Women at Work: Four Patterns Working Women Need to Know</title>
+  <authors>Joan C. Williams, Rachel Dempsey</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>1. Prove-It-Again! 2. The Tightrope 3. The Maternal Wall 4. Tug of War</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=98">98</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>1. Prove-It-Again! is exactly what it sounds like: women have to prove themselves over and over again much more so than men in order to be seen as equally competent.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=183">183</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Tightrope is prescriptive bias, which stems from assumptions about how women should behave. The Tightrope describes a double bind: women often find that if they behave in traditionally feminine ways, they exacerbate Prove-It-Again! problems; but if they behave in traditionally masculine ways, they are seen as lacking social skills.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=185">185</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Maternal Wall consists of both descriptive bias, in the form of strong negative competence and commitment assumptions triggered by motherhood, and prescriptive bias—disapproval on the grounds that mothers should be at home or working fewer hours. Women with children are routinely pushed to the margins of the professional world.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=188">188</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The Tug of War occurs as each woman tries to navigate her own path between assimilating into masculine traditions and resisting them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=191">191</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The test for whether or not you can hold a job should not be the arrangement of your chromosomes. —BELLA ABZUG</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=321">321</location>
+      <note>eq</note>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And yet for all our differences, there’s one thing we all have in common: “The advantage of being a woman,” said one New Girl, “is when they try to kick you in the balls, they always miss.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=631">631</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Remember, as always, the three T’s—timing, tone, and tier.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=794">794</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So the single most important part of your Prove-It-Again! Action Plan is to keep careful records of your accomplishments with original documents in real time:</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1001">1001</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>your fingertips when you need them. To do that, you need to get organized. Here are four simple steps: 1. When someone gives you a compliment, make sure you have a record of it. 2. If it’s in an e-mail, thank the sender by return e-mail and keep a copy. 3. If the compliment is verbal, send an e-mail thanking the person for the compliment, making sure you repeat enough of what was said so that someone reading the e-mail understands the compliment and the context in which it was given. 4. If you have a success measured by an objective metric—say you bring in a new client, make a big sale, or win a motion in court— keep track of it in real time. Keep a special file for this purpose. Don’t put off the record keeping until later. Life moves fast.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1007">1007</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>5. Do spend the time to quantify or document your accomplishments, translating them into objective metrics if possible.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1015">1015</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>cheaper.” Another New Girl referred us to the Performance Image Exposure model, developed by businessman Harvey Coleman, which holds that performance is only one small component of success. The other two elements—Image, or deciding how you want other people to see you, and Exposure, or advertising yourself—are just as important and are often overlooked by those who think hard work alone will help them get ahead.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1026">1026</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>one New Girl. If you explain away your successes and internalize your failures, it’s much easier for others to do the same—at which point your negative opinions about yourself gain external endorsement.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1040">1040</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Honesty is the best policy, but it may not be the best strategy,” she mused. Of course, she didn’t lie. She just displayed the confidence that she could parlay her experience into future successes.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1062">1062</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It’s a good first step: get over yourself. Stop questioning your own abilities. Be confident and it will increase others’ confidence in you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1074">1074</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Recognize what gives you energy and what drains you, both in and out of work.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1178">1178</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Know what helps</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1182">1182</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>People tend to conflate sex and gender and assume that all men are masculine and all women are feminine.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1261">1261</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Gender is the collection of characteristics that constitutes the social identity of men and women.7 To vastly oversimplify a complicated theory, social theorist Judith Butler proposes that all gender is at some level a performance.8</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1262">1262</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Understanding gender in this way, rather than as a natural binary, highlights that everyone performs gender somewhat differently, and most of us, regardless of biological sex, have some characteristics typically coded as “masculine” and some characteristics coded as “feminine.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1265">1265</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In popular culture, women are often grouped into two camps: the femme and the tomboy. Femmes tend to be more traditionally feminine, and tomboys more traditionally masculine.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1271">1271</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>example. Studies show both that women tend to present themselves more modestly than men and that a modest self-presentation tends to undermine perceived competence.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1326">1326</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>High-status people speak louder and more rapidly than low-status ones, maintain a high level of eye contact with lowered brows and a backward body lean, and are more likely to point.16 Low-status people are soft-spoken, slump, and make little eye contact.17 It’s pretty clear which style is masculine and which is feminine.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1328">1328</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The study documented that traditionally feminine postures, like sitting in a chair with legs crossed and hands folded, are “low power pose[s].”19 The authors found that high power posers, male or female, experience increases in testosterone, decreases in cortisol, and increased feelings of power and tolerance for risk. Low power posers not only looked less self-confident. They literally became less self-confident.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1333">1333</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Verbal deference may feel natural and comfortable for women, but studies show they only do it when men are around.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1352">1352</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“I’m sure people have said that to me a million times: ‘Boy, you act like a guy’ or ‘Why aren’t you more feminine?’ or something. And I’m sure I said, ‘F**k you, asshole,’ and forgot about it like five minutes later,” one self-professed tomboy told us.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1449">1449</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“The ‘what-a-bitch’ thing doesn’t happen at lower levels, unless it’s a peer, because men would say they’re not important enough to really care about,” said an executive who’s been called a bitch more than once. “You only are going to be called a bitch when you can actually do something to them.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1476">1476</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>other words, one of the functions of workplace sexual harassment is to police women into a specific form of femininity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1514">1514</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another woman in the study said she had observed that women of all sexual orientations take on the persona of a “power dyke”—slang for a professionally successful lesbian. “The power dyke is a very common look around the office, straight or gay, because it’s the stereotype of a very strong woman. If you look at the stereotype of a power dyke, a woman who wants to escalate very quickly through the organisation, who doesn’t act like a man, but has a very male quality, a corporate quality.”46</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1577">1577</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So what’s a woman to do? Damned if you dress up, damned if you dress down: that’s the Tightrope.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1617">1617</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Did I go through the bowtie phase, the Oxford shirts and the bow ties and the navy suits?” asks one executive. “Of course, everybody did. But, man, as soon as I felt I could wear a dress with a jacket—and then without a jacket—I felt like my life had changed.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1634">1634</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Wear what makes you feel comfortable, confident, and professional. But there may be times when it’s advantageous to dress the part.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1637">1637</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Wear whatever you want, but know that you’re sending strong signals with your clothing, so make sure they’re the signals you want to be sending.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1640">1640</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>We tend to think of our voice and our speech patterns as ingrained characteristics, like height or eye color, but the fact is we change them, either consciously or unconsciously, countless times over the course of our lives and even our days. Try paying attention to what your voice sounds like in different contexts. Do you use the same pitch when you’re talking to your boss, your co-workers, your partner, your children? Do you sound the same right after you wake up and once you’ve had your first cup (or four) of coffee? Record yourself and listen to the playback—do you sound the same on the recording as you do when you hear yourself talk?</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1663">1663</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>You need to take conscious control of how you present yourself. Know your own voice(s)—and use them.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1673">1673</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Hale Alter recommends that you distribute your weight evenly on your feet as much as possible and avoid small signs of discomfort, such as self-touch (when you, for example, rub the palm of your hand with your thumb or play with the fabric on your pants) or smiling too much.57</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1681">1681</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A former attorney who now works as a consultant said when she’s in meetings, she tries to make sure her “body takes up some amount of space, rather than sitting there closed off.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1686">1686</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Whether you tend masculine or feminine, the confidence you project sends strong messages about how seriously you expect to be taken.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1695">1695</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Not that any of us actually knows what we’re doing all the time—but as one officer at a Fortune 500 company said, act like a duck: “Glide on the surface and paddle like hell underneath.” “How you ask questions, where you sit in a room, how you dress and carry yourself, all say, ‘I like me,’ ” she said. “That doesn’t mean I’m arrogant or insufferable. But it does say there’s no self-loathing here.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1696">1696</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>It may require you to rethink some of the givens of your personality— things you laid down in middle school or high school and have considered closed questions for years, things like how you pitch your voice, how you stand, or how you strike a balance between niceness and authority.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1701">1701</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Know thyself. Women need to have higher self-awareness than men do, according to sociologists Olivia O’Neill and Charles O’Reilly.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1794">1794</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In fact, the study found that masculinity was positively correlated with success for the high self-monitoring women and negatively correlated with success for the low self-monitoring women.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1797">1797</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>And in the same way that picturing your audience in their underwear makes them seem less intimidating when you’re giving a presentation (or so goes the old piece of advice), having a sense of humor can help you maintain your equanimity in the face of things that seem infuriating or unfair.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1834">1834</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“One style I have seen work is the big sister with the big personality.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1851">1851</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Women need to operate in narrower emotional channels than men.”21</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1870">1870</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Explaining why a situation makes you angry subverts stereotypes by tying your anger to an external cause.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1889">1889</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“If you’re usually a relentlessly positive person, and you are really angry, I think it gets people’s attention,” said one professor.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1891">1891</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>She added that it has the most impact when you can avoid diluting it with other emotions, such as panic or insecurity.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1892">1892</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One attorney told us she rarely gets angry, but when she does, she makes sure it’s clear on her face—a trick she picked up in the courtroom that’s just as applicable in the office.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1893">1893</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>When you do show anger, it’s important to do it in a way that doesn’t humiliate the subject of your wrath.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1917">1917</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The principle of self-promotion is simple: you can’t expect to get credit for accomplishments no one knows about.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1942">1942</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Making sure your team’s achievements are recognized is part of being a good leader—but if you’re savvy, it’s also part of making sure your talents as a leader are recognized, too.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1955">1955</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A sociology professor said she always tells people to display the awards that they’ve won and make sure their resume is widely available.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=1964">1964</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another New Girl told us about a vice president who sat her down at her first job after business school and told her, “You have to have a mindset that you work for yourself.” “Every company that you work for, what they ideally want is they want you to work 24 hours a day, seven days a week,” the woman told her. “It’s a natural thing that any good company wants from good employees, and it’s up to you to draw the boundaries. A company is never going to draw the boundaries, and don’t expect them to. You have to draw the boundaries.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2057">2057</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>“Don’t apologize. Don’t try to go back and prove it over and over and over again. Take the stance here that you’ve already proved it, okay? And approach it that way, because if you allow them to, they will back you down every time and make you keep proving it.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2179">2179</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Just be sure to apologize because you’ve done something that warrants an apology, rather than as a general social lubricant.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2184">2184</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In 2012, legal website Above the Law published an interview that quoted NYU professor Anna Akbari saying, “In interview situations in particular, women should always wear a skirt or dress, as it is heavily favored over pants by interviewers (many of whom are men).”f</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2228">2228</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In a country where the workplace is structured around an ideal worker who’s on call 24/7 and motherhood is characterized by the model of a mother always available to her children, it’s hard to balance work and family.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2278">2278</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Contrary to the perception that women who leave the workplace are prompted by “a ‘last straw’ moment like an epiphany,” Stone found that “it was deliberate and thoughtful, long and protracted, complex, and except for the women who had always intended to stay home, difficult and doubt-filled.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2331">2331</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If you’re a working mother, chances are you’ve had someone tell you, “I just don’t know how you do it.” It’s meant as a compliment, but it rubs many women the wrong way.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2419">2419</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>In professional settings, “time becomes a proxy for dedication and excellence,” note sociologist Cynthia Fuchs Epstein and colleagues,</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2538">2538</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>She’s far from the only woman to have fallen into the trap of expecting her spouse to act like her father did. Having a baby triggers traditional gender expectations even more than getting married does.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2648">2648</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Couples often report that it negatively impacts the quality of their relationship.o Conflict over the division of labor is a key reason.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2650">2650</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So remember: part of being a good mom is to let go enough to let your partner develop parenting skills. Give him (or her) room. Don’t hover.t</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2656">2656</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The conclusion is one that Supreme Court justice Ruth Bader Ginsburg highlighted long ago: women will never achieve equality until men do.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2672">2672</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>To quote one New Girl, “Look at your daughters and ask yourself, why is it that you’re encouraging her to do really well on her standardized tests? Why is it you’re encouraging her to stay up all night to do fabulous essays so she gets into the best college? Why is it you want her to be a champion soccer player? Where is that leading her? If we can’t fix the road ahead of her, she is going to go running into the wall that so many of us have run into.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2685">2685</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>There’s no way to be a perfect mother, and a million ways to be a good one. —JILL CHURCHILL</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2690">2690</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>COMMENT: “How do you get it all done? You must be so overwhelmed.” COMEBACK: “Well, the house elves make it a lot easier!”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2760">2760</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Tell them that Tolstoy was wrong. Happy families are not all alike.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2767">2767</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>A businesswoman told us the advice another working woman had given her: “You just can’t do all the little things your mother probably did. And you have to pick and choose and decide what’s going to give you joy and passion and will be important to your children and what just doesn’t matter that much.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2786">2786</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Remember: the emotional tone of how you approach family life is more important than making sure your child’s Halloween costume is perfect.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2789">2789</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Joan tells younger mothers that the clouds part when the youngest child is four—and when the youngest is 12, you get your life back.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2805">2805</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Despite the stress caused by work-family tensions, numerous studies confirm that having a job keeps women happy and healthy.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2816">2816</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>As Meers and Strober explain, “If work makes you hum, your whole family sings along. By contrast, if staying home makes you miserable—well, fill in the blanks.”</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2820">2820</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Your kids will do what you do, not what you say, and if you’re proud of your job, they may well grow up to be proud of you.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2823">2823</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Perhaps the most important thing, regardless of whether you choose to bring your family life into the office, is to make sure you don’t turn into the woman who mistook her job for a life.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2872">2872</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One New Girl said she developed a ritual with her children that she would have lunch with them two times a week—which, in turn, made it easier when unexpected deadlines or big projects ate into her family time.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2877">2877</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Another woman this New Girl knows tells her children at the beginning of every semester to pick three events they want her to attend. They get to pick, and no matter what, she will be there.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2883">2883</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>businesswoman Ann Misiaszek Sarnoff sums up her strategy in one word: buckets. She separates family duties into three categories: things that are essential for her to do herself, like go to a child’s talent show or soccer game; things that she and her husband can take turns covering, like doctor’s appointments or class dinners; and things that are “completely delegable,” like chores.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2891">2891</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Ginsburg has said a supportive partner who is willing to share family work “is a must for any woman who hopes to combine marriage and a career.”17</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2906">2906</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>At a minimum, set up specific times that fit into his schedule when he’s responsible for the child.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2945">2945</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>If it’s his turn and he doesn’t come through, that’s a big deal. Treat it like a big deal. Go to a marriage counselor and work it out—for your sake, for his, and for the sake of your kids.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2946">2946</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>But when women don’t give their spouses autonomy in how to do household tasks, it’s pretty much certain that they won’t contribute equally.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=2964">2964</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Mentioning your children as little as possible helps lessen descriptive bias, since these biases emerge as a result of assumptions about how the typical mother will behave. There is, however, an alternative.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3045">3045</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The first is to plot a strategy for handling the strongest form of gender bias, triggered by motherhood. Forewarned is forearmed. To counter the negative assumptions associated with motherhood, you need to take proactive steps to counter the stereotypes that a mother who is not in her office is home doing the hokey pokey with her kids, that mothers aren’t committed, or that your family will move for your partner’s job but never for yours.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3068">3068</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The next step is to look inward. Most women also have to address both the ideal-mother-in-your-head and the ideal-worker-in-your-head. The saddest aspect of work-family conflict is that all the qualities that make you a good person—your high ideals for both work and family—become your Achilles heel.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3072">3072</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>So remember: it’s impossible to be both the ideal worker always available to her employer and the ideal mother always available to her children. That’s the bad news. Here’s the good news: both ideals are seriously flawed. What works for most people is balance—all kinds of balance, but balance between work and family is a good place to start.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3075">3075</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>important—gender bias against women often fuels conflict among women.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3095">3095</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Once Andrea was described as both successful and feminine—not an easy person to find fault with—they reported feeling inadequate.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3200">3200</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The experimenters theorized that the women in the first group reacted negatively to Andrea because they assumed they were unlikely to equal her success.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3202">3202</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Sometimes other women’s competence or good looks can make them as threatening as their faults.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3270">3270</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Once again, it’s important to recognize that these conflicts stem not from the defects or shortcomings of individual women but rather from a system that presents women with two mutually exclusive ideals and then punishes them for failing to live up to both.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3456">3456</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>The most important thing we as individuals can do to combat the Tug of War is to recognize that all women have had to make difficult tradeoffs, and they have responded in very different ways. None of us have made perfect choices because none of us had perfect options.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3537">3537</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One important strategy in defusing gender wars is simply to recognize that you will meet some women over the course of your career with whom you have very little in common, and that’s fine.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3558">3558</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Don’t let your anger control you, and if you feel you need to draw a line in the sand, make sure you name the business goal that makes it important to do so.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=3571">3571</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>One attorney said she left the law firm world after she realized it was literally making her sick. Everyone assumed she was looking to start a family, but the reality was that she just didn’t want that lifestyle any longer. “Migraines, back pain, skin peeling, insomnia, chills. You name it, whatever thing you could have—it just got to that point.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=4568">4568</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Ask for constructive criticism. “Listen to it and shut your mouth; process it without being defensive. As soon as you open your mouth, the advice stops,” warns one New Girl.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=4645">4645</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Savvy is a threshold requirement for women.</text>
+      <location url="kindle://book?action=open&amp;asin=B00GXA1QN6&amp;location=4916">4916</location>
+    </highlight>
+  </highlights>
+</book>
