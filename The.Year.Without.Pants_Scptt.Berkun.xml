@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<!--
+    The "isNoteOnly" attribute on the highlight element indicates that the child
+    text element contains automatically selected context around a user's note, but
+    was not text explicitly highlighted by the user.
+-->
+<book>
+  <title>The Year Without Pants: WORDPRESS.Com and the future of work</title>
+  <authors>Scott Berkun</authors>
+  <highlights>
+    <highlight isNoteOnly="false"> 
+  <text>
+    The general workflow at Auttomatic had seven steps:
+    1. <em>Pick a problem</em>. A basic problem or idea for WordPress.com is chosen. It could be something like, "It's too hard to print blog posts," or, "Let users share from WordPress to Facebook." There are always hundreds of ideas and dozens of opinions about which ideas are important. There's no formal system for deciding, but many came from Mullenweg or as suggestions from Happiness folks. After an idea is chosen, discussion begins on how it works.
+    2. <em>Write a launch announcement and a support page.<em> Most features are announced to the world after they go live on WordPress.com. But long before launch, a draft launch announcement is written. This sounds strange. How can you write an announcement for something that doesn't exist? The point is that if you can't imagine a compellingly simple explanation for customers, then you don't really understand why the feature is worth building. Writing the announcement first is a forcing function. You're forced to question if your idea is more exciting for you as the maker than it will be for your customer. If it is, rethink the idea or pick a different one.
+    3. <em>Consider what data will tell you it works.</em> Since it's a live service, learn from what users are doing. The plan for a new feature must consider how its positive or negative impact on customers can be measured. For example, if the goal is to improve the number of comments bloggers get from readers, we'd track how many comments visitors write each day before and after the change.
+    4. <em>Get to work.</em> Designers design. Programmers program. Periodically someone checks the launch announcement to remind everyone of the goal. As more is learned about what's possible, the announcement becomes more precise. Sometimes the feature pivots into something different and better.
+    5. <em>Launch.</em> When the goal of the work has been met, the feature launches. It's often smaller in scope than the initial idea, but that's seen as a good thing. The code goes live, and there is much rejoicing.
+    6. <em>Learn.</em> Data is captured instantly and discussed, often hourly, by the folks who did the work. Bugs are found and fixed. For larger features, several rounds of revisions are made o design.
+    7. <em>Repeat</em>
+  </text>
+      <location>59,60</location>
+    </highlight>
+   <highlight isNoteOnly="false">
+  <text>
+    A simple process affords three things:
+    1. It is easy to launch projects.
+    2. If it's easy to launch, small projects will get launched.
+    3. If small things are launched, there is a fast feedback loop about what worked and what didn't, which can be quickly improved because of #1.
+  </text>
+      <location>61</location>
+    </highlight>
+
+    <highlight isNoteOnly="false"> 
+  <text>
+    It’s always a bad idea to name things after how they work or to fit into brand strategy. The best feature names simply describe what the thing does.
+  </text>
+      <location>62</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+           <text>
+    The ultimate question of any advice, rules, or traditions is, What do you ignore and why? No one can ever follow it all. This is the <em>advice paradox</em>: no matter how much advice you have, you must still decide intuitively what to use and what to avoid. Even if you seek meta-advice, advice on which advice to take, the paradox still applies as you make the same choice about that advice too.
+  </text>
+      <location>74</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+  <text>
+    All traditions are inventions; it's just a question of how old the invention is.
+  </text>
+      <location>75</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+  <text>
+    Many employees at Automattic were what's called T-shaped, meaning they had one very deep skill set, and a wide range of moderate proficiencies.
+  </text>
+      <location>79</location>
+    </highlight>
+
+    <highlight isNoteOnly="false">
+  <text>
+    Diversity of skill makes people self-sufficient. They didn't need much help to start projects and were unafraid to learn skills to finish them. This self-sufficiency prevented the need for paternalistic management. They did not want to be coddled. They weren't afraid to get their hands dirty in tasks that in a mature engineering company would span the turf of three or four different job titles. That lack of specialization made people better collaborators since there was less turf to fight over. The culture valued expertise more than process: people were happy to lend expertise they had or to teach others what they knew.
+  </text>
+      <location>79,80</location>
+    </highlight>
+
+  <highlight isNoteOnly="false">
+  <text>
+    If you imagine the architect of a towering skyscraper or the director of a big-budget motion picture, you probably envision a singular brilliant tyrant who has detailed plans for how everything will be done. This is <em>cathedral-style</em> thinking.
+    …
+    For the alternative, imagine a young punk rock band jamming together. They start with something small, a few basic chords, but quickly revise it, and revise it again, each contributing, borrowing, experimenting, and collaborating as they wish.  This si the <em>bazaar>/em>
+  </text>
+      <location>107</location>
+<note>to read, Eric Raymond, The Cathedral and the Bazaar</note>
+       </highlight>
+
+
+
+    <highlight isNoteOnly="false">
+  <text>
+    We'd fallen into the classic project trap, the trap that makes ends harder than the beginnings.
+    
+    Projects accumulate a pile of annoying tasks people postpone, but in order to ship the product, that pile must be emptied. Things that are less fun to do are usually harder to do, which means the pile isn't ordinary work but a pile of unloved, unwanted, complex work:
+    
+      1. We do things we like first.
+      2. We do things we don't like last.
+      3. The things we don't like tend to be harder.
+      4. Late changes have cascading effects.
+    
+    This means that at the end of nay project, you're left with a pile of things no one wants to do and are the hardest to do (or worse, no one is quite sure how to do them).
+</text>
+      <location>147</location>
+       </highlight>
+
+    <highlight isNoteOnly="false">
+  <text>
+    1. Break assignments into smaller pieces.
+    2. If there is no progress, go to #1 and repeat.
+  </text>
+      <location>217</location>
+    </highlight>
+     </highlights>
+</book>

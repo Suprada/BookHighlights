@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<book>
+	<title>
+		The Dip
+	</title>
+	<authors>
+		Seth Godin
+	</authors>
+	<source>
+		Library paper book
+	</source>
+	<highlights>
+		<highlight isNoteOnly="false">
+			<highlightID>1</highlightID>
+			<text>
+				Extraordinary benefits accrue to the tiny minority of people who are able to push just a tiny bit longer than most.
+			</text>
+			<location>4</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>2</highlightID>
+			<text>
+				You really can't try to do everything, especially if you intend to be the best in the world.
+			</text>
+			<location>6</location>
+			<note>essentialism?</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>3</highlightID>
+			<text>
+				With limited time or opportunity to experiment, we intentionally narrow our choices to those at the top.
+			</text>
+			<location>9</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>4</highlightID>
+			<text>
+				<em>Best</em> as in: best for them, right now, based on what they believe and what they know. And <em>in the world</em> as in: their world, the world they have access to.
+			</text>
+			<location>10</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>5</highlightID>
+			<text>
+				The problem with infinity is that there's too much of it.
+				And  in just about every market, the number of choices is approaching infinity. Faced with infinity, people panic.
+			</text>
+			<location>12</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>6</highlightID>
+			<text>
+				Just about everything you learned in school about life is wrong, but the wrongest thing might very well be this: Being well rounded is the secret to success.
+			</text>
+			<location>14</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>7</highlightID>
+			<text>
+				In a free market, we reward the exceptional.
+				In school, we tell kids that once something gets too hard, move on and focus on the next thing. The low-hanging fruit is there to be taken; no sense wasting time climbing the tree.
+			</text>
+			<location>14,15</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>8</highlightID>
+			<text>
+				In fact,the people who are  the best in the world specialize at getting really good at the questions they don't know. The people who skip the hard questions are in the majority, but they are not in demand.
+			</text>
+			<location>15</location>
+			<note></note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>9</highlightID>
+			<text>
+				<em>Strategic</em> quitting is the secret o successful organizations. Reactive quitting and serial quitting are teh bane of those that strive (and fail) to get what they want.
+				...
+				They quit when it's painful and stick when they can't be bothered to quit.
+			</text>
+			<location>16</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>10</highlightID>
+			<text>
+				The Dip is the long slog between starting and mastery. A long slog that's actually a shortcut, because it gets you where you want to go fastr than any other path.
+			</text>
+			<location>17</location>
+			<note>what is the dip</note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>11</highlightID>
+			<text>
+				IMPORTANT NOTE: Successful people don't just ride out the Dip. They don't just buckle down and survive it. No, they lean into the Dip. they push harder, changing the rules as they go. Just because you know you're in the DIp doesn't mean you have to live happily with it. Dips don't last quite as long while you whittle at them.
+			</text>
+			<location>19</location>
+			<note></note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>12</highlightID>
+			<text>
+				The Cul-de-Sac (French for "dead end") is so simple it doesn't even need a chart. It's a situation where you work and you work and you work and nothing much chnages. It doesn't get a lot beter, it doesn't get a lot worse. It just is.
+			</text>
+			<location>19</location>
+			<note>cul-de-sac</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>13</highlightID>
+			<text>
+				There's not a lot to say about the Cul-de-Sac except to realize it exists and to embrace that when you find one, you need to get off it, fast.
+			</text>
+			<location>20</location>
+			<note>dead end</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>14</highlightID>
+			<text>
+				When it comes right down to it, eight down to the hard decisions, are you quitting ny project that isn't a Dip? Or is it just easier not to rock the boat, to hang in there, to avoid the short-term hassle of changing paths? What's the point of sticking it out if you're notgoing to get the benefits of being the best in the world? Are you over-investing (really significantly overinvesting) time and money so that you have a much greater chance of dominating a market? And if you don't have enough time and money, do you hav ethe guts to pick a different, smaller market to conquer?
+			</text>
+			<location>23</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>15</highlightID>
+			<text>
+				The people who set out to make it through the Dip-the people who invest the time and energy and the effort to power through the Dip - those are the ones that become the best in the world. They are breaking the system because, instead of moving on to the next thing, instead of doing slightly above average and settling for what they've got, they embrace the challenge. For whatever reason, they refuse to abandon the quest and they push through the Dip all the way to the next level.
+			</text>
+			<location>23,24</location>
+			<note>success</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>15</highlightID>
+			<text>
+				In a competitive world, adversity is your ally. The harder it gets, the better chance you have of insulating yourself from the competition.
+			</text>
+			<location>26</location>
+			<note>compettion</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>16</highlightID>
+			<text>
+				Quitting is difficult. Quitting requires you to acknowledge that you're never going to be #1 in the world. At least not at this. So it's easier just to put it off, not admit it, settle for mediocre.
+			</text>
+			<location>30</location>
+			<note>quitting</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>17</highlightID>
+			<text>
+				People who train successfully pay their dues for he first minute or two and then get all the benefits at the very end.
+			</text>
+			<location>31</location>
+			<note>paying your dues</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>18</highlightID>
+			<text>
+				It's human nature to quit when it hurts. But it's that reflex that creates scarcity.
+				The challenge is simple: Quitting when you hit the Dip is a bad idea. If the journey you started was worth doing, then quiting when you hit the Dip just wastes time you've already invested.
+			</text>
+			<location>31</location>
+			<note>quitting</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>19</highlightID>
+			<text>
+				Simple: If you can't make it through tha Dip, don't start.
+				If you choose to embrce that simple rule, you'll be a lot choosier about which journeys you start.
+			</text>
+			<location>32</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>20</highlightID>
+			<text>
+				The Dip is actually your greatest ally because it makes the projct worthwhile (and keep others from competing with you).
+				But wait, that's not enough. Not only fo you need to find a Dip that you can caonquer but you also need to quit all the Cul-de-Sacs that you're currently idling your way through. You must quit the projects and investments and endeavprs that don't offer you the same oppirtunity. It's difficult, but it's vitally important.
+			</text>
+			<location>33</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>21</highlightID>
+			<text>
+				EDUCATION DIP - A career gets started as soon as you leave school. But the Dip often hits when it's time to go learn something new, to reinvent or rebuild your skills. A doctor who sacrifices a year of her life for a specialty reaps the rewards for deades after.
+			</text>
+			<location>37,38</location>
+			<note>a kind of dip, education dip</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>22</highlightID>
+			<text>
+				RISK DIP - Bootstrappers learn the hard way that at some point they can't pay for it all by themselves, especilly out of current income. It takes a risk to rent a bigger space or invest in new techniques. Successful entrepreneurs understand the difference between investing to get through the Dip (a smart move) or investing in something that's actually a risky crapshoot.
+			</text>
+			<location>38</location>
+			<note>a kind of dip, risk dip</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>23</highlightID>
+			<text>
+				CONCEPTUAL DIP - You got this far operating under one set of assuptions. Abandoning those assumptions and embracing a new, bigger set may be exactly what you need to do to get to the next level.
+			</text>
+			<location>38,39</location>
+			<note>a kind of dip, conceptual dip</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>24</highlightID>
+			<text>
+				Why not quit? Same reason as always. Because day to day, it's easier to stick with something that we're used to, that doesn't make too mnay waves, that doesn't hurt.
+			</text>
+			<location>40</location>
+			<note>why people don't quit</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>25</highlightID>
+			<text>
+				If you're going to quit, quit before you start. Reject the system. Don't play the game if you realzie you can't be the best in the world.
+			</text>
+			<location>43</location>
+			<note>when to quit</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>26</highlightID>
+			<text>
+				Quitting at the right time is difficult. Most of us don't have the guts to quit. Worse, when faced with the Dip, sometimes we don't quit. Instead, we get mediocre.
+			</text>
+			<location>43</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>27</highlightID>
+			<text>
+				Quit or be exceptional. Average is for losers.
+			</text>
+			<location>44</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>28</highlightID>
+			<text>
+				If you're not able to get through the Dip in an excepional way, you <em>must</em> quit. And quit right now.
+			</text>
+			<location>47</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>29</highlightID>
+			<text>
+				The problem is that only a small portion of the audience is looking for the brand-new thing. Most people are waiting for the tested, the authenticated, and the proven.
+			</text>
+			<location>49</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>30</highlightID>
+			<text>
+				Microsoft failed twice with Windows, four times with word, three times with Excel. The entire company is based on the idea of slogging through the Dip, relentlessly changingtactics but never quitting the big idea.
+			</text>
+			<location>50</location>
+			<note>on Microsoft</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>31</highlightID>
+			<text>
+				No, the opposite of quitting is <em>rededication</em>. The opposite of quitting is <em> an invigorated new strategy designed to break the problem apart</em>.
+			</text>
+			<location>51</location>
+			<note>opposite of quitting</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>32</highlightID>
+			<text>
+				The Dip is flexible. It responds to the effort you put into it. In fact, it's quite likely (in almost every case) that aggressive action on your part can make the Dip a lot worse. Or a lot better. Let's try for better.
+			</text>
+			<location>52</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>33</highlightID>
+			<text>
+				When people quit, they are often focused on the short-term benefits. In other words, "If it hurts; stop!"
+			</text>
+			<location>53</location>
+			<note>why people quit</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>34</highlightID>
+			<text>
+				Short-term pain has more impact on most impact than long-term benefits do, which is why it's so important for you to amplify the long-term benefits of not quitting.
+			</text>
+			<location>53</location>
+			<note>why people quit</note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>35</highlightID>
+			<text>
+				Persistent people are able to visualize the idea of light at the end of the tunnel when others can't see it. At the same time, the smartest people are realistic about not imagining light when there isn't any.
+			</text>
+			<location>55</location>
+			<note>persistent people</note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>36</highlightID>
+			<text>
+				Winners understand tahat taking that pain now prevents a lot more pain later. 
+			</text>
+			<location>55</location>
+			<note>winners</note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>37</highlightID>
+			<text>
+				Here's the deal, and here's what I told Doug: The time to look for a new job is when you don't need one. The time to switch jobs is before it feels comfortable. Go. Switch. Challenge yourself; get yourself a raise and a promotion. You owe it to your career and your skills.
+				If your job is a Cul-de-Sac, you ahve to quit or accept the fact that your career is over. 
+			</text>
+			<location>62,63</location>
+			<note>career advice</note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>38</highlightID>
+			<text>
+				I think the advice-giver meant to say,"Never quit something with great long-term potential just because you can't deal with the stress of the moment."
+			</text>
+			<location>64</location>
+			<note>quitting advice</note>
+		</highlight>
+		
+		<highlight isNoteOnly="false">
+			<highlightID>39</highlightID>
+			<text>
+				One reason people feel really good after they quit a dead-end project is that they discover that hurting one's pride is not fatal. You work up the courage to quit, bracing yourself for the sound of your ego being ripped to shreds - and then everything is okay.
+			</text>
+			<location>65</location>
+			<note>quitting</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>40</highlightID>
+			<text>
+				Question 1: Am I panicking?
+					The best quitters, as we've seen, are the ones who <em>decide in advance</em> when they're going to quit. You can always quit later - so wait until you're done panicking to decide.
+				Question 2: Who am I trying to influence?
+				Question 3: What sort of measurable progress am I making?
+			</text>
+			<location>66,67,68,69</location>
+			<note>questions to ask before quitting</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>41</highlightID>
+			<text>
+				Here's an assignment for you: Write it down. Write down under what circumstances you're willing to quit. And when. And then stick with it.
+			</text>
+			<location>71</location>
+			<note>quitting before you start</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>41</highlightID>
+			<text>
+				If quitting is going to be a strategic decision that enables you to make smart choices in choices in the marketplace, then you should outline your quitting strategy <em>before</em> the discomfort sets in.
+			</text>
+			<location>72</location>
+			<note>quitting before you start</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>42</highlightID>
+			<text>
+				You and your organization have the power to change everything. To create remarkable products and services. To over deliver. To be the best in the world.
+				How dare you squander that resource by spreading in too thin.
+			</text>
+			<location>74</location>
+			<note>astonishing</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>43</highlightID>
+			<text>
+				Is this a Dip, a Cliff, or a Cul-de-Sac?
+
+				If it's a Cul-de-Sac, how can I change in into a Dip?
+
+				Is my persistence going to pay off in the long run?
+
+				Am I engaged with just one person (or organization), or do my actions in this situation spill over into the entire marketplace?
+
+				When should I quit? I need to decide now, not when I'm in the middle of it, and not when part of me is begging to quit.
+
+				If I quit this task, will it increase my ability to get through the Dip on something more important?
+
+				If I'm  going to quit anyway, is there something dramatic I can do instead that might change the game?
+
+				Should I really be calling on IBM? Should I really be trying to get on Oprah?
+
+				What chance does this project have to be the best in the world?
+
+				Who decides what <em>best</em> is?
+
+				Can we make the <em>world</em> smaller?
+
+				Does it make sense to submit a resume to every single ad on Craigslist, just to see what happens?
+
+				If I like my job, is it time to quit?
+
+				Is doing nothing better than planning on quitting and then doing something great?
+
+				Are you avoiding the remarkable as a way of quitting without quitting?
+
+				<em>If it scares you, it might be a good thing to try.</em>
+			</text>
+			<location>75,76</location>
+			<note>questions</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>44</highlightID>
+			<text>
+				<em>All our successes are the same. All our failures, too.</em>
+				We succeed when we do something remarkable.
+				We fail when we give up too soon.
+				We succeed when we are the best in the world at what we do.
+				We fail when we get distracted by tasks we don't have the guts to quit.
+			</text>
+			<location>end</location>
+			<note></note>
+		</highlight>
+	
+		<highlight isNoteOnly="false">
+			<highlightID>32</highlightID>
+			<reference>Tomorrow and Tomorrow and Tomorrow</reference>	
+			<referenceauthors>Aldous Huxley</referenceauthors>
+			<toRead>1</toRead>
+			<location>153</location>
+			<note>Book to read, Essay "The  Education of an amphibian"</note>
+		</highlight>
+
+		
+		
+	</highlights>
+</book>
