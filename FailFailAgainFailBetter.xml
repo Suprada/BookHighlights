@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet xmlns="http://www.w3.org/1999/xhtml" type="text/xml" href="style.xsl"?>
+<book>
+	<title>
+		fail fail again fail better
+	</title>
+	<authors>
+		Pema Chodron
+	</authors>
+	<source>
+		Library paper book
+	</source>
+	<highlights>
+		<highlight isNoteOnly="false">
+			<highlightID>1</highlightID>
+			<text>
+				"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+				- Samuel Beckett
+			</text>
+			<location>ix</location>
+			<note>eq</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>2</highlightID>
+			<text>
+				No one ever knows what is going to happen next.
+				But these transition times - between something being set (like being a student and coming back to that each year) and things being uncertain - are times of enormous potential.
+			</text>
+			<location>7</location>
+			<note>uncertainty, transitions</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>3</highlightID>
+			<text>
+				Just prepare well and know what you want to do. Give it your best, but you really don't have a clue what's going to happen.
+
+				And note cards have limited usefulness.
+			</text>
+			<location>21</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>4</highlightID>
+			<text>
+				...to begin to question what is really happening when there is a failure.
+			</text>
+			<location>43</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>5</highlightID>
+			<text>
+				He said that mistakes can be the portals of discovery"
+				In other words, mistakes are the portal to creativity, to learning something new, to having a fresh look on things.
+			</text>
+			<location>43</location>
+			<note>he = James Joyce</note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>6</highlightID>
+			<text>
+				It is hard to tell what's a failure and what's just something that is shifting your life in a whole new direction.
+			</text>
+			<location>46</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>7</highlightID>
+			<text>
+				... getting curious about outer circumstancesand how they are impacting you, noticing what words come out and what your internal discussion is, this is the key.
+			</text>
+			<location>63</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>7</highlightID>
+			<text>
+				... get curious about what is going on and listen to the storylines.
+			</text>
+			<location>65</location>
+			<note></note>
+		</highlight>
+
+		<highlight isNoteOnly="false">
+			<highlightID>8</highlightID>
+			<text>
+				Get deeply in contact with what it feels like to be there at the end again. ... Try to hone your practice to be contacting that feeling, not the story line, and allowing yourself to really feel it.
+			</text>
+			<location>112</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>9</highlightID>
+			<text>
+				Really look at how it all gets started in the beginning, iften there's some kind of addiction or something that you're really drawn to that keeps ending with the same feeling.
+			</text>
+			<location>113</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>10</highlightID>
+			<text>
+				If you follow your heart, youre gonna feel better than if you hold back because of fear
+			</text>
+			<location>121</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>11</highlightID>
+			<text>
+				But when you follow your heart- with a career change, or wintery the book, or whatever it might be- there is no guarantee that the whole thing wont be a total failure, and there's no guarantee that you're not going to get criticisms.
+			</text>
+			<location>122</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>12</highlightID>
+			<text>
+				... attitude is everything. Attitude with a kind of lungta, which means uplifted, connected with entry the energy of life. It's seeing the glass half-full. And there's a potential for growth always in whatever is happening.
+			</text>
+			<location>130</location>
+			<note></note>
+		</highlight>
+		<highlight isNoteOnly="false">
+			<highlightID>32</highlightID>
+			<reference>Tomorrow and Tomorrow and Tomorrow</reference>
+			<referenceauthors>Aldous Huxley</referenceauthors>
+			<toRead>1</toRead>
+			<location>153</location>
+			<note>Book to read, Essay "The  Education of an amphibian"</note>
+		</highlight>
+
+	</highlights>
+</book>
